@@ -1,34 +1,7 @@
 ---
 title: Коррекция зрения лазером – операция – Почему я отказался от её проведения
-author: Отзывы
-type: post
-date: 2024-04-24T22:15:36+00:00
-url: /korrekcziya-zreniya-lazerom-operacziya-pochemu-ya-otkazalsya-ot-eyo-provedeniya/
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-longer-permalinks-post-name-longer:
-  - korrekcziya-zreniya-lazerom-operacziya-pochemu-ya-otkazalsya-ot-eyo-provedeniya
-categories:
-  - ОТЗЫВЫ
-
+slug: korrekcziya-zreniya-lazerom-operacziya-pochemu-ya-otkazalsya-ot-eyo-provedeniya
+date: 2024-04-24
 ---
 Операция НЕ лечебная, а косметическая, позволяющая всего лишь не носить очки. Возможны осложнения,в том числе, вплоть до полной потери зрения.  
 Здравствуйте. Хотел бы сразу сказать, что я никого не собираюсь отговаривать от лазерной коррекции зрения. Я лишь хочу объяснить, почему от неё отказался я, и какие доводы заставили меня принять такое решение.  

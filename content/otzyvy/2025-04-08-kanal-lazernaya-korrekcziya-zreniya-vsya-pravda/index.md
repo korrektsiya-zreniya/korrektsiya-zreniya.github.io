@@ -1,34 +1,7 @@
 ---
 title: Канал – ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ | ВСЯ ПРАВДА
-author: Отзывы
-type: post
-date: 2025-04-08T13:39:31+00:00
-url: /kanal-lazernaya-korrekcziya-zreniya-vsya-pravda/
-longer-permalinks-post-name-longer:
-  - kanal-lazernaya-korrekcziya-zreniya-vsya-pravda
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - НОВОСТИ
-
+slug: kanal-lazernaya-korrekcziya-zreniya-vsya-pravda
+date: 2025-04-08
 ---
 <div class="automatic-youtube-gallery ayg">
   <ayg-theme-classic id="ayg-2f067b6b57fb859c3bedad09e4fc1e3d" class="ayg-theme ayg-theme-classic" data-params='{"uid":"2f067b6b57fb859c3bedad09e4fc1e3d","loop":0,"autoadvance":1,"player_title":1,"player_description":1}'> 

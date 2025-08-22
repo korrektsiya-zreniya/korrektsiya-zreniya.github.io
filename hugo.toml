@@ -52,7 +52,7 @@ theme = "mainroad"
   widgets = ["search", "recent", "taglist", "social"]
 
 [Params.widgets]
-  recent_num = 2 # Set the number of articles in the "Recent articles" widget
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
@@ -112,9 +112,10 @@ url = "/sudebnye-dela/"
 weight = 70
 
 [imaging]
+  anchor = 'Smart'
   quality = 75
   [imaging.exif]
-    disableDate = false
-    disableLatLong = false
+    disableDate = true
+    disableLatLong = true
     excludeFields = ''
     includeFields = ''

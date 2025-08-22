@@ -1,48 +1,7 @@
 ---
 title: Гало эффект после лазерной коррекции зрения
-author: Отзывы
-type: post
-date: 2025-04-02T22:31:45+00:00
-url: /galo-effekt-posle-lazernoy-korrekcii-zreniya/
-longer-permalinks-post-name-longer:
-  - galo-effekt-posle-lazernoy-korrekcii-zreniya
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-ao_post_optimize:
-  - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
-site-sidebar-layout:
-  - default
-ast-site-content-layout:
-  - default
-site-content-style:
-  - default
-site-sidebar-style:
-  - default
-theme-transparent-header-meta:
-  - default
-astra-migrate-meta-layouts:
-  - set
-categories:
-  - Без рубрики
-
+slug: galo-effekt-posle-lazernoy-korrekcii-zreniya
+date: 2025-04-02
 ---
 <p class="" data-start="0" data-end="91">
   <strong data-start="0" data-end="91">Гало-эффект после лазерной коррекции зрения: причины, последствия и как с этим бороться</strong>

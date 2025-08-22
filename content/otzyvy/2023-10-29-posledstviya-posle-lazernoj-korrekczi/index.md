@@ -1,48 +1,7 @@
 ---
 title: Последствия после лазерной коррекции зрения Relex Smile⁠⁠
-author: Отзывы
-type: post
-date: 2023-10-28T23:21:11+00:00
-url: /posledstviya-posle-lazernoj-korrekczi/
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-longer-permalinks-post-name-longer:
-  - posledstviya-posle-lazernoj-korrekczi
-ao_post_optimize:
-  - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
-site-sidebar-layout:
-  - default
-ast-site-content-layout:
-  - default
-site-content-style:
-  - default
-site-sidebar-style:
-  - default
-theme-transparent-header-meta:
-  - default
-astra-migrate-meta-layouts:
-  - set
-categories:
-  - ОТЗЫВЫ
-
+slug: posledstviya-posle-lazernoj-korrekczi
+date: 2023-10-28
 ---
 Жил был миопик-амблиопик и по совместительству астигматик со зрением OS: -1,5 и OD: -6,5. Обходился как-то очками да линзами. Все было хорошо, видел он на 1 в очках, да в линзах кабы даже 1.2! Да вот вздумалось, взбрендилось, что очки &#8211; неудобно, натирают, потеют, болит голова, а линзы &#8211; пошло врастание сосудов по лимбу, затратно, неудобно возиться с раствором и т.д.  
 Увидел он рекламу дивную, чудо-чудное, что лазером можно зрение подкорректировать. Расспросил знакомых коллег, друзей, что они думают об этом явлении &#8211; лазерная коррекция зрения. Ему ответили: а я делал, мне норм. И я делал, мне норм.  

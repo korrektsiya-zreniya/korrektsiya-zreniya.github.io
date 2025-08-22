@@ -1,46 +1,7 @@
 ---
 title: Лазерная коррекция зрения должна быть запрещена, говорит бывший консультант FDA
-author: Отзывы
-type: post
-date: 2025-04-07T18:35:46+00:00
-url: /lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda/
-longer-permalinks-post-name-longer:
-  - lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-site-sidebar-layout:
-  - default
-ast-site-content-layout:
-  - default
-site-content-style:
-  - default
-site-sidebar-style:
-  - default
-theme-transparent-header-meta:
-  - default
-astra-migrate-meta-layouts:
-  - set
-categories:
-  - НОВОСТИ
-
+slug: lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda
+date: 2025-04-07
 ---
 <p style="text-align: center;">
   <p class="" data-start="154" data-end="423">

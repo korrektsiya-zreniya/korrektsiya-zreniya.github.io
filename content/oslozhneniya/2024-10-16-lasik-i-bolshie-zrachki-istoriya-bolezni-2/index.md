@@ -1,49 +1,8 @@
 ---
 title: 'LASIK и большие зрачки: история болезни 2'
-author: Отзывы
-type: post
-date: 2024-10-16T14:22:30+00:00
-url: /lasik-i-bolshie-zrachki-istoriya-bolezni-2/
-featured_image: /wp-content/uploads/2024/10/image-1.png
-longer-permalinks-post-name-longer:
-  - lasik-i-bolshie-zrachki-istoriya-bolezni-2
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-ao_post_optimize:
-  - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
-site-sidebar-layout:
-  - default
-ast-site-content-layout:
-  - default
-site-content-style:
-  - default
-site-sidebar-style:
-  - default
-theme-transparent-header-meta:
-  - default
-astra-migrate-meta-layouts:
-  - set
-categories:
-  - Широкий зрачок
-
+slug: lasik-i-bolshie-zrachki-istoriya-bolezni-2
+date: 2024-10-16
+thumbnail: /wp-content/uploads/2024/10/image-1.png
 ---
 <figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" class="alignnone wp-image-286 size-medium" src="https://korrektsiya-zreniya.net/wp-content/uploads/2024/10/image-1-300x193.webp" alt="" width="300" height="193" srcset="https://korrektsiya-zreniya.net/wp-content/uploads/2024/10/image-1-300x193.webp 300w, https://korrektsiya-zreniya.net/wp-content/uploads/2024/10/image-1.webp 425w" sizes="auto, (max-width: 300px) 100vw, 300px" /></figure> 
 

@@ -1,33 +1,8 @@
 ---
 title: г. Владимир, Мой печальный опыт лазерной коррекции зрения
-author: Отзывы
-type: post
-date: 2023-10-28T23:29:07+00:00
-url: /g-vladimir-klinika-oftalma-moi-pechal/
-featured_image: /wp-content/uploads/2023/10/1579628077142372304.jpg
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - ОТЗЫВЫ
-
+slug: g-vladimir-klinika-oftalma-moi-pechal
+date: 2023-10-28
+thumbnail: /wp-content/uploads/2023/10/1579628077142372304.jpg
 ---
  <figure class="wp-block-image aligncenter"><img decoding="async" src="https://cs10.pikabu.ru/post_img/2020/01/21/10/1579628077142372304.jpg" alt="" /></figure> 
 

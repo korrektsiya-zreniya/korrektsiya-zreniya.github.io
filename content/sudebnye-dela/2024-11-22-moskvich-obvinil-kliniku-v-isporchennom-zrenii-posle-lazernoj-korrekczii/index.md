@@ -1,34 +1,7 @@
 ---
 title: Москвич обвинил клинику в испорченном зрении после лазерной коррекции
-author: Отзывы
-type: post
-date: 2024-11-22T11:34:00+00:00
-url: /moskvich-obvinil-kliniku-v-isporchennom-zrenii-posle-lazernoj-korrekczii/
-longer-permalinks-post-name-longer:
-  - moskvich-obvinil-kliniku-v-isporchennom-zrenii-posle-lazernoj-korrekczii
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - НОВОСТИ
-
+slug: moskvich-obvinil-kliniku-v-isporchennom-zrenii-posle-lazernoj-korrekczii
+date: 2024-11-22
 ---
 «Во время коррекции мне перепутали левый и правый глаз, я стал видеть ещё хуже»
 

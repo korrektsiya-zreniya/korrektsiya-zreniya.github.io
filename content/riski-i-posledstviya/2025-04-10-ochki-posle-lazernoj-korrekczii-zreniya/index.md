@@ -1,51 +1,8 @@
 ---
 title: Очки после лазерной коррекции зрения
-author: Отзывы
-type: post
-date: 2025-04-10T00:46:05+00:00
-url: /ochki-posle-lazernoj-korrekczii-zreniya/
-featured_image: /wp-content/uploads/2025/04/statya-odno-bi-multifokalnye-linzy.jpg
-longer-permalinks-post-name-longer:
-  - ochki-posle-lazernoj-korrekczii-zreniya
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-site-sidebar-layout:
-  - default
-site-content-style:
-  - default
-site-sidebar-style:
-  - default
-ast-featured-img:
-  - disabled
-astra-migrate-meta-layouts:
-  - default
-ast-page-background-enabled:
-  - default
-ast-page-background-meta:
-  - 'a:3:{s:7:"desktop";a:12:{s:16:"background-color";s:25:"var(--ast-global-color-4)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}s:6:"tablet";a:12:{s:16:"background-color";s:0:"";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}s:6:"mobile";a:12:{s:16:"background-color";s:0:"";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}}'
-ast-content-background-meta:
-  - 'a:3:{s:7:"desktop";a:12:{s:16:"background-color";s:25:"var(--ast-global-color-5)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}s:6:"tablet";a:12:{s:16:"background-color";s:25:"var(--ast-global-color-5)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}s:6:"mobile";a:12:{s:16:"background-color";s:25:"var(--ast-global-color-5)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:4:"auto";s:21:"background-attachment";s:6:"scroll";s:15:"background-type";s:0:"";s:16:"background-media";s:0:"";s:12:"overlay-type";s:0:"";s:13:"overlay-color";s:0:"";s:15:"overlay-opacity";s:0:"";s:16:"overlay-gradient";s:0:"";}}'
-categories:
-  - РИСКИ И ПОСЛЕДСТВИЯ
-
+slug: ochki-posle-lazernoj-korrekczii-zreniya
+date: 2025-04-10
+thumbnail: /wp-content/uploads/2025/04/statya-odno-bi-multifokalnye-linzy.jpg
 ---
 ## Очки после лазерной коррекции зрения: почему они могут понадобиться и не всегда помогают {.wp-block-heading}
 

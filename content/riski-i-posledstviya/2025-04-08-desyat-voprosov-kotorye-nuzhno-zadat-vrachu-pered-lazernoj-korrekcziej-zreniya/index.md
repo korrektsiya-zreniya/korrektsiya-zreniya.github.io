@@ -1,34 +1,7 @@
 ---
 title: 10 вопросов, которые нужно задать врачу перед лазерной коррекцией зрения
-author: Отзывы
-type: post
-date: 2025-04-07T21:32:12+00:00
-url: /desyat-voprosov-kotorye-nuzhno-zadat-vrachu-pered-lazernoj-korrekcziej-zreniya/
-longer-permalinks-post-name-longer:
-  - desyat-voprosov-kotorye-nuzhno-zadat-vrachu-pered-lazernoj-korrekcziej-zreniya
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - Без рубрики
-
+slug: desyat-voprosov-kotorye-nuzhno-zadat-vrachu-pered-lazernoj-korrekcziej-zreniya
+date: 2025-04-07
 ---
 Когда речь идет о вашем зрении, нет места для компромиссов. Лазерная коррекция зрения может быть успешной, но также сопряжена с рисками и непредсказуемыми последствиями. Чтобы не попасть в ловушку рекламы и обмана, важно задать врачу острые и конкретные вопросы. Вот 10 вопросов, которые помогут вам разобраться в реальных рисках и последствиях операции.
 

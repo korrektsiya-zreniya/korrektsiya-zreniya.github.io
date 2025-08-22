@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "image" }}
+{{ $size := .Get "size" | default "800x" }}
+
+{{ with $.Page.Resources.GetMatch $src }}
+  {{ $resized := .Resize (printf "%s webp" $size) }}
+  <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{ else }}
+  <!-- fallback если картинка не найдена -->
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{ end }}

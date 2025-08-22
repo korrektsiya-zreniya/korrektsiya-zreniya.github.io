@@ -1,0 +1,20 @@
+---
+title: Кастомизированные склеральные линзы с коррекцией аберраций пациентам после ЛКЗ
+slug: kastomizirovannye-skleralnye-linzy-s-korrekcziej-aberraczij-paczientam-posle-lkz
+date: 2024-04-22
+---
+Отличные новости для тех, кто столкнулся с осложнениями после лазерной коррекции зрения, особенно когда повторная коррекция уже невозможна из-за недостаточной толщины роговицы. Клиника доктора Наталии Майчук предлагает возможность поучаствовать в исследовании по подбору склеральных линз, специально созданных для исправления таких ситуаций.
+
+13 и 14 мая в клинике доктора Майчук пройдет тестирование новых кастомизированных линз, которые способны точно корректировать аберрации после ЛКЗ. Для исследования используется специальный аберрометр, который может отдельно измерять аберрации разного уровня (роговичные, общие, внутриглазные). Если линзы вам подойдут, клиника предоставит первую пару бесплатно в качестве благодарности за участие в научной работе.
+
+Если у вас есть проблемы с двоением, гало или бликами после ЛКЗ, эта возможность может быть вашим шансом на улучшение зрения. Чтобы узнать больше о том, как принять участие, куда прийти и во сколько, напишите доктору Наталии Майчук<figure class="wp-block-image aligncenter size-full is-resized">
+
+<img loading="lazy" decoding="async" width="749" height="1139" src="https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/scale_1200-3.jpeg" alt="" class="wp-image-727" style="width:673px;height:auto" srcset="https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/scale_1200-3.jpeg 749w, https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/scale_1200-3-197x300.jpeg 197w, https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/scale_1200-3-673x1024.jpeg 673w" sizes="auto, (max-width: 749px) 100vw, 749px" /> </figure> 
+
+Источник: [https://pikabu.ru/story/issledovanie\_dlya\_resheniya\_problem\_posle\_lazernoy\_korrektsii\_zreniya\_novyie\_skleralnyie\_linzyi_11374345][1]
+
+<https://dzen.ru/b/ZjKaey1BiETceJ35>
+
+<https://eyepress.ru/video/primenenie-skleral-nykh-linz-v-praktike-refraktsionnogo-khirurga>
+
+ [1]: https://pikabu.ru/story/issledovanie_dlya_resheniya_problem_posle_lazernoy_korrektsii_zreniya_novyie_skleralnyie_linzyi_11374345

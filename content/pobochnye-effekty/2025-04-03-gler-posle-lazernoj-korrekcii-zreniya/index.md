@@ -2,11 +2,11 @@
 title: 'Глэр после лазерной коррекции зрения: Причины, последствия и пути решения'
 slug: gler-posle-lazernoj-korrekcii-zreniya
 date: 2025-04-02
-thumbnail: /wp-content/uploads/2025/04/halos3.jpg
+thumbnail: halos3.jpg
 ---
 Глэр после лазерной коррекции зрения (ЛКЗ) — это одно из распространенных явлений, с которым могут столкнуться пациенты после проведения операции. Он представляет собой световые искажения, такие как ореолы, блики и двоение, которые могут существенно влиять на качество жизни.
 
-<img loading="lazy" decoding="async" class="aligncenter wp-image-396 size-full" src="https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/halos3.jpg" alt="глэр эффект" width="497" height="404" srcset="https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/halos3.jpg 497w, https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/halos3-300x244.jpg 300w" sizes="auto, (max-width: 497px) 100vw, 497px" /> 
+{{< img src="halos3.jpg" alt="глэр эффект" >}} 
 
 <h3 class="" data-start="356" data-end="375">
   Что такое глэр?

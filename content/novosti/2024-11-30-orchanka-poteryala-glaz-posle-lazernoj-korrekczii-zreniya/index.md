@@ -1,17 +1,12 @@
 ---
 title: Орчанка потеряла глаз после лазерной коррекции зрения
-author: Отзывы
-type: post
-date: 2024-11-30T15:01:00+00:00
-url: /orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
-featured_image: /wp-content/uploads/2025/04/larkova-poteryala-glaz-3-e1744297483664.jpg
-longer-permalinks-post-name-longer:
-  - orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya
+slug: orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya
+date: 2024-11-30
+#thumbnail: larkova-poteryala-glaz-3-e1744297483664.jpg
 tags:
   - cлепота
-
 ---
-<figure class="wp-block-image alignfull size-large"><img decoding="async" src="https://korrektsiya-zreniya.net/wp-content/uploads/2025/04/larkova-poteryala-glaz-3-1024x580.jpg" alt="" class="wp-image-999" /></figure> 
+{{< img src="larkova-poteryala-glaz-3-1024x580.jpg" alt="" >}} 
 
 О том, что лазерная коррекция зрения может привести к потере глаза, орчанка Ирина Ларькова даже подумать не могла.
 

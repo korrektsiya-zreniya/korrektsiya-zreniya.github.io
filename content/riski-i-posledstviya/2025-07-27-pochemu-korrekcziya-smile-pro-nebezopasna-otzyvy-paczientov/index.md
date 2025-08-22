@@ -1,34 +1,7 @@
 ---
 title: Почему коррекция SMILE PRO небезопасна отзывы пациентов
-author: Отзывы
-type: post
-date: 2025-07-27T04:35:40+00:00
-url: /pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov/
-longer-permalinks-post-name-longer:
-  - pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - ОТЗЫВЫ
-
+slug: pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov
+date: 2025-07-27
 ---
 **Почему коррекция зрения SMILE PRO небезопасна: отзывы пациентов, о которых молчат клиники**
 

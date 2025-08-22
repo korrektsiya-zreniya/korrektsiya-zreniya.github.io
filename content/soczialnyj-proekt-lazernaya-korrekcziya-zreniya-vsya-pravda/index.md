@@ -1,33 +1,7 @@
 ---
 title: 'Независимый социальный проект «Лазерная коррекция зрения: вся правда»'
-author: Отзывы
-type: post
+slug: soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda
 date: 2025-04-10T23:47:50+00:00
-url: /soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda/
-longer-permalinks-post-name-longer:
-  - soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda
-ytrssenabled_meta_value:
-  - no
-ytremove_meta_value:
-  - no
-ytad1meta:
-  - enabled
-ytad2meta:
-  - enabled
-ytad3meta:
-  - enabled
-ytad4meta:
-  - enabled
-ytad5meta:
-  - enabled
-template_meta:
-  - no
-ytextendedhtmlmeta:
-  - default
-ytpostdatemeta:
-  - default
-categories:
-  - Без рубрики
 
 ---
 **Независимый социальный проект «Лазерная коррекция зрения: Вся правда»**&nbsp;— это гражданская инициатива, объединившая людей, пострадавших от лазерной коррекции зрения. Проект не является юридическим лицом и не зарегистрирован в качестве некоммерческой организации. Это независимая, некоммерческая инициатива, направленная на информирование общественности, поддержку пострадавших и предупреждение о рисках лазерной коррекции.

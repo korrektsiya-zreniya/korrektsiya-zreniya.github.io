@@ -3,7 +3,7 @@ title: Жительница Актобе потеряла зрение на од
 slug: zhitelnicza-aktobe-poteryala-zrenie-na-odin-glaz-posle-operaczii-lazernoj-korrekczii-zreniya
 date: 2025-01-09
 excerpt: Я поехала в Москву, где получила полное заключение, что у меня «Стромальное помутнение роговицы». Это когда делают надрез больше положенного, нервы были задеты и за счет этого помутнение. Предстоит еще одна операция, но еще не могут сказать, так как роговица очень тонкая, подойдет или нет. Сейчас вижу на 80 %, одним глазом.
-featured_image: /wp-content/uploads/2024/01/maxresdefault.jpg
+thumbnail: zhitelnicza-aktobe-poteryala-zrenie-na-odin-glaz-posle-operaczii-lazernoj-korrekczii-zreniya/zhitelnicza-aktobe-poteryala-zrenie-na-odin-glaz-posle-operaczii-lazernoj-korrekczii-zreniya.jpg
 tags:
   - cлепота
 

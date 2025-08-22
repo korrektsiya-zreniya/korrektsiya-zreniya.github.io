@@ -17,4 +17,4 @@ date: 2025-02-10
 
 Источник: <a href="https://sovetsky.orb.sudrf.ru/modules.php?name=press_dep&op=1&did=210" target="_blank" rel="noreferrer noopener">ПРЕСС-СЛУЖБА Советский районный суд г. Орска Оренбургской области</a>
 
-WebArchive: <a href="https://web.archive.org/web/20250818014219/https://sovetsky.orb.sudrf.ru/modules.php?name=press_dep&op=1&did=210" target="_blank" rel="noreferrer noopener">ПРЕСС-СЛУЖБА Советский районный суд г. Орска Оренбургской области</a>
+WebArchive: <a href="https://web.archive.org/web/20250821231454/https://sovetsky.orb.sudrf.ru/modules.php?name=press_dep&op=1&did=210" target="_blank" rel="noreferrer noopener">ПРЕСС-СЛУЖБА Советский районный суд г. Орска Оренбургской области</a>

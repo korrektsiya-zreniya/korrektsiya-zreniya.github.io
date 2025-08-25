@@ -12,8 +12,50 @@
 
 .logo {
   background: #e22d30 !important;
+  padding: 10px !important;
 }
 
 .logo__title {
   color: #ffffff !important;
+}
+
+.logo__tagline {
+  color: #ffffff !important;
+}
+
+.blocks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.block-card {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  height: 200px;
+  text-decoration: none;
+  color: white;
+  border-radius: 8px;
+}
+
+.block-image {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s ease;
+}
+
+.block-card:hover .block-image {
+  transform: scale(1.05);
+}
+
+.block-title {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
 }

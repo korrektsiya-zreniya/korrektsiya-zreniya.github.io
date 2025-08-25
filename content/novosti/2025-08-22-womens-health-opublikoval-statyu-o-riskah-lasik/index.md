@@ -30,3 +30,6 @@ date: 2025-08-22
 ---
 
 Полный текст статьи (на англ.): [Women’s Health — LASIK Complications](https://www.womenshealthmag.com/health/a65665636/lasik-eye-surgery-complications/)
+
+
+Архив: [WebArchive](https://web.archive.org/web/20250822022549/https://www.womenshealthmag.com/health/a65665636/lasik-eye-surgery-complications/)

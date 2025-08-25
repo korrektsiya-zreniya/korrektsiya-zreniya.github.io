@@ -1,0 +1,8 @@
+<div class="blocks-grid">
+  {{ range .Params.blocks }}
+    <a href="{{ .link }}" class="block-card">
+      <div class="block-image" style="background-image: url('{{ .image }}')"></div>
+      <div class="block-title">{{ .title }}</div>
+    </a>
+  {{ end }}
+</div>

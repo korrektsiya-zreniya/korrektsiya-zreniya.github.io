@@ -8,7 +8,7 @@ theme = "mainroad"
 
 [services]
   [services.googleAnalytics]
-    id = 'G-XXXXXXXXX'
+    id = 'G-N1FNTQ7NCM'
 
 [taxonomies]
 	category = "categories"
@@ -32,14 +32,13 @@ theme = "mainroad"
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   customCSS = ["css/custom.css"] # Include custom CSS files
-  #customJS = ["js/custom.js"]
-  #mainSections = ["novosti"]
+  mainSections = []
   post_meta = ["date"] 
   dateformat = "2006-01-02" # Change the format of dates
   readmore = true
   pager = true
-  #googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
-  
+  favicon="favicon.ico"
+
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color
 
@@ -49,27 +48,33 @@ theme = "mainroad"
   list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "taglist", "social"]
+  widgets = ["search", "taglist", "recent"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  categories_counter = true # Enable counter for each category in "Categories" widget
+  #categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
 
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility
 
+[Params.widgets.social]
+  cached = true # activate cache if true
+  twitter = "username"
+  telegram = "lasik_chat"
+
+
 [[Params.widgets.social.custom]]
-  title = "Чат пострадавших"
-  url = "https://youtube.com/user/username"
+  title = "Чат пациентов"
+  url = "https://t.me/lasik_chat"
   #icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [Params.logo]
-  #image = "/icon.webp" # Logo image. Path relative to "static"
-  #title = "Mainroad" # Logo title, otherwise will use site title
-  #subtitle = "Социальный проект" # Logo subtitle
+  image = "/images/eye-icon.png" # Logo image. Path relative to "static"
+  title = "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА" # Logo title, otherwise will use site title
+  subtitle = "Независимый социальный проект" # Logo subtitle
 
 [menu]
 [[menu.main]]
@@ -110,6 +115,11 @@ weight = 60
 name = "Судебные дела"
 url = "/sudebnye-dela/"
 weight = 70
+
+[[menu.footer]]
+name = "Благодарности и идея"
+url = "http://lasikcomplications.com"
+weight = 100
 
 [imaging]
   anchor = 'Smart'

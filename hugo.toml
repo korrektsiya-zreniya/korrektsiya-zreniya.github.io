@@ -38,6 +38,9 @@ theme = "mainroad"
   readmore = true
   pager = true
   favicon="favicon.ico"
+  #googleFontsLink = false
+  
+
 
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color

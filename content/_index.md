@@ -121,17 +121,17 @@ https://www.fda.gov/media/160239/download
 <center>
 <iframe loading="lazy" src="https://dzen.ru/embed/oVEYTg_cIAAA?from_block=partner&amp;from=zen&amp;mute=0&amp;autoplay=0&amp;tv=0" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-testid="embed-iframe"></iframe>
 </center>
+<br>
 
-## Доктор Синтия Маккей (США) опубликовала книгу – “лазерная коррекция зрения: как здоровые глаза делают больными“
+### Офтальмолог, стоявшая у истоков лазерной коррекции зрения, выпустила книгу – «Лазерная коррекция зрения: как здоровые глаза делают больными»
 
+<center>
+  <img src="/images/unsightly_truth_lasik.webp" alt="Книга Неприглядная правда о лазерной коррекции зрения" loading="lazy">
+  <img src="/images/unsightly_truth_lasik_back.webp" alt="Книга The Unsightly Truth of Laser Vision Correction" loading="lazy">
+</center>
+<br>
 
- <table>
-      <tr>
-        <td><img src="/images/UnsightlyTruth.jpg" alt="Картинка 1"></td>
-        <td><img src="/images/UnsightlyTruth2.jpg" alt="Картинка 2"></td>
-      </tr>
-  </table>
-
+https://www.amazon.com/Unsightly-Truth-Laser-Vision-Correction/dp/B0DLY9TLSK
 
 Книга «The Unsightly Truth of Laser Vision Correction» 2024 (Неприглядная правда о лазерной коррекции зрения) разоблачает правду о LASIK и других видах лазерной коррекции. Её автор — доктор Моррис Уэкслер, бывший руководитель LASIK-программы в FDA. Вместе с другими экспертами и пострадавшими он показывает: лазерная коррекция — это опасная и часто необратимая операция, которая калечит здоровые глаза.
 

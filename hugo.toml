@@ -31,14 +31,13 @@ theme = "mainroad"
   description = "Скрытые риски и побочные эффекты. Реальные отзывы и осложнения спустя много лет. Офтальмологи против - от лазерной коррекции можно ослепнуть. Почему не стоит делать операцию на глаза. Вся правда о лазерной коррекции зрения."
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  customCSS = ["css/custom.css"] # Include custom CSS files
   mainSections = []
   post_meta = ["date"] 
   dateformat = "2006-01-02" # Change the format of dates
   readmore = true
   pager = true
   favicon="favicon.ico"
-  #googleFontsLink = false
+  googleFontsLink = false
   
 
 

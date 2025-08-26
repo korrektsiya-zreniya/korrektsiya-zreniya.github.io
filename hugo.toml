@@ -32,6 +32,7 @@ theme = "mainroad"
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   mainSections = []
+  customCSS = ["css/custom.css"]
   post_meta = ["date"] 
   dateformat = "2006-01-02" # Change the format of dates
   readmore = true

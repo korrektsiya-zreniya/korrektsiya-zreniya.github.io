@@ -1,3 +1,6 @@
-<div class="card" style="background-image: url('{{ .Get "img" }}');">
-  <div class="card-text">{{ .Get "text" }}</div>
-</div>
+<a href="{{ .Get "link" | safeURL }}">
+  <div class="card">
+    <img class="card-image" src="{{ .Get "img" | safeURL }}" alt="{{ .Get "text" }}" loading="lazy">
+    <div class="card-text">{{ .Get "text" }}</div>
+  </div>
+</a>

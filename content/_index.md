@@ -18,26 +18,14 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
 </center>
 
 
-title: "После лазерной коррекции зрения"
-blocks:
-  - image: "/images/dry-eyes-after-lasik-1-300x200.webp"
-    title: "Несколько пар очков"
-    link: "/glasses"
-  - image: "images/blind.jpg"
-    title: "Слепота"
-    link: "/blind"
-  - image: "images/reading.jpg"
-    title: "Трудности при чтении"
-    link: "/reading"
-  - image: "images/double.jpg"
-    title: "Двоение"
-    link: "/double"
-  - image: "images/halo.jpg"
-    title: "Гало Эффект"
-    link: "/halo"
-  - image: "images/starburst.jpg"
-    title: "Эффект Звёздочек"
-    link: "/starburst"
+{{< cards >}}
+  {{< card img="/images/dry-eyes-after-lasik-1-300x200.webp" text="Несколько пар очков" link="/glasses" >}}
+  {{< card img="/images/blind.jpg" text="Слепота" link="/blind" >}}
+  {{< card img="/images/reading.jpg" text="Трудности при чтении" link="/reading" >}}
+  {{< card img="/images/double.png" text="Двоение" link="/double" >}}
+  {{< card img="/images/halo.jpg" text="Гало Эффект" link="/halo" >}}
+  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
+{{< /cards >}}
 
 
 

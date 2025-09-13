@@ -17,22 +17,139 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
   <p style="color:#e22d30;font-size:20px;"><strong>ПОСЛЕ ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
 </center>
 
+## Последствия
 
 {{< cards >}}
-  {{< card img="/images/glasses_more.webp" text="Несколько пар очков" link="/glasses" >}}
-  {{< card img="/images/blind.jpg" text="Слепота" link="/blind" >}}
-  {{< card img="/images/reading-lasik.jpg" text="Трудности при чтении" link="/reading" >}}
-  {{< card img="/images/double.png" text="Двоение" link="/double" >}}
-  {{< card img="/images/halo_effect_lasik.webp" text="Гало Эффект" link="/halo" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
-  {{< card img="/images/starburst.jpg" text="Эффект Звёздочек" link="/starburst" >}}
+  {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/glasses" >}}
+
+  {{< card text="Слепота" img="/images/blind.jpg"  link="/blind" >}}
+
+  {{< card text="Трудности при чтении" img="/images/reading-lasik.jpg"  link="/reading" >}}
+
+  {{< card text="Поврежденные нервы" img="/images/nerve_damage.jpg"  link="/ nerve_damage" >}}
+
+  {{< card text="Тонкая роговица" img="/images/nerve_damage.jpg"  link="/ nerve_damage" >}}
+  
+  {{< card text="Склеральные линзы" img="/images/scleral-into-eye.jpg"  link="/ scleral-into-eye" >}}
+
+  {{< card text="Светочувствительность"img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Эктазия роговицы"img="/images/lasik-ectasia.jpg"  link="/lasik-ectasia" >}}
+
+  {{< card text="Усталость глаз" img="/images/eye_fatigue_lasik.webp"  link="/eye_fatigue" >}}
+
+  {{< card text="Потеря контраста" img="/images/contrast_loss_lasik.jpg"  link="/contrast_loss" >}}
+
+  {{< card text="Ранние катаракты"img="/images/cataract.jpg"  link="/early-cataracts" >}}
+
+  {{< card text="Плавающие помутнения (мушки)"img="/images/floaters.jpeg"  link="/floaters" >}}
+
+  {{< card text="Роговичная невралгия"img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Мигрень" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Невропатическая боль" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Воспаление" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Индуцированный астигматизм" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Непереносимость контактных линз" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Депрессия" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Синдром визуального снега" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Неестественная смерть" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Ночные глазные мази" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Непереносимость экранов" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Проблемы с фокусировкой" img="/images/photophobia.jpg"  link="/photophobia" >}}
+
+  {{< card text="Нестабильное зрение" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  
+
+ {{< /cards >}}
+
+
+## Побочные эффекты
+
+{{< cards >}}
+
+  {{< card-split
+  img_before="/images/halo_effect_lasik.webp"
+  img_after="/images/halo_effect_lasik.webp"
+  text="Гало эффект"
+  link="/halo-effect">}}
+
+  {{< card-split
+  img_before="/images/glare.webp"
+  img_after="/images/glare.webp"
+  text="Глэр эффект"
+  link="/halo-effect">}}
+  
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Вождение автомобиля"
+  link="/starburst">}}
+
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Многократное изображение"
+  link="/starburst">}}
+
+  {{< card-split
+  img_before="/images/double.png"
+  img_after="/images/double.png"
+  text="Двоение"
+  link="/double-vision">}}
+
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Двоение"
+  link="/starburst">}}
+
+{{< /cards >}}
+
+## Осложнения после лазерной коррекции зрения
+
+{{< cards >}}
+
+  {{< card-split
+  img_before="/images/halo_effect_lasik.webp"
+  img_after="/images/halo_effect_lasik.webp"
+  text="Гало Эффект"
+  link="/halo-effect">}}
+  
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Вождение автомобиля"
+  link="/starburst">}}
+
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Многократное изображение"
+  link="/starburst">}}
+
+  {{< card-split
+  img_before="/images/double.png"
+  img_after="/images/double.png"
+  text="Двоение"
+  link="/double-vision">}}
+
+  {{< card-split
+  img_before="/images/night-vision-before-lasik.jpg"
+  img_after="/images/night-vision-after-lasik.jpg"
+  text="Двоение"
+  link="/starburst">}}
+  
 {{< /cards >}}
 
 

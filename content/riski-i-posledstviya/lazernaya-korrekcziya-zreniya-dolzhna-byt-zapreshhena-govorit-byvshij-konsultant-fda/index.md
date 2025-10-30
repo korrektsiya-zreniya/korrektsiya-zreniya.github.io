@@ -1,7 +1,7 @@
 ---
 title: Лазерная коррекция зрения должна быть запрещена, говорит бывший консультант FDA
 slug: lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda
-date: 2025-04-07
+
 ---
 <p style="text-align: center;">
   <p class="" data-start="154" data-end="423">

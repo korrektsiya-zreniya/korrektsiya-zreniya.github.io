@@ -1,7 +1,7 @@
 ---
 title: Десять причин не делать лазерную коррекцию зрения
 slug: desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya
-date: 2025-03-30
+
 ---
 <ol data-start="65" data-end="1808">
   <li class="" data-start="65" data-end="834">

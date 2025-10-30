@@ -1,7 +1,7 @@
 ---
 title: Десять причин не делать лазерную коррекцию зрения
 slug: 2025-08-22-depression-and-suicide-after-lasik
-date: 2025-03-30
+
 tags:
   - ушли из жизни
 ---

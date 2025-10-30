@@ -1,7 +1,7 @@
 ---
 title: Почему коррекция SMILE PRO небезопасна отзывы пациентов
 slug: pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov
-date: 2025-07-27
+
 ---
 **Почему коррекция зрения SMILE PRO небезопасна: отзывы пациентов, о которых молчат клиники**
 

@@ -1,7 +1,7 @@
 ---
 title: Кератоконус после лазерной коррекции зрения
 slug: keratokonus-posle-lazernoj-korrekczii-zreniya
-date: 2025-04-02
+weight: 10
 ---
 <p class="" data-start="0" data-end="76">
   <strong data-start="0" data-end="76">Кератоконус после лазерной коррекции зрения: причины, симптомы и лечение</strong>

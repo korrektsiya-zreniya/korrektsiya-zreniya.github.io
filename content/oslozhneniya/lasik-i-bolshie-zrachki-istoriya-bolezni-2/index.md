@@ -1,7 +1,7 @@
 ---
 title: 'LASIK и большие зрачки: история болезни 2'
 slug: lasik-i-bolshie-zrachki-istoriya-bolezni-2
-date: 2024-10-16
+weight: 1000
 thumbnail: image-1.png
 ---
 {{< img src="image-1.webp" alt="" >}} 

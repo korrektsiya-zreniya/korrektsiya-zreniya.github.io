@@ -1,7 +1,7 @@
 ---
 title: 'LASIK и большие зрачки: история болезни 1'
 slug: lasik-i-bolshie-zrachki-istoriya-bolezni-1
-date: 2024-10-16
+weight: 0
 
 ---
 {{< img src="image-300x225.webp" alt="LASIK большие зрачки маленькая оптическая зона" >}} 

@@ -1,6 +1,6 @@
 ---
 title: Эффект звёздочек
-slug: effekt-zvyozdochek-svetovye-bliki-starbursts
+slug: starburst
 date: 2025-04-15
 thumbnail: /wp-content/uploads/2025/04/astigmatism-rar.jpg
 ---

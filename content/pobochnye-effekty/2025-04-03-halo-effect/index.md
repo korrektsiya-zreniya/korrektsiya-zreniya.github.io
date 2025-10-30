@@ -1,6 +1,6 @@
 ---
 title: Гало эффект после лазерной коррекции зрения
-slug: galo-effekt-posle-lazernoy-korrekcii-zreniya
+slug: halo-effect
 date: 2025-04-02
 ---
 <p class="" data-start="0" data-end="91">

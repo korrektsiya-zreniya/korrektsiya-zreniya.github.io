@@ -6,7 +6,8 @@ lastmod: 2025-06-11
 draft: false
 slug: "glaukoma-i-povrezhdenie-zritelnogo-nerva"
 image: "images/glaucoma-nerve.jpg"
-tags: ["глаукома", "зрительный нерв", "внутриглазное давление", "вакуумное кольцо", "стероиды"]
+tags:
+  - осложнения
 categories: ["Осложнения", "Слепота"]
 ---
 

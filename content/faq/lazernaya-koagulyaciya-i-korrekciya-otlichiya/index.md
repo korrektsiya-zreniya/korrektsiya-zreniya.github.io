@@ -6,7 +6,10 @@ lastmod: 2025-06-11
 draft: false
 slug: "lazernaya-koagulyaciya-i-korrekciya-otlichiya"
 image: "images/retina-vs-cornea.jpg"
-tags: ["ППЛК", "сетчатка", "коагуляция", "различия", "мифы"]
+tags:
+  - альтернативы
+  - осложнения
+  - риски
 categories: ["Ликбез", "Общее"]
 ---
 

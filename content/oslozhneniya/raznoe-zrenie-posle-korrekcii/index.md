@@ -6,7 +6,8 @@ lastmod: 2025-06-11
 draft: false
 slug: "raznoe-zrenie-posle-korrekcii"
 image: "images/anisometropia.jpg"
-tags: ["анизометропия", "бинокулярное зрение", "головокружение", "головная боль", "разное зрение"]
+tags:
+  - последствия
 categories: ["Осложнения", "Восприятие"]
 ---
 

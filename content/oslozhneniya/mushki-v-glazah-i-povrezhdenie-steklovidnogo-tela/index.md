@@ -6,7 +6,9 @@ lastmod: 2025-06-11
 draft: false
 slug: "mushki-v-glazah-i-povrezhdenie-steklovidnogo-tela"
 image: "images/floaters-vitreous.jpg"
-tags: ["осложнения", "мушки", "сетчатка", "ЗОСТ", "отслойка сетчатки", "исследования"]
+tags:
+  - исследования
+  - осложнения
 categories: ["Осложнения"]
 ---
 

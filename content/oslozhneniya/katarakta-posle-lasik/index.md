@@ -6,7 +6,8 @@ lastmod: 2025-06-11
 draft: false
 slug: "katarakta-posle-lasik"
 image: "images/cataract-lasik.jpg"
-tags: ["катаракта", "ИОЛ", "расчет хрусталика", "ранняя катаракта", "стероиды"]
+tags:
+  - осложнения
 categories: ["Осложнения", "Долгосрочные последствия"]
 ---
 

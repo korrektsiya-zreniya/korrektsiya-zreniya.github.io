@@ -2,7 +2,7 @@
 title: Канал Lazerstop – отзывы пациента МНТК Микрохирургия глаза им Федорова
 slug: kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova
 date: 2025-04-08
-thumbnail: channels4_banner-e1744124167426.jpg
+thumbnail: channels4_banner-e1744124167426.webp
 ---
 {{< img src="channels4_banner-1024x170.jpg" alt="" >}} 
 

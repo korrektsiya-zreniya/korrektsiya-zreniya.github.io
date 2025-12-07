@@ -7,68 +7,70 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
 
 <center>
   <p style="color:#09b500;font-size:20px;"><strong>ЖИЗНЬ ДО ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
-  <!-- <img src="/glasses.svg" alt="Очки" width="175" height="85">
-  <p>Очки</p> -->
-  <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="175" height="85" viewBox="0 0 1280.000000 640.000000" preserveAspectRatio="xMidYMid meet"><metadata> Created by potrace 1.15, written by Peter Selinger 2001-2017 </metadata><g transform="translate(0.000000,640.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none"><path d="M2335 5419 c-360 -23 -797 -95 -1450 -239 -99 -22 -331 -69 -515 -106 -184 -37 -340 -68 -346 -70 -15 -3 -29 -339 -21 -469 13 -200 45 -273 189 -438 245 -281 285 -348 342 -582 128 -521 331 -1112 545 -1584 133 -295 311 -475 636 -642 554 -286 1278 -380 2055 -269 475 69 861 268 1205 621 245 252 440 538 650 954 107 211 139 297 220 600 66 245 100 346 161 470 86 179 138 216 309 223 55 2 161 -1 235 -6 161 -11 191 -23 271 -109 105 -114 171 -251 259 -543 217 -719 484 -1209 851 -1565 174 -168 310 -265 518 -369 406 -204 854 -306 1346 -306 910 0 1659 377 2041 1027 136 230 208 434 354 1003 171 666 214 794 320 950 45 66 126 143 197 188 88 56 88 55 86 422 0 85 0 189 1 230 2 138 -44 177 -257 216 -171 32 -290 60 -572 138 -327 91 -379 103 -654 146 -683 108 -863 125 -1230 117 -488 -11 -826 -59 -1826 -257 -675 -134 -955 -181 -1278 -215 -248 -26 -554 -36 -773 -25 -392 19 -583 48 -1179 180 -550 122 -661 143 -1031 195 -786 109 -1239 140 -1659 114z m1557 -323 c613 -79 1194 -284 1463 -516 133 -115 234 -273 276 -435 26 -96 31 -334 10 -455 -46 -272 -158 -592 -357 -1020 -116 -251 -223 -429 -357 -595 -83 -103 -259 -273 -364 -353 -563 -427 -1347 -557 -2201 -366 -319 71 -555 196 -762 404 -176 175 -301 384 -395 660 -140 408 -237 829 -277 1195 -17 158 -17 528 0 619 82 436 462 683 1212 791 156 22 516 62 675 75 77 6 160 12 185 14 119 10 782 -4 892 -18z m6248 0 c736 -72 1050 -134 1327 -261 169 -78 329 -214 406 -345 44 -75 82 -190 98 -293 15 -97 6 -517 -15 -675 -45 -340 -124 -671 -256 -1072 -95 -287 -209 -486 -383 -667 -251 -260 -511 -385 -962 -463 -1004 -172 -1869 105 -2400 770 -166 208 -289 436 -475 876 -245 580 -302 994 -178 1291 105 253 332 442 713 592 342 135 759 229 1175 265 116 10 795 -3 950 -18z"></path></g></svg>
+
+  <svg viewBox="0 0 1280 640" width="175" height="85">
+    <g transform="translate(0,640) scale(.1,-.1)" >
+      <path d="M2335 5419c-360-23-797-95-1450-239-99-22-331-69-515-106-184-37-340-68-346-70-15-3-29-339-21-469 13-200 45-273 189-438 245-281 285-348 342-582 128-521 331-1112 545-1584 133-295 311-475 636-642 554-286 1278-380 2055-269 475 69 861 268 1205 621 245 252 440 538 650 954 107 211 139 297 220 600 66 245 100 346 161 470 86 179 138 216 309 223 55 2 161-1 235-6 161-11 191-23 271-109 105-114 171-251 259-543 217-719 484-1209 851-1565 174-168 310-265 518-369 406-204 854-306 1346-306 910 0 1659 377 2041 1027 136 230 208 434 354 1003 171 666 214 794 320 950 45 66 126 143 197 188 88 56 88 55 86 422 0 85 0 189 1 230 2 138-44 177-257 216-171 32-290 60-572 138-327 91-379 103-654 146-683 108-863 125-1230 117-488-11-826-59-1826-257-675-134-955-181-1278-215-248-26-554-36-773-25-392 19-583 48-1179 180-550 122-661 143-1031 195-786 109-1239 140-1659 114zm1557-323c613-79 1194-284 1463-516 133-115 234-273 276-435 26-96 31-334 10-455-46-272-158-592-357-1020-116-251-223-429-357-595-83-103-259-273-364-353-563-427-1347-557-2201-366-319 71-555 196-762 404-176 175-301 384-395 660-140 408-237 829-277 1195-17 158-17 528 0 619 82 436 462 683 1212 791 156 22 516 62 675 75 77 6 160 12 185 14 119 10 782-4 892-18zm6248 0c736-72 1050-134 1327-261 169-78 329-214 406-345 44-75 82-190 98-293 15-97 6-517-15-675-45-340-124-671-256-1072-95-287-209-486-383-667-251-260-511-385-962-463-1004-172-1869 105-2400 770-166 208-289 436-475 876-245 580-302 994-178 1291 105 253 332 442 713 592 342 135 759 229 1175 265 116 10 795-3 950-18z"/>
+      </g>
+    </svg>
+
   <p>Очки</p>
 
   <div style="width: 50px; margin: 0 auto; border-top: 1px solid #000;"></div>
 <br>
-  <p style="color:#e22d30;font-size:20px;"><strong>ПОСЛЕ ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
+  <p style="color:#e22d30;font-size:20px;"><strong>ВОЗМОЖНЫЕ ПОСЛЕДСТВИЯ ПОСЛЕ ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
 </center>
 
-## Последствия
-
 {{< cards >}}
-  {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/glasses" >}}
+  {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/riski-i-posledstviya/glasses" >}}
 
-  {{< card text="Слепота" img="/images/blind.jpg"  link="/blind" >}}
+  {{< card text="Слепота" img="/images/blind.jpg"  link="/riski-i-posledstviya/slepota-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Трудности при чтении" img="/images/reading-lasik.jpg"  link="/reading" >}}
+  {{< card text="Трудности при чтении" img="/images/reading-lasik.jpg"  link="/riski-i-posledstviya/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Поврежденные нервы" img="/images/nerve_damage.jpg"  link="/ nerve_damage" >}}
+  {{< card text="Поврежденные нервы" img="/images/nerve_damage.jpg"  link="/oslozhneniya/povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Тонкая роговица" img="/images/nerve_damage.jpg"  link="/ nerve_damage" >}}
+  {{< card text="Тонкая роговица" img="/images/nerve_damage.jpg"  link="/oslozhneniya/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya" >}}
   
-  {{< card text="Склеральные линзы" img="/images/scleral-into-eye.jpg"  link="/ scleral-into-eye" >}}
+  {{< card text="Склеральные линзы" img="/images/scleral-into-eye.jpg"  link="/oslozhneniya/skleralnye-linzy-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Светочувствительность"img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Светочувствительность"img="/images/photophobia.jpg"  link="/pobochnye-effekty/svetochuvstvitelnost-fotofobiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Эктазия роговицы"img="/images/lasik-ectasia.jpg"  link="/lasik-ectasia" >}}
+  {{< card text="Эктазия роговицы"img="/images/lasik-ectasia.jpg"  link="/oslozhneniya/ektaziya-rogovicy-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Усталость глаз" img="/images/eye_fatigue_lasik.webp"  link="/eye_fatigue" >}}
+  {{< card text="Усталость глаз" img="/images/eye_fatigue_lasik.webp"  link="/oslozhneniya/ustalost-glaz-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Потеря контраста" img="/images/contrast_loss_lasik.jpg"  link="/contrast_loss" >}}
+  {{< card text="Потеря контраста" img="/images/contrast_loss_lasik.jpg"  link="/oslozhneniya/poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Ранние катаракты"img="/images/cataract.jpg"  link="/early-cataracts" >}}
+  {{< card text="Ранние катаракты"img="/images/cataract.jpg"  link="/riski-i-posledstviya/rannie-katarakty-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Плавающие помутнения (мушки)"img="/images/floaters.jpeg"  link="/floaters" >}}
+  {{< card text="Плавающие помутнения (мушки)"img="/images/floaters.jpeg"  link="/oslozhneniya/plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Роговичная невралгия"img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Роговичная невралгия"img="/images/corneal_neuralgia.jpg"  link="/oslozhneniya/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Мигрень" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Мигрень" img="/images/photophobia.jpg"  link="/oslozhneniya/migren-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Невропатическая боль" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Невропатическая боль" img="/images/photophobia.jpg"  link="/oslozhneniya/nevropaticheskaya-bol-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Воспаление" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Воспаление" img="/images/photophobia.jpg"  link="/oslozhneniya/vospalenie-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Индуцированный астигматизм" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Индуцированный астигматизм" img="/images/photophobia.jpg"  link="/oslozhneniya/inducirovannyj-astigmatizm-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Непереносимость контактных линз" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Непереносимость контактных линз" img="/images/photophobia.jpg"  link="/oslozhneniya/neperenosimost-kontaktnyh-linz-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Депрессия" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Депрессия" img="/images/depression.jpg"  link="/riski-i-posledstviya/depressiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Синдром визуального снега" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Синдром визуального снега" img="/images/photophobia.jpg"  link="/oslozhneniya/sindrom-vizualnogo-snega-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Неестественная смерть" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Неестественная смерть" img="/images/photophobia.jpg"  link="/riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Ночные глазные мази" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Ночные глазные мази" img="/images/photophobia.jpg"  link="/oslozhneniya/nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Непереносимость экранов" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Непереносимость экранов" img="/images/photophobia.jpg"  link="/oslozhneniya/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Проблемы с фокусировкой" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Проблемы с фокусировкой" img="/images/photophobia.jpg"  link="/oslozhneniya/problemy-s-fokusirovkoj-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Нестабильное зрение" img="/images/photophobia.jpg"  link="/photophobia" >}}
+  {{< card text="Нестабильное зрение" img="/images/photophobia.jpg"  link="/oslozhneniya/nestabilnoe-zrenie-posle-lazernoj-korrekczii-zreniya" >}}
   
 
  {{< /cards >}}
@@ -82,37 +84,31 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
   img_before="/images/halo_effect_lasik.webp"
   img_after="/images/halo_effect_lasik.webp"
   text="Гало эффект"
-  link="/halo-effect">}}
+  link="/pobochnye-effekty/halo-effect">}}
 
   {{< card-split
   img_before="/images/glare.webp"
   img_after="/images/glare.webp"
   text="Глэр эффект"
-  link="/halo-effect">}}
+  link="/pobochnye-effekty/gler-posle-lazernoj-korrekcii-zreniya">}}
   
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Вождение автомобиля"
-  link="/starburst">}}
+  link="/pobochnye-effekty/starburst">}}
 
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Многократное изображение"
-  link="/starburst">}}
-
-  {{< card-split
-  img_before="/images/double.png"
-  img_after="/images/double.png"
-  text="Двоение"
-  link="/double-vision">}}
+  link="/pobochnye-effekty/mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya">}}
 
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Двоение"
-  link="/starburst">}}
+  link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
 
 {{< /cards >}}
 
@@ -124,31 +120,31 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
   img_before="/images/halo_effect_lasik.webp"
   img_after="/images/halo_effect_lasik.webp"
   text="Гало Эффект"
-  link="/halo-effect">}}
+  link="/pobochnye-effekty/halo-effect">}}
   
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Вождение автомобиля"
-  link="/starburst">}}
+  link="/pobochnye-effekty/starburst">}}
 
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Многократное изображение"
-  link="/starburst">}}
+  link="/pobochnye-effekty/mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya">}}
 
   {{< card-split
   img_before="/images/double.png"
   img_after="/images/double.png"
   text="Двоение"
-  link="/double-vision">}}
+  link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
 
   {{< card-split
   img_before="/images/night-vision-before-lasik.jpg"
   img_after="/images/night-vision-after-lasik.jpg"
   text="Двоение"
-  link="/starburst">}}
+  link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
   
 {{< /cards >}}
 

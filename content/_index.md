@@ -48,29 +48,29 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
 
   {{< card text="Роговичная невралгия"img="/images/corneal_neuralgia.jpg"  link="/oslozhneniya/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Мигрень" img="/images/photophobia.jpg"  link="/oslozhneniya/migren-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Мигрень" img="/images/migraine.png"  link="/oslozhneniya/migren-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Невропатическая боль" img="/images/photophobia.jpg"  link="/oslozhneniya/nevropaticheskaya-bol-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Невропатическая боль" img="/images/neuropathic_pain.png"  link="/oslozhneniya/nevropaticheskaya-bol-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Воспаление" img="/images/photophobia.jpg"  link="/oslozhneniya/vospalenie-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Воспаление" img="/images/inflammation.png"  link="/oslozhneniya/vospalenie-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Индуцированный астигматизм" img="/images/photophobia.jpg"  link="/oslozhneniya/inducirovannyj-astigmatizm-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Индуцированный астигматизм" img="/images/astigmatism.png"  link="/oslozhneniya/inducirovannyj-astigmatizm-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Непереносимость контактных линз" img="/images/photophobia.jpg"  link="/oslozhneniya/neperenosimost-kontaktnyh-linz-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Непереносимость контактных линз" img="/images/contact_lens.png"  link="/oslozhneniya/neperenosimost-kontaktnyh-linz-posle-lazernoj-korrekczii-zreniya" >}}
 
   {{< card text="Депрессия" img="/images/depression.jpg"  link="/riski-i-posledstviya/depressiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Синдром визуального снега" img="/images/photophobia.jpg"  link="/oslozhneniya/sindrom-vizualnogo-snega-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Синдром визуального снега" img="/images/visual_snow.png"  link="/oslozhneniya/sindrom-vizualnogo-snega-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Неестественная смерть" img="/images/photophobia.jpg"  link="/riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Неестественная смерть" img="/images/death_memorial.png"  link="/riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Ночные глазные мази" img="/images/photophobia.jpg"  link="/oslozhneniya/nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Ночные глазные мази" img="/images/eye_ointment.png"  link="/oslozhneniya/nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Непереносимость экранов" img="/images/photophobia.jpg"  link="/oslozhneniya/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Непереносимость экранов" img="/images/screen_intolerance.png"  link="/oslozhneniya/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Проблемы с фокусировкой" img="/images/photophobia.jpg"  link="/oslozhneniya/problemy-s-fokusirovkoj-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Проблемы с фокусировкой" img="/images/focus_problems.png"  link="/oslozhneniya/problemy-s-fokusirovkoj-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Нестабильное зрение" img="/images/photophobia.jpg"  link="/oslozhneniya/nestabilnoe-zrenie-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Нестабильное зрение" img="/images/unstable_vision.png"  link="/oslozhneniya/nestabilnoe-zrenie-posle-lazernoj-korrekczii-zreniya" >}}
   
 
  {{< /cards >}}

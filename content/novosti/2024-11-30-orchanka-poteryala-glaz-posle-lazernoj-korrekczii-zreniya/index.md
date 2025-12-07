@@ -4,7 +4,7 @@ slug: orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya
 date: 2024-11-30
 #thumbnail: larkova-poteryala-glaz-3-e1744297483664.webp
 tags:
-  - ослепли от лазерной коррекции
+  - депрессия
 ---
 {{< img src="larkova-poteryala-glaz-3-1024x580.jpg" alt="" >}} 
 

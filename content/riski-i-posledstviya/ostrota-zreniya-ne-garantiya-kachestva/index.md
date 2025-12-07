@@ -6,7 +6,9 @@ lastmod: 2025-06-11
 draft: false
 slug: "ostrota-zreniya-ne-garantiya-kachestva"
 image: "images/snellen-blur.jpg"
-tags: ["острота зрения", "1.0", "контрастная чувствительность", "ночное зрение", "мифы"]
+tags:
+  - ночное зрение
+  - риски
 categories: ["Риски", "Ликбез"]
 ---
 

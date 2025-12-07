@@ -6,7 +6,11 @@ lastmod: 2025-06-11
 draft: false
 slug: "relex-smile-oslozhneniya-i-riski"
 image: "images/smile-complications.jpg"
-tags: ["SMILE", "ReLEx SMILE", "осложнения", "лентикула", "биомеханика", "суицид", "Джессика Старр"]
+tags:
+  - smile
+  - депрессия
+  - осложнения
+  - эктазия
 categories: ["Осложнения", "Методы коррекции"]
 ---
 

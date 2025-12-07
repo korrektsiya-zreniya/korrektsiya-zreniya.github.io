@@ -3,7 +3,7 @@ title: Десять причин не делать лазерную коррек
 slug: 2025-08-22-depression-and-suicide-after-lasik
 
 tags:
-  - ушли из жизни
+  - депрессия
 ---
 <ol data-start="65" data-end="1808">
   <li class="" data-start="65" data-end="834">

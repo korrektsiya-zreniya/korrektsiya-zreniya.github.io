@@ -5,8 +5,8 @@ description: "Перевод англоязычного сайта LasikcComplic
 date: 2023-10-01
 type: post
 tags:
-  - Архив
-  - Осложнения
+  - исследования
+  - осложнения
 ---
 
 ## О разделе LASIK Complications

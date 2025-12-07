@@ -6,7 +6,10 @@ lastmod: 2025-06-11
 draft: false
 slug: "rogovichnaya-nevropatiya-i-hronicheskaya-bol"
 image: "images/corneal-neuropathy.jpg"
-tags: ["невропатия", "хроническая боль", "суицид", "сухой глаз", "нервы роговицы", "конфокальная микроскопия"]
+tags:
+  - боль
+  - депрессия
+  - сухой глаз
 categories: ["Осложнения", "Боль"]
 ---
 

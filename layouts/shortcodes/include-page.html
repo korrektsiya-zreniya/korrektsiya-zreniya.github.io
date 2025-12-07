@@ -1,0 +1,7 @@
+{{ $path := .Get 0 }}
+{{ $page := site.GetPage $path }}
+{{ if $page }}
+  {{ $page.Content }}
+{{ else }}
+  <p style="color: red">Error: Component '{{ $path }}' not found.</p>
+{{ end }}

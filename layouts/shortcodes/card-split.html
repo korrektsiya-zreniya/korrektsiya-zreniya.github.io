@@ -1,0 +1,13 @@
+<a href="{{ .Get "link" | safeURL }}" class="card-split-link">
+  <div class="card-split">
+    <div class="card-split-col">
+      <img src="{{ .Get "img_before" | safeURL }}" alt="{{ .Get "text" }} - До" loading="lazy">
+      <div class="card-split-label">До</div>
+    </div>
+    <div class="card-split-col">
+      <img src="{{ .Get "img_after" | safeURL }}" alt="{{ .Get "text" }} - После" loading="lazy">
+      <div class="card-split-label">После</div>
+    </div>
+  </div>
+  <div class="card-split-text">{{ .Get "text" }}</div>
+</a>

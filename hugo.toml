@@ -5,6 +5,8 @@ languageName = 'ru'
 defaultContentLanguage = "ru"
 enableGitInfo = false
 theme = "mainroad"
+minify = true
+enableRobotsTXT = true
 
 [services]
   [services.googleAnalytics]
@@ -34,7 +36,7 @@ theme = "mainroad"
   mainSections = []
   customCSS = ["css/custom.css"]
   post_meta = ["date"] 
-  dateformat = "2006-01-02" # Change the format of dates
+  dateformat = "02.01.2006" # Change the format of dates
   readmore = true
   pager = true
   favicon="favicon.ico"
@@ -75,7 +77,7 @@ theme = "mainroad"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [Params.logo]
-  image = "/images/eye-icon.png" # Logo image. Path relative to "static"
+  #image = "/images/eye-icon.png" # Logo image. Path relative to "static"
   title = "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА" # Logo title, otherwise will use site title
   subtitle = "Независимый социальный проект" # Logo subtitle
 
@@ -120,9 +122,10 @@ url = "/sudebnye-dela/"
 weight = 70
 
 [[menu.footer]]
-name = "Благодарности и идея"
-url = "http://lasikcomplications.com"
-weight = 100
+
+#name = "Благодарности и идея"
+#url = "http://lasikcomplications.com"
+#weight = 100
 
 [imaging]
   anchor = 'Smart'

@@ -81,14 +81,14 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
 {{< cards >}}
 
   {{< card-split
-  img_before="/images/halo_effect_lasik.webp"
-  img_after="/images/halo_effect_lasik.webp"
+  img_before="/images/halo_before.png"
+  img_after="/images/halo_after.png"
   text="Гало эффект"
   link="/pobochnye-effekty/halo-effect">}}
 
   {{< card-split
-  img_before="/images/glare.webp"
-  img_after="/images/glare.webp"
+  img_before="/images/glare_before.png"
+  img_after="/images/glare_after.png"
   text="Глэр эффект"
   link="/pobochnye-effekty/gler-posle-lazernoj-korrekcii-zreniya">}}
   
@@ -99,54 +99,20 @@ title: "ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА - 
   link="/pobochnye-effekty/starburst">}}
 
   {{< card-split
-  img_before="/images/night-vision-before-lasik.jpg"
-  img_after="/images/night-vision-after-lasik.jpg"
+  img_before="/images/ghosting_before.png"
+  img_after="/images/ghosting_after.png"
   text="Многократное изображение"
   link="/pobochnye-effekty/mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya">}}
 
   {{< card-split
-  img_before="/images/night-vision-before-lasik.jpg"
-  img_after="/images/night-vision-after-lasik.jpg"
+  img_before="/images/double_vision_before.png"
+  img_after="/images/double_vision_after.png"
   text="Двоение"
   link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
 
 {{< /cards >}}
 
-## Осложнения после лазерной коррекции зрения
 
-{{< cards >}}
-
-  {{< card-split
-  img_before="/images/halo_effect_lasik.webp"
-  img_after="/images/halo_effect_lasik.webp"
-  text="Гало Эффект"
-  link="/pobochnye-effekty/halo-effect">}}
-  
-  {{< card-split
-  img_before="/images/night-vision-before-lasik.jpg"
-  img_after="/images/night-vision-after-lasik.jpg"
-  text="Вождение автомобиля"
-  link="/pobochnye-effekty/starburst">}}
-
-  {{< card-split
-  img_before="/images/night-vision-before-lasik.jpg"
-  img_after="/images/night-vision-after-lasik.jpg"
-  text="Многократное изображение"
-  link="/pobochnye-effekty/mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya">}}
-
-  {{< card-split
-  img_before="/images/double.png"
-  img_after="/images/double.png"
-  text="Двоение"
-  link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
-
-  {{< card-split
-  img_before="/images/night-vision-before-lasik.jpg"
-  img_after="/images/night-vision-after-lasik.jpg"
-  text="Двоение"
-  link="/pobochnye-effekty/dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya">}}
-  
-{{< /cards >}}
 
 
 

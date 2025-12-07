@@ -5,6 +5,8 @@ languageName = 'ru'
 defaultContentLanguage = "ru"
 enableGitInfo = false
 theme = "mainroad"
+minify = true
+enableRobotsTXT = true
 
 [services]
   [services.googleAnalytics]
@@ -120,6 +122,7 @@ url = "/sudebnye-dela/"
 weight = 70
 
 [[menu.footer]]
+
 #name = "Благодарности и идея"
 #url = "http://lasikcomplications.com"
 #weight = 100

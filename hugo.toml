@@ -38,6 +38,7 @@ enableRobotsTXT = true
   description = "Скрытые риски и побочные эффекты. Реальные отзывы и осложнения спустя много лет. Офтальмологи против - от лазерной коррекции можно ослепнуть. Почему не стоит делать операцию на глаза. Вся правда о лазерной коррекции зрения."
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards
   mainSections = []
   customCSS = ["css/custom.css"]
   post_meta = ["date"] 

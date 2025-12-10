@@ -29,10 +29,9 @@
 	{{- end }}
 
 	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
-	{{- end }}
+	{{ $custom := resources.Get "css/custom.css" -}}
+	{{ $bundledCSS := slice $style $custom | resources.Concat "css/bundle.css" | minify -}}
+	<link rel="stylesheet" href="{{ $bundledCSS.RelPermalink }}">
 
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `

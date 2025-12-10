@@ -21,6 +21,11 @@ enableRobotsTXT = true
 
 [permalinks]
   novosti = "/:slug/"
+  riski-i-posledstviya = "/:slug/"
+  oslozhneniya = "/:slug/"
+  otzyvy = "/:slug/"
+  pobochnye-effekty = "/:slug/"
+  sudebnye-dela = "/:slug/"
 
 [markup]
   [markup.goldmark.renderer]

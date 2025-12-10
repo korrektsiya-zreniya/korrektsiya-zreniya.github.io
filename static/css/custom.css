@@ -49,7 +49,7 @@
   left: 16px;
   font-size: 1.2rem;
   font-weight: bold;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
 }
 
 /* Added for new cards */
@@ -89,7 +89,7 @@
   left: 16px;
   font-size: 1.2rem;
   font-weight: bold;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
   z-index: 2;
 }
 
@@ -115,13 +115,14 @@
   color: inherit;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
-  position: relative; /* For positioning the text overlay */
+  position: relative;
+  /* For positioning the text overlay */
 }
 
 .card-split-link:hover {
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 .card-split-link:hover .card-split-col img {
@@ -131,7 +132,8 @@
 .card-split {
   display: flex;
   flex-direction: row;
-  height: 150px; /* Match height of other cards */
+  height: 150px;
+  /* Match height of other cards */
 }
 
 .card-split-col {
@@ -142,8 +144,10 @@
 .card-split-col img {
   display: block;
   width: 100%;
-  height: 100%; /* Fill the container height */
-  object-fit: cover; /* Crop image to fit */
+  height: 100%;
+  /* Fill the container height */
+  object-fit: cover;
+  /* Crop image to fit */
   transition: transform 0.3s ease;
 }
 
@@ -166,7 +170,7 @@
   font-size: 1.2rem;
   font-weight: bold;
   color: white;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.8);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
   z-index: 1;
 }
 
@@ -174,54 +178,16 @@
 @media (max-width: 576px) {
   .card-split {
     flex-direction: column;
-    height: auto; /* Auto height for stacked images */
+    height: auto;
+    /* Auto height for stacked images */
   }
 
   .card-split-col {
     width: 100%;
   }
-  
+
   .card-split-col img {
-    max-height: 200px; /* Prevent images from being excessively tall on mobile */
+    max-height: 200px;
+    /* Prevent images from being excessively tall on mobile */
   }
 }
-
-@font-face {
-    font-family: 'Open Sans';
-	font-display: swap;
-    font-style: normal;
-    font-weight: 400;
-    font-stretch: 100%;
-    src: url(/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');
-    unicode-range: U + 0000-00FF, U + 0131, U + 0152-0153, U + 02BB-02BC, U + 02C6, U + 02DA, U + 02DC, U + 0304, U + 0308, U + 0329, U + 2000-206F, U + 20AC, U + 2122, U + 2191, U + 2193, U + 2212, U + 2215, U + FEFF, U + FFFD;
-}
-
-@font-face {
-    font-family: 'Open Sans';
-	font-display: swap;
-    font-style: normal;
-    font-weight: 700;
-    font-stretch: 100%;
-    src: url(/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');
-    unicode-range: U + 0000-00FF, U + 0131, U + 0152-0153, U + 02BB-02BC, U + 02C6, U + 02DA, U + 02DC, U + 0304, U + 0308, U + 0329, U + 2000-206F, U + 20AC, U + 2122, U + 2191, U + 2193, U + 2212, U + 2215, U + FEFF, U + FFFD;
-}
-
-@font-face {
-    font-family: 'Open Sans';
-	font-display: swap;
-    font-style: normal;
-    font-weight: 400;
-    font-stretch: 100%;
-    src: url(/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');
-    unicode-range: U + 0301, U + 0400-045F, U + 0490-0491, U + 04B0-04B1, U + 2116;
-}
-
-@font-face {
-    font-family: 'Open Sans';
-	font-display: swap;
-    font-style: normal;
-    font-weight: 700;
-    font-stretch: 100%;
-    src: url(/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2) format('woff2');
-    unicode-range: U + 0301, U + 0400-045F, U + 0490-0491, U + 04B0-04B1, U + 2116;
-} 

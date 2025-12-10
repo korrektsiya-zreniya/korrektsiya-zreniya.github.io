@@ -45,8 +45,7 @@ enableRobotsTXT = true
   readmore = true
   pager = true
   favicon="favicon.ico"
-  googleFontsLink = false
-  
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&subset=cyrillic,latin&display=swap"
 
 
 [Params.style.vars]

@@ -4,6 +4,9 @@ slug: lasik-i-bolshie-zrachki-istoriya-bolezni-2
 weight: 1000
 description: Второй клинический случай пациента с большими зрачками после лазерной коррекции. Демонстрация проблем ночного зрения.
 thumbnail: image-1.webp
+
+type: post
+date: 2025-01-01
 ---
 
 ## Ещё один случай осложнений при больших зрачках

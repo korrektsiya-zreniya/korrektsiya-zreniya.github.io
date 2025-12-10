@@ -1,6 +1,10 @@
 ---
 title: Двоение в глазах (диплопия) после лазерной коррекции зрения
 slug: dvoenie-v-glazah-diplopiya-posle-lazernoj-korrekczii-zreniya
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Двоение в глазах (диплопия) после лазерной коррекции зрения: причины и решения
 

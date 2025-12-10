@@ -2,6 +2,10 @@
 title: Лазерная коррекция зрения после 40 лет
 slug: lazernaya-korrekcziya-zreniya-posle-40-let
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Лазерная коррекция зрения после 40 лет: стоит ли рисковать?
 

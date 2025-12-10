@@ -2,6 +2,9 @@
 title: Москвич обвинил клинику в испорченном зрении после лазерной коррекции
 slug: moskvich-obvinil-kliniku-v-isporchennom-zrenii-posle-lazernoj-korrekczii
 date: 2024-11-22
+
+type: post
+description: Описание отсутствует.
 ---
 «Во время коррекции мне перепутали левый и правый глаз, я стал видеть ещё хуже»
 

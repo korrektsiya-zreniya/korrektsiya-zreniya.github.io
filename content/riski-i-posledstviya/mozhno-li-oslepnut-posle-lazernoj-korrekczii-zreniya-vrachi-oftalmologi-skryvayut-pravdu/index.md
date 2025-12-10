@@ -2,6 +2,10 @@
 title: Можно ли ослепнуть после лазерной коррекции зрения? Врачи офтальмологи скрывают правду
 slug: mozhno-li-oslepnut-posle-lazernoj-korrekczii-zreniya-vrachi-oftalmologi-skryvayut-pravdu
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Можно ли ослепнуть после лазерной коррекции зрения? Врачи офтальмологи скрывают правду
 

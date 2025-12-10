@@ -2,6 +2,10 @@
 title: Повреждение нервов после лазерной коррекции зрения
 slug: povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Повреждение нервов после лазерной коррекции зрения: невидимые последствия
 

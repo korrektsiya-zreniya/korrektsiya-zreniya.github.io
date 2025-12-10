@@ -7,6 +7,9 @@ thumbnail: zhitelnicza-aktobe-poteryala-zrenie-na-odin-glaz-posle-operaczii-laze
 tags:
   - депрессия
 
+
+type: post
+description: Описание отсутствует.
 ---
 <figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 

@@ -2,6 +2,10 @@
 title: Ореолы и гало после лазерной коррекции зрения
 slug: oreoly-i-galo
 thumbnail: /wp-content/uploads/2025/04/halos-destellos-deslumbramiento.png.webp
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Ореолы и гало после лазерной коррекции зрения: постоянный спутник или временное явление?
 

@@ -1,5 +1,11 @@
 ---
 headless: true
+
+title: stories
+slug: homepage-sections/stories
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <br>
 

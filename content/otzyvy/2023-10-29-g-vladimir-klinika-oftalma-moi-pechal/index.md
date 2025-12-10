@@ -3,6 +3,9 @@ title: г. Владимир, Мой печальный опыт лазерной
 slug: g-vladimir-klinika-oftalma-moi-pechal
 date: 2023-10-28
 thumbnail: /wp-content/uploads/2023/10/1579628077142372304.jpg
+
+type: post
+description: Описание отсутствует.
 ---
  <figure class="wp-block-image aligncenter"><img decoding="async" src="https://cs10.pikabu.ru/post_img/2020/01/21/10/1579628077142372304.jpg" alt="" /></figure> 
 

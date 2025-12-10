@@ -2,6 +2,10 @@
 title: Усталость глаз после лазерной коррекции зрения
 slug: ustalost-glaz-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Усталость глаз после лазерной коррекции зрения: причины и способы облегчения
 

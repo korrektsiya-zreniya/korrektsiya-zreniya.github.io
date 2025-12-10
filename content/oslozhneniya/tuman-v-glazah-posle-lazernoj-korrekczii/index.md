@@ -1,6 +1,10 @@
 ---
 title: Туман в глазах после лазерной коррекции
 slug: tuman-v-glazah-posle-lazernoj-korrekczii
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <p class="" data-start="0" data-end="86">
   <strong data-start="0" data-end="86">Туман в глазах после лазерной коррекции зрения: причины и способы решения проблемы</strong>

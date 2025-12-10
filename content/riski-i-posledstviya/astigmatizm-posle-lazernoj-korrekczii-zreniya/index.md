@@ -2,6 +2,10 @@
 title: Астигматизм после лазерной коррекции зрения
 slug: astigmatizm-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <p class="" data-start="0" data-end="83">
   <strong data-start="0" data-end="83">Астигматизм после лазерной коррекции зрения: причины, симптомы и методы лечения</strong>

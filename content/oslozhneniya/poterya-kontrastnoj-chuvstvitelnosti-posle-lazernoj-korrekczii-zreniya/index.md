@@ -2,6 +2,10 @@
 title: Потеря контрастной чувствительности после лазерной коррекции зрения
 slug: poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Потеря контрастной чувствительности после лазерной коррекции зрения: невидимое ухудшение
 

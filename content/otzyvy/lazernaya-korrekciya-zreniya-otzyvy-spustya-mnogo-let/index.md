@@ -5,6 +5,9 @@ date: 2025-12-07T11:00:00+03:00
 draft: false
 url: "/otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let"
 image: "/images/clock_eye.webp"
+
+slug: otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let
+type: post
 ---
 
 Интернет полон восторженных отзывов, написанных через неделю после операции: "Я прозрел!", "Вижу каждый листик!". Но что происходит с этими людьми дальше? Отзывы о лазерной коррекции зрения спустя 10, 15 или 20 лет найти гораздо сложнее, и они часто совсем не такие радужные.

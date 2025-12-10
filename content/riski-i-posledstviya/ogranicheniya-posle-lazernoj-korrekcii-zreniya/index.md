@@ -5,6 +5,9 @@ date: 2025-12-07T12:00:00+03:00
 draft: false
 url: "/riski-i-posledstviya/ogranicheniya-posle-lazernoj-korrekcii-zreniya"
 image: "/images/eye-icon.webp"
+
+slug: riski-i-posledstviya/ogranicheniya-posle-lazernoj-korrekcii-zreniya
+type: post
 ---
 
 Пациентам часто говорят, что лазерная коррекция — это "процедура выходного дня": сделал в пятницу, в понедельник на работу. Но на самом деле список ограничений гораздо шире и длительнее, а их нарушение может привести к смещению лоскута или инфекции.

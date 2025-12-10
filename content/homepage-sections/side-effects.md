@@ -1,5 +1,11 @@
 ---
 headless: true
+
+title: side-effects
+slug: homepage-sections/side-effects
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Побочные эффекты
 

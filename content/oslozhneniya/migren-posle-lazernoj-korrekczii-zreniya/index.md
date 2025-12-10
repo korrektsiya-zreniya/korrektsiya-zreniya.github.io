@@ -2,6 +2,10 @@
 title: Мигрень после лазерной коррекции зрения
 slug: migren-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Мигрень после лазерной коррекции зрения: неожиданный побочный эффект
 

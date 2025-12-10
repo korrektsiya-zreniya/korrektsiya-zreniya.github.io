@@ -3,6 +3,10 @@ title: Пересадка роговицы
 slug: peresadka-rogoviczy
 
 thumbnail: /wp-content/uploads/2025/04/corneal_transplant.jpg
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Пересадка роговицы: когда лазерная коррекция приводит к крайним мерам {.wp-block-heading}
 

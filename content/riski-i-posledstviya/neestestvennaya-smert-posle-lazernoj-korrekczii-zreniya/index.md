@@ -2,6 +2,10 @@
 title: Неестественная смерть после лазерной коррекции зрения
 slug: neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Неестественная смерть после лазерной коррекции зрения: трагические последствия
 

@@ -5,6 +5,9 @@ date: 2025-12-07T10:00:00+03:00
 draft: false
 url: "/riski-i-posledstviya/pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu"
 image: "/images/glasses_more.webp"
+
+slug: riski-i-posledstviya/pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu
+type: post
 ---
 
 Один из самых частых вопросов, который пациенты задают "в кулуарах" или ищут в интернете: **"Почему сами офтальмологи ходят в очках?"**. Действительно, если зайти на любую конференцию рефракционных хирургов, можно заметить, что значительная часть специалистов, продающих вам "идеальное зрение", сами предпочитают очки.

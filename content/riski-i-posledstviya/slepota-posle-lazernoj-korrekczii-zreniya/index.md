@@ -2,6 +2,10 @@
 title: Слепота после лазерной коррекции зрения
 slug: slepota-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Слепота после лазерной коррекции зрения: реальность, о которой молчат
 

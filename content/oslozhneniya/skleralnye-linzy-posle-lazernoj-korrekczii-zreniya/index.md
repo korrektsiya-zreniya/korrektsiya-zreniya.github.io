@@ -2,6 +2,10 @@
 title: Склеральные линзы после лазерной коррекции зрения
 slug: skleralnye-linzy-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Склеральные линзы после лазерной коррекции зрения: спасение при осложнениях
 

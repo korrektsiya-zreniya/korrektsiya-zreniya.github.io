@@ -2,6 +2,10 @@
 title: Смещение лоскута после лазерной коррекции зрения
 slug: smeshhenie-loskuta-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <p class="" data-start="0" data-end="92">
   <strong data-start="0" data-end="92">Смещение лоскута после лазерной коррекции зрения: причины, последствия и способы лечения</strong>

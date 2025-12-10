@@ -5,6 +5,9 @@ date: 2025-12-07T13:00:00+03:00
 draft: false
 url: "/riski-i-posledstviya/lazernaya-korrekciya-zreniya-posle-40-45-let"
 image: "/images/reading-lasik.webp"
+
+slug: riski-i-posledstviya/lazernaya-korrekciya-zreniya-posle-40-45-let
+type: post
 ---
 
 Пациенты старше 40 лет — самая "сложная" для объяснений категория. Они приходят в клинику с желанием "выкинуть очки", но уходят разочарованными после консультации честного врача (или еще более разочарованными ПОСЛЕ операции у нечестного).

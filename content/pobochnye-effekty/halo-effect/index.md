@@ -1,6 +1,10 @@
 ---
 title: Гало эффект после лазерной коррекции зрения
 slug: halo-effect
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <p class="" data-start="0" data-end="91">
   <strong data-start="0" data-end="91">Гало-эффект после лазерной коррекции зрения: причины, последствия и как с этим бороться</strong>

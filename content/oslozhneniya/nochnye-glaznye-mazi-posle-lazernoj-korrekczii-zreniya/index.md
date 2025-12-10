@@ -2,6 +2,10 @@
 title: Ночные глазные мази после лазерной коррекции зрения
 slug: nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Ночные глазные мази после лазерной коррекции зрения: необходимость или временная мера?
 

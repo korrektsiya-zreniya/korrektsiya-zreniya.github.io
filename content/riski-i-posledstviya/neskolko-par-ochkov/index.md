@@ -3,6 +3,10 @@ title: Несколько пар очков
 slug: neskolko-par-ochkov
 
 thumbnail: /wp-content/uploads/2025/04/scale_1200-4.jpeg
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## ДО операции — одна пара очков {.wp-block-heading}
 

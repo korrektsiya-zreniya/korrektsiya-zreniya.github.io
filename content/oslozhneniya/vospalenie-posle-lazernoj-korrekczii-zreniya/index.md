@@ -2,6 +2,10 @@
 title: Воспаление после лазерной коррекции зрения
 slug: vospalenie-posle-lazernoj-korrekczii-zreniya
 
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Воспаление после лазерной коррекции зрения: причины, симптомы и лечение
 

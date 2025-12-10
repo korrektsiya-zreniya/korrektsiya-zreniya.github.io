@@ -4,6 +4,10 @@ slug: 2025-08-22-depression-and-suicide-after-lasik
 
 tags:
   - депрессия
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 <ol data-start="65" data-end="1808">
   <li class="" data-start="65" data-end="834">

@@ -1,6 +1,10 @@
 ---
 title: Плавающие помутнения (мушки) после лазерной коррекции зрения
 slug: plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya
+
+type: post
+date: 2025-01-01
+description: Описание отсутствует.
 ---
 ## Плавающие помутнения (мушки) после лазерной коррекции зрения: неожиданный спутник
 

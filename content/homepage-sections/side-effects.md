@@ -15,7 +15,7 @@ description: Описание отсутствует.
   img_before="/images/halo_before.webp"
   img_after="/images/halo_after.webp"
   text="Гало эффект"
-  link="/halo-effect">}}
+  link="/galo-effekt-posle-lazernoy-korrekcii-zreniya">}}
 
   {{< card-split
   img_before="/images/glare_before.webp"

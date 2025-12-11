@@ -4,6 +4,8 @@ slug: pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov
 type: post
 date: 2025-01-01
 description: "Реальные отзывы пациентов о SMILE PRO: осложнения, риски, побочные эффекты. Почему лазерная коррекция зрения методом SMILE PRO может быть небезопасна. Истории пострадавших."
+tags:
+  - smile pro
 ---
 **Почему коррекция зрения SMILE PRO небезопасна: отзывы пациентов, о которых молчат клиники**
 

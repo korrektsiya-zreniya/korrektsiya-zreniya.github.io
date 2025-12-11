@@ -8,7 +8,7 @@ date: 2025-01-01
 description: Описание отсутствует.
 ---
 {{< cards >}}
-  {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/glasses" >}}
+  {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/neskolko-par-ochkov" >}}
 
   {{< card text="Слепота" img="/images/blind.webp"  link="/slepota-posle-lazernoj-korrekczii-zreniya" >}}
 

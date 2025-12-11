@@ -110,6 +110,6 @@ type: post
 
 ## См. также
 
-- [Может ли ухудшиться зрение после ЛКЗ?](/oslozhneniya/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/)
-- [Астигматизм после лазерной коррекции](/riski-i-posledstviya/astigmatizm-posle-lazernoj-korrekczii-zreniya/)
-- [Регрессия после ЛКЗ](/riski-i-posledstviya/)
+- [Может ли ухудшиться зрение после ЛКЗ?](/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/)
+- [Астигматизм после лазерной коррекции](/astigmatizm-posle-lazernoj-korrekczii-zreniya/)
+- [Регрессия после ЛКЗ](/)

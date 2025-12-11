@@ -61,6 +61,6 @@ aliases:
 
 ## См. также
 
-- [Слепота после лазерной коррекции](/riski-i-posledstviya/slepota-posle-lazernoj-korrekczii-zreniya/)
-- [Депрессия после ЛКЗ](/riski-i-posledstviya/depressiya-posle-lazernoj-korrekczii-zreniya/)
-- [Неестественная смерть после ЛКЗ](/riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya/)
+- [Слепота после лазерной коррекции](/slepota-posle-lazernoj-korrekczii-zreniya/)
+- [Депрессия после ЛКЗ](/depressiya-posle-lazernoj-korrekczii-zreniya/)
+- [Неестественная смерть после ЛКЗ](/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya/)

@@ -91,6 +91,6 @@ type: post
 
 ## См. также
 
-- [10 причин не делать ЛКЗ](/riski-i-posledstviya/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
-- [Повреждение нервов](/oslozhneniya/povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya/)
-- [Роговичная невралгия](/oslozhneniya/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya/)
+- [10 причин не делать ЛКЗ](/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
+- [Повреждение нервов](/povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya/)
+- [Роговичная невралгия](/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya/)

@@ -71,6 +71,6 @@ type: post
 
 ## См. также
 
-- [10 причин не делать ЛКЗ](/riski-i-posledstviya/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
-- [Вся правда о лазерной коррекции](/riski-i-posledstviya/vsya-pravda-o-lazernoj-korrekczii-zreniya/)
-- [Несколько пар очков после ЛКЗ](/riski-i-posledstviya/neskolko-par-ochkov/)
+- [10 причин не делать ЛКЗ](/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
+- [Вся правда о лазерной коррекции](/vsya-pravda-o-lazernoj-korrekczii-zreniya/)
+- [Несколько пар очков после ЛКЗ](/neskolko-par-ochkov/)

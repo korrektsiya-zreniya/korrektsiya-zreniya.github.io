@@ -57,5 +57,5 @@ date: 2025-01-01
 
 ## См. также
 
-- [Лазерная коррекция и большие зрачки: история болезни 2](/oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-2/)
-- [Потеря контрастной чувствительности](/oslozhneniya/poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya/)
+- [Лазерная коррекция и большие зрачки: история болезни 2](/lasik-i-bolshie-zrachki-istoriya-bolezni-2/)
+- [Потеря контрастной чувствительности](/poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya/)

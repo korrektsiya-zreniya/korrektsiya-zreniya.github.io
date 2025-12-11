@@ -70,6 +70,6 @@ type: post
 
 ## См. также
 
-- [Трудности при чтении после ЛКЗ](/riski-i-posledstviya/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya/)
-- [Несколько пар очков после ЛКЗ](/riski-i-posledstviya/neskolko-par-ochkov/)
-- [Лазерная коррекция после 40 лет](/riski-i-posledstviya/lazernaya-korrekcziya-zreniya-posle-40-let/)
+- [Трудности при чтении после ЛКЗ](/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya/)
+- [Несколько пар очков после ЛКЗ](/neskolko-par-ochkov/)
+- [Лазерная коррекция после 40 лет](/lazernaya-korrekcziya-zreniya-posle-40-let/)

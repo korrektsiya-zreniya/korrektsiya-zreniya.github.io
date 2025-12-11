@@ -43,5 +43,5 @@ type: post
 
 ## См. также
 
-- [Почему после коррекции вблизи плохо видно](/oslozhneniya/pochemu-posle-korrekczii-zreniya-vblizi-ploho-vidno/)
-- [Трудности при чтении](/riski-i-posledstviya/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya/)
+- [Почему после коррекции вблизи плохо видно](/pochemu-posle-korrekczii-zreniya-vblizi-ploho-vidno/)
+- [Трудности при чтении](/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya/)

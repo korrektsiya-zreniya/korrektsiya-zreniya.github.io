@@ -71,4 +71,4 @@ date: 2025-01-01
 ## См. также
 
 - [История болезни 1](/oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-1/)
-- [Эффект звёздочек (Starburst)](/pobochnye-effekty/starburst/)
+- [Эффект звёздочек (Starburst)](/starburst/)

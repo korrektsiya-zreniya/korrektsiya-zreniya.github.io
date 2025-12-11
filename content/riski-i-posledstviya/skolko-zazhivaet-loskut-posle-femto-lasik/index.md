@@ -77,6 +77,6 @@ type: post
 
 ## См. также
 
-- [Смещение лоскута после ЛКЗ](/oslozhneniya/smeshhenie-loskuta-posle-lazernoj-korrekczii-zreniya/)
-- [Тонкая роговица после ЛКЗ](/oslozhneniya/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya/)
-- [10 причин не делать ЛКЗ](/riski-i-posledstviya/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
+- [Смещение лоскута после ЛКЗ](/smeshhenie-loskuta-posle-lazernoj-korrekczii-zreniya/)
+- [Тонкая роговица после ЛКЗ](/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya/)
+- [10 причин не делать ЛКЗ](/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)

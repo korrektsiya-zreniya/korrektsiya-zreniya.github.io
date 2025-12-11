@@ -64,6 +64,6 @@ tags:
 
 ## См. также
 
-- [10 причин не делать ЛКЗ](/riski-i-posledstviya/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
-- [Вся правда о лазерной коррекции](/riski-i-posledstviya/vsya-pravda-o-lazernoj-korrekczii-zreniya/)
+- [10 причин не делать ЛКЗ](/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
+- [Вся правда о лазерной коррекции](/vsya-pravda-o-lazernoj-korrekczii-zreniya/)
 - [Отзывы пострадавших](/otzyvy/)

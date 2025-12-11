@@ -108,6 +108,6 @@ type: post
 
 ## См. также
 
-- [Эффект звёздочек (Starburst)](/pobochnye-effekty/starburst/)
-- [Глэр после лазерной коррекции](/pobochnye-effekty/gler-posle-lazernoj-korrekcii-zreniya/)
-- [Ореолы и гало](/pobochnye-effekty/oreoly-i-galo/)
+- [Эффект звёздочек (Starburst)](/starburst/)
+- [Глэр после лазерной коррекции](/gler-posle-lazernoj-korrekcii-zreniya/)
+- [Ореолы и гало](/oreoly-i-galo/)

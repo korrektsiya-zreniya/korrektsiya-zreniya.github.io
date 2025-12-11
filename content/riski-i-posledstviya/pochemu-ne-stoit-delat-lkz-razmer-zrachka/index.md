@@ -62,4 +62,4 @@ type: post
 
 - [Лазерная коррекция и большие зрачки: история 1](/oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-1/)
 - [Лазерная коррекция и большие зрачки: история 2](/oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-2/)
-- [Эффект звёздочек (Starburst)](/pobochnye-effekty/starburst/)
+- [Эффект звёздочек (Starburst)](/starburst/)

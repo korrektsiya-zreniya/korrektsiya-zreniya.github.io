@@ -103,6 +103,6 @@ type: post
 
 ## См. также
 
-- [Может ли ухудшиться зрение после лазерной коррекции?](/oslozhneniya/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/)
-- [Астигматизм после ЛКЗ](/riski-i-posledstviya/astigmatizm-posle-lazernoj-korrekczii-zreniya/)
-- [Синдром сухого глаза](/oslozhneniya/)
+- [Может ли ухудшиться зрение после лазерной коррекции?](/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/)
+- [Астигматизм после ЛКЗ](/astigmatizm-posle-lazernoj-korrekczii-zreniya/)
+- [Синдром сухого глаза](/suhoj-glaz-posle-lazernoj-korrekczii-zreniya/)

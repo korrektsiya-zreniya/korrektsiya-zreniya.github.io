@@ -68,5 +68,5 @@ type: post
 ## См. также
 
 - [Канал Lazerstop — пациент МНТК им. Фёдорова](/otzyvy/2025-04-08-kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova/)
-- [Непереносимость экранов после ЛКЗ](/oslozhneniya/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya/)
-- [Усталость глаз после ЛКЗ](/oslozhneniya/ustalost-glaz-posle-lazernoj-korrekczii-zreniya/)
+- [Непереносимость экранов после ЛКЗ](/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya/)
+- [Усталость глаз после ЛКЗ](/ustalost-glaz-posle-lazernoj-korrekczii-zreniya/)

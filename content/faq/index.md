@@ -68,7 +68,7 @@ date: 2025-01-01
 - Хирургических ошибках
 - Прогрессирующем кератоконусе
 
-Подробнее: [Слепота после лазерной коррекции](/riski-i-posledstviya/slepota-posle-lazernoj-korrekczii-zreniya/)
+Подробнее: [Слепота после лазерной коррекции](/slepota-posle-lazernoj-korrekczii-zreniya/)
 
 ### Осложнения временные или постоянные?
 

@@ -43,6 +43,6 @@ tags:
 
 ## См. также
 
-- [Депрессия после лазерной коррекции](/riski-i-posledstviya/depressiya-posle-lazernoj-korrekczii-zreniya/)
-- [Неестественная смерть после ЛКЗ](/riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya/)
-- [Лазерная коррекция должна быть запрещена — бывший консультант FDA](/riski-i-posledstviya/lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda/)
+- [Депрессия после лазерной коррекции](/depressiya-posle-lazernoj-korrekczii-zreniya/)
+- [Неестественная смерть после ЛКЗ](/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya/)
+- [Лазерная коррекция должна быть запрещена — бывший консультант FDA](/lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda/)

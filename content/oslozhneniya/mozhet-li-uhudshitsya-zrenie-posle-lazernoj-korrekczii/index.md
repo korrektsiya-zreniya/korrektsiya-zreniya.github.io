@@ -63,6 +63,6 @@ type: post
 
 ## См. также
 
-- [После лазерной коррекции зрения ухудшается зрение](/oslozhneniya/posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie/)
-- [Эктазия роговицы](/oslozhneniya/ektaziya-rogovicy-posle-lazernoj-korrekczii-zreniya/)
-- [Регрессия после ЛКЗ](/riski-i-posledstviya/)
+- [После лазерной коррекции зрения ухудшается зрение](/posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie/)
+- [Эктазия роговицы](/ektaziya-rogovicy-posle-lazernoj-korrekczii-zreniya/)
+- [Регрессия после ЛКЗ](/)

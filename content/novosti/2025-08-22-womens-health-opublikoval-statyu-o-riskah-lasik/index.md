@@ -2,7 +2,7 @@
 title: "Women’s Health опубликовал большую статью о рисках лазерной коррекции зрения"
 date: 2025-08-22
 
-slug: novosti/2025-08-22-womens-health-opublikoval-statyu-o-riskah-lasik
+slug: 2025-08-22-womens-health-opublikoval-statyu-o-riskah-lasik
 type: post
 description: Описание отсутствует.
 ---

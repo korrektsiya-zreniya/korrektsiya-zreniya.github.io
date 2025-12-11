@@ -3,10 +3,8 @@ title: "Почему офтальмологи не делают себе лаз�
 description: "Разбираемся, почему многие глазные хирурги продолжают носить очки, несмотря на рекламу лазерной коррекции. Скрытые риски для специалистов."
 date: 2025-12-07T10:00:00+03:00
 draft: false
-url: "/riski-i-posledstviya/pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu"
 image: "/images/glasses_more.webp"
-
-slug: riski-i-posledstviya/pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu
+slug: pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu
 type: post
 ---
 

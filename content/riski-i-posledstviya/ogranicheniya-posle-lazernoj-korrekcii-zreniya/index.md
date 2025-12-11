@@ -3,10 +3,8 @@ title: "Ограничения после лазерной коррекции з
 description: "Алкоголь, спорт, баня, макияж — подробный разбор запретов после операции. Почему нельзя поднимать тяжести и летать на самолете?"
 date: 2025-12-07T12:00:00+03:00
 draft: false
-url: "/riski-i-posledstviya/ogranicheniya-posle-lazernoj-korrekcii-zreniya"
 image: "/images/eye-icon.webp"
-
-slug: riski-i-posledstviya/ogranicheniya-posle-lazernoj-korrekcii-zreniya
+slug: ogranicheniya-posle-lazernoj-korrekcii-zreniya
 type: post
 ---
 

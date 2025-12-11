@@ -5,8 +5,7 @@ date: 2025-12-07T11:00:00+03:00
 draft: false
 url: "/otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let"
 image: "/images/clock_eye.webp"
-
-slug: otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let
+slug: lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let
 type: post
 ---
 

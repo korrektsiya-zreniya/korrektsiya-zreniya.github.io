@@ -3,10 +3,8 @@ title: "Лазерная коррекция зрения после 40-45 лет
 description: "Пресбиопия и лазерная коррекция. Почему, исправив зрение вдаль, вы не сможете читать меню в ресторане и сообщения в телефоне."
 date: 2025-12-07T13:00:00+03:00
 draft: false
-url: "/riski-i-posledstviya/lazernaya-korrekciya-zreniya-posle-40-45-let"
 image: "/images/reading-lasik.webp"
-
-slug: riski-i-posledstviya/lazernaya-korrekciya-zreniya-posle-40-45-let
+slug: lazernaya-korrekciya-zreniya-posle-40-45-let
 type: post
 ---
 

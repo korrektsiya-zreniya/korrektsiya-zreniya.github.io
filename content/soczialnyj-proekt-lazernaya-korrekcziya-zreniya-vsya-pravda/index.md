@@ -1,6 +1,8 @@
 ---
 title: 'Независимый социальный проект «Лазерная коррекция зрения: вся правда»'
 slug: soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda
+aliases:
+  - /soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda/
 date: 2025-04-10
 
 

@@ -1,6 +1,8 @@
 ---
 title: Коррекция зрения лазером – операция – Почему я отказался от её проведения
 slug: korrekcziya-zreniya-lazerom-operacziya-pochemu-ya-otkazalsya-ot-eyo-provedeniya
+aliases:
+  - /korrekcziya-zreniya-lazerom-operacziya-pochemu-ya-otkazalsya-ot-eyo-provedeniya/
 date: 2024-04-24
 
 type: post

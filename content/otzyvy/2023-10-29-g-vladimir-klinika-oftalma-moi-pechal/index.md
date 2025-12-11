@@ -1,6 +1,8 @@
 ---
 title: г. Владимир, Мой печальный опыт лазерной коррекции зрения
 slug: g-vladimir-klinika-oftalma-moi-pechal
+aliases:
+  - /г-владимир-клиника-офтальма-мой-печал/
 date: 2023-10-28
 thumbnail: /wp-content/uploads/2023/10/1579628077142372304.jpg
 

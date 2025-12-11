@@ -1,6 +1,8 @@
 ---
 title: Кератоконус после лазерной коррекции зрения
 slug: keratokonus-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/oslozhneniya/keratokonus/
 weight: 10
 
 type: post

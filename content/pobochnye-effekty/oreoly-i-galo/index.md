@@ -1,6 +1,9 @@
 ---
 title: Ореолы и гало после лазерной коррекции зрения
 slug: oreoly-i-galo
+aliases:
+  - /oreoly-i-galo/
+  - /riski-i-posledstviya/oslozhneniya/problemy-nochnogo-zreniya/
 thumbnail: /wp-content/uploads/2025/04/halos-destellos-deslumbramiento.png.webp
 
 type: post

@@ -1,6 +1,8 @@
 ---
 title: Страница программиста из Сбера пострадавшего от лазерной коррекции зрения
 slug: stranicza-programmista-iz-sbera-postradavshego-ot-lazernoj-korrekczii-zreniya
+aliases:
+  - /stranicza-programmista-iz-sbera-postradavshego-ot-lazernoj-korrekczii-zreniya/
 description: История программиста из Сбербанка, столкнувшегося с осложнениями после лазерной коррекции зрения. Реальный отзыв спустя годы.
 date: 2025-04-08
 

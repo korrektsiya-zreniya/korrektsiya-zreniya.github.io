@@ -1,6 +1,8 @@
 ---
 title: Десять причин не делать лазерную коррекцию зрения
 slug: desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya
+aliases:
+  - /desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/
 
 
 type: post

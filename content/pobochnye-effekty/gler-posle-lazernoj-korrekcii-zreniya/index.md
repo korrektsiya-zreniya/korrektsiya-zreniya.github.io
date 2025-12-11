@@ -1,6 +1,8 @@
 ---
 title: Глэр эффект после лазерной коррекции зрения
 slug: gler-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /gler-posle-lazernoj-korrekcii-zreniya/
 
 type: post
 date: 2025-01-01

@@ -1,6 +1,8 @@
 ---
 title: "Почему не стоит делать ЛКЗ: размер зрачка — скрытая угроза"
 slug: pochemu-ne-stoit-delat-lkz-razmer-zrachka
+aliases:
+  - /shirokij-zrachok/
 description: "Размер зрачка — скрытая угроза при лазерной коррекции зрения. Почему клиники игнорируют этот важный фактор?"
 date: 2025-03-06
 tags:

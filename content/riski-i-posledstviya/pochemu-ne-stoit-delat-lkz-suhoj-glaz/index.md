@@ -1,6 +1,8 @@
 ---
 title: "Почему не стоит делать ЛКЗ: сухой глаз, который не лечится"
 slug: pochemu-ne-stoit-delat-lkz-suhoj-glaz
+aliases:
+  - /riski-i-posledstviya/oslozhneniya/suhost-glaz/
 description: "Синдром сухого глаза после лазерной коррекции — самое частое осложнение, которое может не пройти никогда."
 date: 2025-03-06
 tags:

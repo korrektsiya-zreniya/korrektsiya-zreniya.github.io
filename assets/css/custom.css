@@ -33,7 +33,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('/images/header_lazkor.webp');
+  background-image: url('/images/header_lazkor.webp'), url('data:image/webp;base64,UklGRmACAABXRUJQVlA4IFQCAADwEACdASqWABwAPtFYpUyoJSOiKzJOIQAaCWUAzoX/6n7uB2hv3Bu06qY9fJhUHXfPdAcNIb+7HQNrOy1wUKG3g5BYvNV37WDJRj7/9cs3e8/VtMv95qcy084yaWdecNdFls4JbRbHMpXNfM5ddSAFcbDbFBvQK98/6gELxxrba/dQqN3dbKXroU7O3P+hRAAA/vsQSs33RsVLbddEBz6efveQBCJbakLMlcxOWOOS5yyRS0n3S2bDzVXWuS4mzQ705vaKqtYhAJu39IiMdZbU1yeileeuTEt0TZGcfbae+Nl5QY0u7f8bjT8Pc8zr8IuN5BQNlA4tVrlXgzjbaBsozw1/qaEuS8uvtasOgsBQtlH+XAFVGv7UM/PI1O9DKrH1Z5FLBxJq18aVGblhNOgP0+T5Z1/wlroZvEjamQEyL/kGzz5SXM+jCzhj9FUjrNLTWaZQMJEfZPyoEXtXKmwqV9Hn5vU4KWYo53MeHPUOz8DTI64HUiyvmPJdB3L274vMwrJuwBj8GUksIgx34CqIbvso4pw+jPfYX94Ul5xISWb0nheaQfiN4kCR/iAlMQ5v25LwKXh1CyhKRoyLCvwhGz9281I2lsJo3GgiEIj+WuhppvqG72tfb2Q1DF8HoX+yuZ7ReeE8Fs29ch9IIkCxda2GrGfmvrkXclFyVPF3wPN4MBmRjI+zCwOwIC1T0sX9iN71rlODVUIiYe5BvklKOfkZCbqq5m7rGF24zIgwj4/B2sPcdFerKmAhUDt0uwQ5cRZuxdOblTGMBKobAmAAAAAAAA==');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -6,3 +6,5 @@ dist
 tmp
 seo_data/
 korrektsiya-zreniya.github.io.code-workspace
+missing_seo_report.txt
+scripts/scan_missing_seo.py

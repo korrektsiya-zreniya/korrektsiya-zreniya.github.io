@@ -13,10 +13,7 @@ keywords:
 type: post
 ---
 
-<video controls width="100%" style="max-width: 800px; display: block; margin: 0 auto 2rem auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-  <source src="/videos/rinskaya-interview.mp4" type="video/mp4">
-  Ваш браузер не поддерживает воспроизведение видео.
-</video>
+{{< video src="/videos/rinskaya-interview.webm" type="video/webm" poster="/videos/rinskaya-interview-poster.jpg" >}}
 
 ## Об эксперте
 

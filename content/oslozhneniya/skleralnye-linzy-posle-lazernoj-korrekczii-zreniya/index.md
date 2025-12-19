@@ -1,7 +1,8 @@
 ---
 title: Склеральные линзы после лазерной коррекции зрения
 slug: skleralnye-linzy-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - /oslozhneniya/skleralnye-linzy-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

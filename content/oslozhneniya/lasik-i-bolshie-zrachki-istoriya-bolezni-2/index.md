@@ -1,6 +1,8 @@
 ---
 title: 'Лазерная коррекция и большие зрачки: история болезни 2'
 slug: lasik-i-bolshie-zrachki-istoriya-bolezni-2
+aliases:
+  - /oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-2/
 weight: 1000
 description: Второй клинический случай пациента с большими зрачками после лазерной коррекции. Демонстрация проблем ночного зрения.
 thumbnail: image-1.webp

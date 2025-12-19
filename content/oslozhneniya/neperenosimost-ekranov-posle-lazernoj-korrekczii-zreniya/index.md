@@ -1,7 +1,8 @@
 ---
 title: Непереносимость экранов после лазерной коррекции зрения
 slug: neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - /oslozhneniya/neperenosimost-ekranov-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

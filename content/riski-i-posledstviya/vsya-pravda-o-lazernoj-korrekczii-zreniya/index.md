@@ -3,6 +3,7 @@ title: "Вся правда о лазерной коррекции зрения"
 slug: vsya-pravda-o-lazernoj-korrekczii-zreniya
 aliases:
   - /vsya-pravda-o-lazernoj-korrekczii-zreniya/
+  - /riski-i-posledstviya/vsya-pravda-o-lazernoj-korrekczii-zreniya/
 description: "Вся правда о лазерной коррекции зрения: риски, осложнения, последствия, о которых не говорят в клиниках."
 date: 2025-04-07
 type: post

@@ -1,6 +1,8 @@
 ---
 title: "После лазерной коррекции зрения ухудшается зрение"
 slug: posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie
+aliases:
+  - /oslozhneniya/posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie/
 description: "Почему ухудшается зрение после лазерной коррекции? Причины, когда это временно, а когда требует лечения."
 date: 2025-04-02
 tags:

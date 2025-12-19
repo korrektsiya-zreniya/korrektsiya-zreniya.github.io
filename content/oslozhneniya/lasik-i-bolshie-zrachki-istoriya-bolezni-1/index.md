@@ -1,6 +1,8 @@
 ---
 title: 'Лазерная коррекция и большие зрачки: история болезни 1'
 slug: lasik-i-bolshie-zrachki-istoriya-bolezni-1
+aliases:
+  - /oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-1/
 weight: 999
 description: Реальная история пациента с большими зрачками после лазерной коррекции. Топография роговицы и визуализация проблем ночного зрения.
 thumbnail: image-1.webp

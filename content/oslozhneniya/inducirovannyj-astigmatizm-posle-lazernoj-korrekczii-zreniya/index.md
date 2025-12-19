@@ -1,7 +1,8 @@
 ---
 title: Индуцированный астигматизм после лазерной коррекции зрения
 slug: inducirovannyj-astigmatizm-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - /oslozhneniya/inducirovannyj-astigmatizm-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

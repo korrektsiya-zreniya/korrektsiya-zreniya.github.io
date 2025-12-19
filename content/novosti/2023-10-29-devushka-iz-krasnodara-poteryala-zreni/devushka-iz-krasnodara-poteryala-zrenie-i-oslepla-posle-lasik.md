@@ -5,6 +5,8 @@ date: 2023-10-28
 thumbnail: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik/img_1.png
 
 slug: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik
+aliases:
+  - /девушка-из-краснодара-потеряла-зрение-и-ослепла-после-lasik/
 type: post
 description: Описание отсутствует.
 ---

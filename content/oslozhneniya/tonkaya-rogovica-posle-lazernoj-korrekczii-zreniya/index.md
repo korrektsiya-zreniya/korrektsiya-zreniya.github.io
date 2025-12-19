@@ -1,7 +1,8 @@
 ---
 title: Тонкая роговица после лазерной коррекции зрения
 slug: tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - /oslozhneniya/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

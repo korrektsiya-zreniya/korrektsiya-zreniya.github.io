@@ -1,6 +1,8 @@
 ---
 title: 5 000 000 рублей просит взыскать орчанка с медицинской организации за неудачную операцию коррекции зрения
 slug: pyat-millionov-rublej-prosit-vzyskat-orchanka-za-neudachnuyu-operacziyu-korrekczii-zreniya
+aliases:
+  - /pyat-millionov-rublej-prosit-vzyskat-orchanka-s-mediczinskoj-organizaczii-za-neudachnuyu-operacziyu-korrekczii-zreniya/
 date: 2025-02-10
 
 type: post

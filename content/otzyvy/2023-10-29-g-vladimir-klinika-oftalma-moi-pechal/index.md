@@ -3,6 +3,7 @@ title: г. Владимир, Мой печальный опыт лазерной
 slug: g-vladimir-klinika-oftalma-moi-pechal
 aliases:
   - /г-владимир-клиника-офтальма-мой-печал/
+  - /g-vladimir-klinika-oftalma-moj-pechal/
 date: 2023-10-28
 thumbnail: /wp-content/uploads/2023/10/1579628077142372304.jpg
 

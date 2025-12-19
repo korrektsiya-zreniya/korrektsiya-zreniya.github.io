@@ -1,7 +1,8 @@
 ---
 title: Воспаление после лазерной коррекции зрения
 slug: vospalenie-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - /oslozhneniya/vospalenie-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

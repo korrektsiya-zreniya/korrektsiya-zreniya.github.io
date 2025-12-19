@@ -1,6 +1,8 @@
 ---
 title: Туман в глазах после лазерной коррекции
 slug: tuman-v-glazah-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/tuman-v-glazah-posle-lazernoj-korrekczii/
 
 type: post
 date: 2025-01-01

@@ -5,6 +5,7 @@ aliases:
   - /soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda/
   - /лазерная-коррекция-зрения-вся-правда/
   - /gruppa-postradavshih-lazernaya-korrekcziya-zreniya/
+  - /o-proekte/
 date: 2025-04-10
 
 

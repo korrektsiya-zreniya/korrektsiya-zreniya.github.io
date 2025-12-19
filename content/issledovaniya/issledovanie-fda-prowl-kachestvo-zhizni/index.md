@@ -15,6 +15,11 @@ tags:
 
 **PROWL (Patient-Reported Outcomes With LASIK)** — исследование, проведённое FDA в 2014-2016 годах для оценки **реального качества жизни** пациентов после лазерной коррекции.
 
+<figure style="text-align: center;">
+  <img src="/images/fda_lasik.jpg" alt="FDA и LASIK">
+  <figcaption>Федеральное управление США провело исследование осложнений LASIK.</figcaption>
+</figure>
+
 Источник: [FDA LASIK Quality of Life Study](http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/SurgeryandLifeSupport/LASIK/ucm190291.htm)
 
 ## Ключевые результаты

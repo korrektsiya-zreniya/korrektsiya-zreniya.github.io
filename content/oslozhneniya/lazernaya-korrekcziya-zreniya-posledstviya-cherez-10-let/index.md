@@ -45,3 +45,10 @@ tags:
 ## Вывод
 
 Лазерная коррекция — это **не решение на всю жизнь**. Через 10 лет большинство пациентов сталкиваются с новыми проблемами.
+
+## Читайте также
+
+*   [Регресс зрения →](/oslozhneniya/regress-posle-lazernoj-korrekczii-zreniya/)
+*   [Катаракта раньше →](/oslozhneniya/katarakta-posle-lazernoj-korrekczii-zreniya/)
+*   [Эктазия роговицы →](/oslozhneniya/keratokonus-posle-lazernoj-korrekczii-zreniya/)
+*   [Сухость глаз →](/oslozhneniya/suhost-glaz-posle-lazernoj-korrekcii-zreniya/)

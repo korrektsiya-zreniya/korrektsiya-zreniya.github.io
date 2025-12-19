@@ -48,6 +48,11 @@ tags:
 *   Он может не прочитать дорожный знак вовремя из-за двоения.
 
 <figure style="text-align: center;">
+  <img src="/images/pedestrian_obscured.jpg" alt="Пешеход скрыт бликами">
+  <figcaption>Симуляция: пешеход на дороге полностью скрыт за световым ореолом от фонаря. Смертельно опасная ситуация.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
   <img src="/images/driving_roadsigns_ghosting.jpg" alt="Двоение дорожных знаков">
   <figcaption>Двоение (Ghosting) дорожных указателей. Текст становится нечитаемым.</figcaption>
 </figure>

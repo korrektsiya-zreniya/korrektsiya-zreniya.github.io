@@ -6,9 +6,12 @@ lastmod: 2025-06-11
 draft: false
 slug: "glaukoma-i-povrezhdenie-zritelnogo-nerva"
 image: "images/glaucoma-nerve.jpg"
-tags:
-  - осложнения
-categories: ["Осложнения", "Слепота"]
+keywords:
+  - глаукома и ласик
+  - давление после лазерной коррекции
+  - измерение глазного давления после операции
+  - повреждение зрительного нерва вакуумом
+  - стероидная глаукома капли
 
 type: post
 ---

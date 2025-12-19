@@ -9,7 +9,13 @@ tags:
 
 
 type: post
-description: Описание отсутствует.
+description: "Жительница Актобе Гульбану Омарова потеряла зрение на один глаз после лазерной коррекции и отсудила компенсацию у клиники."
+keywords:
+  - потеря зрения актобе
+  - суд с клиникой казахстан
+  - помутнение роговицы после операции
+  - гульбану омарова зрение
+  - неудачная лазерная коррекция отзывы
 ---
 <figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 

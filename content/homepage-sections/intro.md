@@ -5,7 +5,13 @@ title: intro
 slug: homepage-sections/intro
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "Блок с карточками основных проблем и рисков после лазерной коррекции зрения (слепота, сухой глаз, гало)."
+keywords:
+  - осложнения лазерной коррекции
+  - риски ласик
+  - слепота после операции
+  - сухой глаз после коррекции
+  - проблемы со зрением
 ---
 {{< cards >}}
   {{< card text="Несколько пар очков" img="/images/glasses_more.webp"  link="/neskolko-par-ochkov" >}}

@@ -6,11 +6,12 @@ lastmod: 2025-06-11
 draft: false
 slug: "rogovichnaya-nevropatiya-i-hronicheskaya-bol"
 image: "images/corneal-neuropathy.jpg"
-tags:
-  - боль
-  - депрессия
-  - сухой глаз
-categories: ["Осложнения", "Боль"]
+keywords:
+  - роговичная невропатия симптомы
+  - хроническая боль после ласик
+  - боль в глазах без причин
+  - невралгия тройничного нерва глаза
+  - лечение нейропатической боли глаз
 
 type: post
 ---

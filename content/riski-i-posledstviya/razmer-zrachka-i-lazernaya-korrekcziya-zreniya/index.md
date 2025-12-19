@@ -33,6 +33,33 @@ tags:
 >
 > *— [Chaglasian et al., J Cataract Refract Surg, 2006](https://pubmed.ncbi.nlm.nih.gov/16565002/)*
 
+
+## Визуализация проблемы
+
+Почему пациенты с широкими зрачками видят плохо? Вот наглядный пример:
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; width: 45%;">
+    <img src="/images/night_vision_before.jpg" alt="Зрение ночью до операции" style="width: 100%;">
+    <p><em>Зрение ночью в очках (норма)</em></p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="/images/night_vision_after_large_pupils.jpg" alt="Зрение ночью после LASIK с широким зрачком" style="width: 100%;">
+    <p><em>Зрение после LASIK с широким зрачком</em></p>
+  </div>
+</div>
+
+### Математика катастрофы
+
+Взгляните на это фото пациента. Линейка показывает, что его зрачок в темноте расширяется до **8 мм**. При этом зона работы лазера (оптическая зона) составляла всего **6 мм**.
+
+<figure style="text-align: center;">
+  <img src="/images/pupil_8mm_zone_6mm.jpg" alt="8мм зрачок и 6мм зона абляции">
+  <figcaption>Красным показана зона лазера (6 мм). Всё, что за её пределами (до 8 мм) — это необработанная роговица, через которую проходит "мусорный" свет, вызывая аберрации.</figcaption>
+</figure>
+
+Это называется **"Отрицательный зазор" (Negative Clearance)**. Свет, проходящий через периферию зрачка (зону, где роговица не была изменена лазером), не фокусируется на сетчатке правильно.
+
 ## Что считается «большим» зрачком
 
 - **Менее 6 мм** — обычно безопасно
@@ -41,8 +68,15 @@ tags:
 
 ## Проблема: клиники игнорируют
 
-Многие клиники **не измеряют** размер зрачка в темноте (скотопический зрачок). Или измеряют, но **не отказывают** пациентам с большими зрачками.
+Многие клиники **не измеряют** размер зрачка в темноте (скотопический зрачок). Или измеряют, но **не отказывают** пациентам с большими зрачками, называя это "индивидуальной особенностью".
 
 ## Вывод
 
-Если ваш зрачок расширяется более 6-7 мм — риск **пожизненных** ночных нарушений зрения значительно выше.
+Если ваш зрачок расширяется более 6-7 мм — риск **пожизненных** ночных нарушений зрения значительно выше. Вы можете навсегда потерять возможность комфортно водить машину ночью.
+
+## Источники
+
+1.  **FDA Checklist**: [FDA LASIK Surgery Checklist](http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/SurgeryandLifeSupport/LASIK/ucm061325.htm) — Предупреждение о больших зрачках.
+2.  **Исследование Mayo Clinic**: [Mayo Clinic LASIK Risks](http://www.mayoclinic.com/health/lasik-surgery/MY00375/NSECTIONGROUP=2) — Упоминание о гало и бликах у пациентов с большими зрачками.
+3.  **Научная статья**: *Ocular surgery news, 2002*. "Accurate pupillometry is an essential part of the evaluation... a large pupil is the predominant factor leading to [night vision] problems."
+4.  **Связь размера зрачка и качества зрения**: [Pupil Size and LASIK](http://lasikcomplications.com/pupil-size-and-lasik.htm) — Обзор исследований.

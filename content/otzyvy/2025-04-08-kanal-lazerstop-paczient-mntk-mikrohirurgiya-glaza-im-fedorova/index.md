@@ -4,6 +4,12 @@ slug: kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova
 aliases:
   - /kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova/
 description: "Видеоотзывы и истории пациентов о лазерной коррекции зрения от канала Lazerstop"
+keywords:
+  - канал lazerstop
+  - мнтк федорова отзывы
+  - антон lazerstop
+  - ошибки врачей офтальмологов
+  - удаление глаза после коррекции
 date: 2025-04-08
 thumbnail: channels4_banner-e1744124167426.webp
 tags:

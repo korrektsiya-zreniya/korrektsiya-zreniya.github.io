@@ -5,6 +5,12 @@ date: 2025-12-07T11:00:00+03:00
 draft: false
 url: "/otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let"
 image: "/images/clock_eye.webp"
+keywords:
+  - лазерная коррекция зрения отзывы спустя много лет
+  - последствия лазерной коррекции через 10 лет
+  - отзывы после lasik спустя годы
+  - зрение упало через 10 лет после операции
+  - долгосрочные последствия лазерной коррекции
 slug: lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let
 type: post
 ---

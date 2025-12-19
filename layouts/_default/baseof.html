@@ -36,6 +36,8 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
 	{{- $server := "" }}
 	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
 	{{ $server = hugo.IsServer }}

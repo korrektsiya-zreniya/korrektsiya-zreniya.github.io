@@ -20,7 +20,7 @@ tags:
 Результат: прогрессирующая потеря зрения, которую **невозможно исправить очками**.
 
 <figure style="text-align: center;">
-  <img src="/images/ectasia-registry-2(290).jpg" alt="Топограмма роговицы с кератоэктазией">
+  <img src="/images/ectasia_registry.jpg" alt="Топограмма роговицы с кератоэктазией">
   <figcaption>Красная зона показывает патологическое выпячивание роговицы после LASIK.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ tags:
 В итоге ей потребовалась **пересадка роговицы** — сложнейшая операция с пожизненным риском отторжения и долгим восстановлением.
 
 <figure style="text-align: center;">
-  <img src="/images/spice-girl-mel-b-has-post-lasik-ectasia.jpg" alt="Мел Би пострадала от лазерной коррекции">
+  <img src="/images/mel_b_lasik.jpg" alt="Мел Би пострадала от лазерной коррекции">
   <figcaption>Мелани Браун (Mel B) перенесла пересадку роговицы после осложнений LASIK.</figcaption>
 </figure>
 

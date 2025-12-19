@@ -8,6 +8,17 @@ theme = "mainroad"
 minify = true
 enableRobotsTXT = true
 
+# Allow video files as page resources
+[mediaTypes]
+  [mediaTypes."video/mp4"]
+    suffixes = ["mp4"]
+
+[outputFormats]
+  [outputFormats.mp4]
+    mediaType = "video/mp4"
+    isPlainText = false
+    notAlternative = true
+
 [services]
   [services.googleAnalytics]
     id = 'G-N1FNTQ7NCM'

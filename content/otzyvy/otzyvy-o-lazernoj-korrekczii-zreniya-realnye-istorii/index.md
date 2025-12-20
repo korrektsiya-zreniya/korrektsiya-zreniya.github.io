@@ -22,7 +22,7 @@ tags:
 Клиники показывают только **положительные** отзывы. Здесь собраны **реальные истории** пациентов с осложнениями.
 
 <figure style="text-align: center;">
-  <img src="/images/patient_letters.jpg" alt="Письма пациентов">
+  <img src="/images/patient_letters.webp" alt="Письма пациентов">
   <figcaption>Письма и жалобы пациентов, которые страдают после лазерной коррекции.</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "lazernaya-koagulyaciya-i-korrekciya-otlichiya"
-image: "images/retina-vs-cornea.jpg"
+image: "images/retina-vs-cornea.webp"
 tags:
   - альтернативы
   - осложнения

@@ -11,7 +11,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "ostrota-zreniya-ne-garantiya-kachestva"
-image: "images/snellen-blur.jpg"
+image: "images/snellen-blur.webp"
 tags:
   - ночное зрение
   - риски

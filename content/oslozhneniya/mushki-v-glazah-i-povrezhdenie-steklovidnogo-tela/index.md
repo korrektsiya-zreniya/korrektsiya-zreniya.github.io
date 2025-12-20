@@ -5,7 +5,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "mushki-v-glazah-i-povrezhdenie-steklovidnogo-tela"
-image: "images/floaters-vitreous.jpg"
+image: "images/floaters-vitreous.webp"
 tags:
   - исследования
   - осложнения

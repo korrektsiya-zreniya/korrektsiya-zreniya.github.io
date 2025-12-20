@@ -4,7 +4,7 @@ slug: oreoly-i-galo
 aliases:
   - /oreoly-i-galo/
   - /riski-i-posledstviya/oslozhneniya/problemy-nochnogo-zreniya/
-thumbnail: /wp-content/uploads/2025/04/halos-destellos-deslumbramiento.png.webp
+thumbnail: /wp-content/uploads/2025/04/halos-destellos-deslumbramiento.webp.webp
 
 type: post
 date: 2025-01-01
@@ -51,3 +51,5 @@ keywords:
 ### Заключение
 
 Ореолы и гало — это распространенные побочные эффекты лазерной коррекции зрения, которые могут быть временными или сохраняться длительное время. Важно быть информированным о всех возможных последствиях операции и не стесняться обращаться за помощью к специалистам, если эти симптомы значительно снижают качество вашей жизни. Ваше зрение — это не только острота, но и комфорт восприятия мира.
+
+**Источник:** [LasikComplications.com](https://lasikcomplications.com/halos.htm)

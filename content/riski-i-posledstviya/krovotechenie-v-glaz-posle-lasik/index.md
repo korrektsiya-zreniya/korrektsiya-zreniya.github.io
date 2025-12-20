@@ -17,7 +17,7 @@ keywords:
 Это **субконъюнктивальное кровоизлияние**.
 
 <figure style="text-align: center;">
-  <img src="/images/bloodeye.jpg" alt="Кровоизлияние в глаз после LASIK">
+  <img src="/images/bloodeye.webp" alt="Кровоизлияние в глаз после LASIK">
   <figcaption>Типичный вид глаза после вакуумного кольца. Кровь под конъюнктивой рассасывается 2-3 недели.</figcaption>
 </figure>
 

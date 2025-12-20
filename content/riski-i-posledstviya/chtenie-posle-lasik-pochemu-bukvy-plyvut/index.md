@@ -29,7 +29,7 @@ keywords:
 Из-за аберраций высшего порядка (HOA) черные буквы на белом фоне могут казаться серыми или иметь ореолы.
 
 <figure style="text-align: center;">
-  <img src="/images/reading_simulation.jpg" alt="Симуляция чтения после LASIK">
+  <img src="/images/reading_simulation.webp" alt="Симуляция чтения после LASIK">
   <figcaption>Так видит текст пациент с потерей контрастности и легким двоением. Буквы «скачут» или размываются.</figcaption>
 </figure>
 

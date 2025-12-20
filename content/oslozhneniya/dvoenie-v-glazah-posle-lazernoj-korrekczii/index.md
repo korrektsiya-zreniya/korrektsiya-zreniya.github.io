@@ -17,7 +17,7 @@ keywords:
 **Двоение (ghosting, диплопия)** — когда пациент видит **два или более изображения** одного объекта. Это не то же самое, что размытость. Это именно копия предмета, смещенная в сторону.
 
 <figure style="text-align: center;">
-  <img src="/images/ghosted_dog.jpg" alt="Призрак изображения (Ghosting) после LASIK">
+  <img src="/images/ghosted_dog.webp" alt="Призрак изображения (Ghosting) после LASIK">
   <figcaption>Эффект "Ghosting": изображение собаки двоится по вертикали. Это типичный симптом неправильного астигматизма или эксцентричной абляции.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ keywords:
 Иногда пациенты описывают зрение не как четкое двоение, а как "размазанность" света или объектов, особенно при низком освещении.
 
 <figure style="text-align: center;">
-  <img src="/images/smeared_vision_after_LASIK.jpg" alt="Смазанное зрение после лазерной коррекции">
+  <img src="/images/smeared_vision_after_LASIK.webp" alt="Смазанное зрение после лазерной коррекции">
   <figcaption>Симуляция потери контрастности и "смазывания" (Smearing), на которое жалуются пациенты.</figcaption>
 </figure>
 
@@ -60,6 +60,6 @@ keywords:
 Двоение после лазерной коррекции — одно из самых **мешающих жить** осложнений. Оно может быть **постоянным** и трудно поддаётся коррекции.
 
 <figure style="text-align: center;">
-  <img src="/images/firehydrant_double_vision.jpg" alt="Сильное двоение в глазах">
+  <img src="/images/firehydrant_double_vision.webp" alt="Сильное двоение в глазах">
   <figcaption>Тяжелая форма монокулярной диплопии: предметы имеют четких "двойников". Очки это не исправляют.</figcaption>
 </figure>

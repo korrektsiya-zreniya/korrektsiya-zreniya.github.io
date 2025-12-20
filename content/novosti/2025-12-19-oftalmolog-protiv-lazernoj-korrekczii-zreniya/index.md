@@ -13,7 +13,7 @@ keywords:
 type: post
 ---
 
-{{< video src="/videos/rinskaya-interview.webm" type="video/webm" poster="/videos/rinskaya-interview-poster.jpg" >}}
+{{< video src="/videos/rinskaya-interview.webm" type="video/webm" poster="/videos/rinskaya-interview-poster.webp" >}}
 
 ## Об эксперте
 

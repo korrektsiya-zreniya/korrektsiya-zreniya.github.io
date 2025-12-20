@@ -2,7 +2,7 @@
 title: Пересадка роговицы
 slug: peresadka-rogoviczy
 
-thumbnail: /wp-content/uploads/2025/04/corneal_transplant.jpg
+thumbnail: /wp-content/uploads/2025/04/corneal_transplant.webp
 
 type: post
 date: 2025-01-01

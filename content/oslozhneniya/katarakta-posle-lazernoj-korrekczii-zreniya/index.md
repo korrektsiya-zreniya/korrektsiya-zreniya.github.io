@@ -23,7 +23,7 @@ keywords:
 Другое исследование (ASCRS 2015) подтвердило: операция катаракты происходит на **6 лет раньше** у пациентов с LASIK.
 
 <figure style="text-align: center;">
-  <img src="/images/age-of-cataract-extraction(625).jpg" alt="Возраст операции катаракты">
+  <img src="/images/age-of-cataract-extraction(625).webp" alt="Возраст операции катаракты">
   <figcaption>График показывает: пациенты без LASIK делают катаракту в 73 года (синий), с LASIK — в 63 года (красный).</figcaption>
 </figure>
 

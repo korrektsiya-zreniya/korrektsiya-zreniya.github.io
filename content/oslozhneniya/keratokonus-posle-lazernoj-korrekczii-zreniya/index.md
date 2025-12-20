@@ -22,8 +22,25 @@ keywords:
 Результат: прогрессирующая потеря зрения, которую **невозможно исправить очками**.
 
 <figure style="text-align: center;">
-  <img src="/images/ectasia_registry.jpg" alt="Топограмма роговицы с кератоэктазией">
+  <img src="/images/ectasia_registry.webp" alt="Топограмма роговицы с кератоэктазией">
   <figcaption>Красная зона показывает патологическое выпячивание роговицы после LASIK.</figcaption>
+</figure>
+
+### Как это выглядит в реальности:
+
+<figure style="text-align: center;">
+  <img src="/images/corneal_ectasia.webp" alt="Фото эктазии роговицы (вид сбоку)">
+  <figcaption>Вид сбоку: роговица неестественно выпячивается конусом вперед.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/images/post_lasik_ectasia.webp" alt="Эктазия после LASIK">
+  <figcaption>Тяжелая эктазия после лазерной коррекции.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/images/post_lasik_ectasia_topography.webp" alt="Топография эктазии">
+  <figcaption>Компьютерная топография: типичная картина 'красного конуса' у пациента после LASIK.</figcaption>
 </figure>
 
 ## Почему это происходит? (Биомеханика)
@@ -44,7 +61,7 @@ keywords:
 В итоге ей потребовалась **пересадка роговицы** — сложнейшая операция с пожизненным риском отторжения и долгим восстановлением.
 
 <figure style="text-align: center;">
-  <img src="/images/mel_b_lasik.jpg" alt="Мел Би пострадала от лазерной коррекции">
+  <img src="/images/mel_b_lasik.webp" alt="Мел Би пострадала от лазерной коррекции">
   <figcaption>Мелани Браун (Mel B) перенесла пересадку роговицы после осложнений LASIK.</figcaption>
 </figure>
 

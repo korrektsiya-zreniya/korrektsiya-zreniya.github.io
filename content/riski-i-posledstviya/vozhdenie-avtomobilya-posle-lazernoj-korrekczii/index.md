@@ -21,7 +21,7 @@ keywords:
 *   **Снижение контрастности**: В пасмурную погоду или сумерки объекты становятся "серыми" и плохо различимыми.
 
 <figure style="text-align: center;">
-  <img src="/images/driving_daytime_blur.jpg" alt="Размытое зрение днем за рулем">
+  <img src="/images/driving_daytime_blur.webp" alt="Размытое зрение днем за рулем">
   <figcaption>Пример того, как пациент с "единицей" (20/20) может видеть пункт оплаты на дороге. Острота есть, но качества и четкости нет.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ keywords:
 Самые большие проблемы начинаются с заходом солнца. Зрачок расширяется, и свет начинает проходить через периферийные зоны роговицы, искаженные операцией.
 
 <figure style="text-align: center;">
-  <img src="/images/driving_glare_night.jpg" alt="Ослепляющие блики на ночной трассе">
+  <img src="/images/driving_glare_night.webp" alt="Ослепляющие блики на ночной трассе">
   <figcaption>Так видит ночную дорогу пациент с осложнениями после LASIK. Ослепляющие "звезды" от фар встречных машин делают вождение опасным.</figcaption>
 </figure>
 
@@ -49,12 +49,12 @@ keywords:
 *   Он может не прочитать дорожный знак вовремя из-за двоения.
 
 <figure style="text-align: center;">
-  <img src="/images/pedestrian_obscured.jpg" alt="Пешеход скрыт бликами">
+  <img src="/images/pedestrian_obscured.webp" alt="Пешеход скрыт бликами">
   <figcaption>Симуляция: пешеход на дороге полностью скрыт за световым ореолом от фонаря. Смертельно опасная ситуация.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
-  <img src="/images/driving_roadsigns_ghosting.jpg" alt="Двоение дорожных знаков">
+  <img src="/images/driving_roadsigns_ghosting.webp" alt="Двоение дорожных знаков">
   <figcaption>Двоение (Ghosting) дорожных указателей. Текст становится нечитаемым.</figcaption>
 </figure>
 

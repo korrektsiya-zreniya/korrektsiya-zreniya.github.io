@@ -5,7 +5,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "glaukoma-i-povrezhdenie-zritelnogo-nerva"
-image: "images/glaucoma-nerve.jpg"
+image: "images/glaucoma-nerve.webp"
 keywords:
   - глаукома и ласик
   - давление после лазерной коррекции

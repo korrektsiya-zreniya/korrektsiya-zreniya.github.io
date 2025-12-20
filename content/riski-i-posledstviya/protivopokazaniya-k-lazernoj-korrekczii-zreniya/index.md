@@ -48,7 +48,7 @@ keywords:
 Многие пациенты с **относительными** противопоказаниями всё равно оперируются. Клиники заинтересованы в прибыли, а не в вашей безопасности.
 
 <figure style="text-align: center;">
-  <img src="/images/lasik_candidate.jpg" alt="Кандидат на LASIK">
+  <img src="/images/lasik_candidate.webp" alt="Кандидат на LASIK">
   <figcaption>"Идеальный кандидат" с точки зрения клиники: любой, кто может заплатить.</figcaption>
 </figure>
 

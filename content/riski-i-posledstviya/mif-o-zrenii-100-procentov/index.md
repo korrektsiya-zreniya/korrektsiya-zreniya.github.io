@@ -27,11 +27,11 @@ keywords:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <figure style="text-align: center; max-width: 300px;">
-    <img src="/images/eyechart_ghosting.jpg" alt="Таблица с двоением (Ghosting)">
+    <img src="/images/eyechart_ghosting.webp" alt="Таблица с двоением (Ghosting)">
     <figcaption><strong>Двоение (Ghosting):</strong> Пациент угадывает буквы, но видит их с «призраками». Для врача это 100% зрение.</figcaption>
   </figure>
   <figure style="text-align: center; max-width: 300px;">
-    <img src="/images/eyechart_contrast.jpg" alt="Потеря контрастности">
+    <img src="/images/eyechart_contrast.webp" alt="Потеря контрастности">
     <figcaption><strong>Потеря контраста:</strong> Буквы кажутся серыми, выцветшими. В сумерках такое зрение превращается в туман.</figcaption>
   </figure>
 </div>

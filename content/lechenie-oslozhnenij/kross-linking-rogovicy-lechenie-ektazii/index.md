@@ -21,7 +21,7 @@ tags:
 **Кросс-линкинг роговицы (CXL, corneal collagen cross-linking)** — процедура укрепления роговицы с помощью рибофлавина (витамина B2) и ультрафиолетового света.
 
 <figure style="text-align: center;">
-  <img src="/images/crosslinking.jpg" alt="Кросс-линкинг роговицы">
+  <img src="/images/crosslinking.webp" alt="Кросс-линкинг роговицы">
   <figcaption>Процедура кросс-линкинга: глаз облучается УФ-светом после пропитывания рибофлавином.</figcaption>
 </figure>
 

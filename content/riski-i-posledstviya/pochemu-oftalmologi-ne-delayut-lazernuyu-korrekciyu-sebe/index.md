@@ -47,7 +47,7 @@ keywords:
 - Осложнения не учитываются в статистике «успеха»
 
 <figure style="text-align: center;">
-  <img src="/images/lasik_surgeon_ad.jpg" alt="Реклама LASIK">
+  <img src="/images/lasik_surgeon_ad.webp" alt="Реклама LASIK">
   <figcaption>Типичная реклама: все улыбаются, никаких рисков не упоминается.</figcaption>
 </figure>
 

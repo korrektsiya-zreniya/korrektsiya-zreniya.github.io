@@ -5,7 +5,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "rogovichnaya-nevropatiya-i-hronicheskaya-bol"
-image: "images/corneal-neuropathy.jpg"
+image: "images/corneal-neuropathy.webp"
 keywords:
   - роговичная невропатия симптомы
   - хроническая боль после ласик

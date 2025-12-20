@@ -30,14 +30,14 @@ tags:
 > *"Как врач, я могу определенно заявить, что осложнения LASIK могут привести к суициду. Риски этой операции занижены, а последствия для психики игнорируются."* — Нэнси Берлесон (Nancy Burleson), доктор медицинских наук, мать Макса.
 
 <figure style="text-align: center;">
-  <img src="/images/max-cronin.jpg" alt="Макс Кронин (1989-2016)">
+  <img src="/images/max-cronin.webp" alt="Макс Кронин (1989-2016)">
   <figcaption>Макс Кронин оставил прощальное письмо, в котором прямо обвинил LASIK в разрушении своей жизни.</figcaption>
 </figure>
 
 В память о сыне доктора Берлесон установила билборд на шоссе в Техасе, предупреждающий людей об опасности.
 
 <figure style="text-align: center;">
-  <img src="/images/max-billboard.jpg" alt="Билборд Макса Кронина">
+  <img src="/images/max-billboard.webp" alt="Билборд Макса Кронина">
   <figcaption>Билборд в Техасе: "Лазерная хирургия глаз (LASIK) может привести к суициду".</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ tags:
 Колин покончил с собой в 2007 году. Его смерть стала толчком к слушаниям в FDA в 2008 году, где его отец выступил с эмоциональной речью.
 
 <figure style="text-align: center;">
-  <img src="/images/colin_dorrian.jpg" alt="Колин Дорриан">
+  <img src="/images/colin_dorrian.webp" alt="Колин Дорриан">
   <figcaption>Семья Колина Дорриана борется за запрет LASIK для пациентов с большими зрачками.</figcaption>
 </figure>
 

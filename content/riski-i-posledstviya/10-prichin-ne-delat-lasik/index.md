@@ -40,7 +40,7 @@ keywords:
 *   **Последствие**: Невралгия роговицы (хроническая боль), которая плохо поддается лечению.
 
 <figure style="text-align: center;">
-  <img src="/images/dry_eye_staining.jpg" alt="Сухость глаз после LASIK - окрашивание роговицы">
+  <img src="/images/dry_eye_staining.webp" alt="Сухость глаз после LASIK - окрашивание роговицы">
   <figcaption>Тяжелая форма сухого глаза после LASIK. Участки повреждения эпителия окрашены специальным красителем.</figcaption>
 </figure>
 

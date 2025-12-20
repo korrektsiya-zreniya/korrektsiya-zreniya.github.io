@@ -27,7 +27,7 @@ type: post
 Это не редкость — это **закономерное последствие** операции, о котором клиники предпочитают умалчивать.
 
 <figure style="text-align: center;">
-  <img src="/images/reading_simulation.jpg" alt="Симуляция чтения после LASIK">
+  <img src="/images/reading_simulation.webp" alt="Симуляция чтения после LASIK">
   <figcaption>Так может выглядеть текст для пациента, потерявшего способность фокусироваться вблизи. Буквы размыты, глаза быстро устают.</figcaption>
 </figure>
 

@@ -46,11 +46,11 @@ keywords:
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; width: 45%;">
-    <img src="/images/night_vision_before.jpg" alt="Зрение ночью до операции" style="width: 100%;">
+    <img src="/images/night_vision_before.webp" alt="Зрение ночью до операции" style="width: 100%;">
     <p><em>Зрение ночью в очках (норма)</em></p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="/images/night_vision_after_large_pupils.jpg" alt="Зрение ночью после LASIK с широким зрачком" style="width: 100%;">
+    <img src="/images/night_vision_after_large_pupils.webp" alt="Зрение ночью после LASIK с широким зрачком" style="width: 100%;">
     <p><em>Зрение после LASIK с широким зрачком</em></p>
   </div>
 </div>
@@ -60,7 +60,7 @@ keywords:
 Взгляните на это фото пациента. Линейка показывает, что его зрачок в темноте расширяется до **8 мм**. При этом зона работы лазера (оптическая зона) составляла всего **6 мм**.
 
 <figure style="text-align: center;">
-  <img src="/images/pupil_8mm_zone_6mm.jpg" alt="8мм зрачок и 6мм зона абляции">
+  <img src="/images/pupil_8mm_zone_6mm.webp" alt="8мм зрачок и 6мм зона абляции">
   <figcaption>Красным показана зона лазера (6 мм). Всё, что за её пределами (до 8 мм) — это необработанная роговица, через которую проходит "мусорный" свет, вызывая аберрации.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ keywords:
 Оптики измеряют зрачок при обычном свете. Хирурги — часто тоже. Но для LASIK критически важен **размер зрачка в полной темноте (скотопический зрачок)**.
 
 <figure style="text-align: center;">
-  <img src="/images/pupil_size_chart.jpg" alt="График размера зрачка в зависимости от условий света">
+  <img src="/images/pupil_size_chart.webp" alt="График размера зрачка в зависимости от условий света">
   <figcaption>Критическая зона: если ваш зрачок в темноте (справа на графике) больше зоны лазера (обычно 6.0-6.5 мм), вы обречены на гало и блики.</figcaption>
 </figure>
 

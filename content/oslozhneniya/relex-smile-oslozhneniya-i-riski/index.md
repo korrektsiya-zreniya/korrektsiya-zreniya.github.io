@@ -5,7 +5,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "relex-smile-oslozhneniya-i-riski"
-image: "images/smile-complications.jpg"
+image: "images/smile-complications.webp"
 tags:
   - smile
   - депрессия

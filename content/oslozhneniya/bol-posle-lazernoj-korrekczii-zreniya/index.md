@@ -17,7 +17,7 @@ keywords:
 Если боль **не проходит** через несколько дней — это может быть серьёзная проблема.
 
 <figure style="text-align: center;">
-  <img src="/images/eye_pain.jpg" alt="Боль в глазах после LASIK">
+  <img src="/images/eye_pain.webp" alt="Боль в глазах после LASIK">
   <figcaption>Хроническая боль в глазах — реальное осложнение, которое часто игнорируется хирургами.</figcaption>
 </figure>
 

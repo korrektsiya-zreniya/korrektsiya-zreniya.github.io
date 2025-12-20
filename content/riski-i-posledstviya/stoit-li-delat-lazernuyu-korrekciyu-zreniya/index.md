@@ -27,7 +27,7 @@ keywords:
 4. После **40 лет** всё равно нужны очки
 
 <figure style="text-align: center;">
-  <img src="/images/is_lasik_safe.jpg" alt="Безопасен ли LASIK?">
+  <img src="/images/is_lasik_safe.webp" alt="Безопасен ли LASIK?">
   <figcaption>Простой вопрос, на который клиники не дают честного ответа.</figcaption>
 </figure>
 

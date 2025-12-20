@@ -29,7 +29,7 @@ keywords:
 Известный случай, опубликованный в престижном медицинском журнале. Пациент получил удар в глаз отверткой во время работы по дому. Результат — травматическое смещение лоскута, сделанного **несколько лет назад**.
 
 <figure style="text-align: center;">
-  <img src="/images/lasik-flap-dislodged-by-screwdriver(NEJM).jpg" alt="Смещение лоскута после травмы">
+  <img src="/images/lasik-flap-dislodged-by-screwdriver(NEJM).webp" alt="Смещение лоскута после травмы">
   <figcaption>Смещенный лоскут (сморщенный участок в центре) после тупой травмы глаза. Источник: NEJM.</figcaption>
 </figure>
 

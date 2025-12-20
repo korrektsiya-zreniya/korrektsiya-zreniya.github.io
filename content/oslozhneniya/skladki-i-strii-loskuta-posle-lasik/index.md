@@ -26,7 +26,7 @@ keywords:
 2.  **Микрострии (Microstriae)**: Мельчайшие морщинки, которые трудно заметить врачу, но пациент их чувствует как снижение качества зрения.
 
 <figure style="text-align: center;">
-  <img src="/images/LasikFlapStriaeCases.jpg" alt="Складки лоскута (стрии) под микроскопом">
+  <img src="/images/LasikFlapStriaeCases.webp" alt="Складки лоскута (стрии) под микроскопом">
   <figcaption>Различные виды складок лоскута под увеличением. Видно, как поверхность роговицы "рябит".</figcaption>
 </figure>
 

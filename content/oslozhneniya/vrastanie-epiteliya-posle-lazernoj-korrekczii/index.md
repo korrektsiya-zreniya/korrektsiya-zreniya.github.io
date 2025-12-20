@@ -17,7 +17,7 @@ keywords:
 **Врастание эпителия (epithelial ingrowth)** — это когда клетки поверхностного слоя роговицы проникают **под лоскут** после лазерной коррекции. Они начинают там размножаться, создавая "гнезда" из белых клеток.
 
 <figure style="text-align: center;">
-  <img src="/images/epithelial_ingrowth.jpg" alt="Врастание эпителия после SMILE/LASIK">
+  <img src="/images/epithelial_ingrowth.webp" alt="Врастание эпителия после SMILE/LASIK">
   <figcaption>Белые островки клеток под лоскутом. Они непрозрачны и снижают зрение, а также могут расплавить лоскут.</figcaption>
 </figure>
 

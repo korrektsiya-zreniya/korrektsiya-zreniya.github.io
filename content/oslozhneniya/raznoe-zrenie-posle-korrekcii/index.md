@@ -11,7 +11,7 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "raznoe-zrenie-posle-korrekcii"
-image: "images/anisometropia.jpg"
+image: "images/anisometropia.webp"
 tags:
   - последствия
 categories: ["Осложнения", "Восприятие"]

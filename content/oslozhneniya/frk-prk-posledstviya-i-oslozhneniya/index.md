@@ -29,7 +29,7 @@ keywords:
 Характерное осложнение ФРК. Помутнение может быть **постоянным** и снижать качество зрения.
 
 <figure style="text-align: center;">
-  <img src="/images/prk_haze.jpg" alt="Хейз после ФРК (PRK)">
+  <img src="/images/prk_haze.webp" alt="Хейз после ФРК (PRK)">
   <figcaption>Хейз (помутнение) роговицы — серый "туман" в центральной зоне. Это рубцовая ткань.</figcaption>
 </figure>
 

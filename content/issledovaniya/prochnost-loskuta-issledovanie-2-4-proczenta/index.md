@@ -32,7 +32,7 @@ tags:
 - Через 6,5 лет — такая же слабость, как сразу после операции
 
 <figure style="text-align: center;">
-  <img src="/images/lasik_flap_no_healing.jpg" alt="Лоскут LASIK не заживает">
+  <img src="/images/lasik_flap_no_healing.webp" alt="Лоскут LASIK не заживает">
   <figcaption>Окрашивание флуоресцеином показывает границу лоскута (зеленый круг). Эта граница — слабое место, которое никогда не заживает полностью.</figcaption>
 </figure>
 

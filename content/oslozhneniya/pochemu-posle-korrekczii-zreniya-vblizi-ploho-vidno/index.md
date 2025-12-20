@@ -3,6 +3,7 @@ title: "Почему после коррекции зрения вблизи п�
 slug: pochemu-posle-korrekczii-zreniya-vblizi-ploho-vidno
 aliases:
   - /pochemu-posle-korrekczii-zreniya-vblizi-ploho-vidno/
+  - /oslozhneniya/pochemu-posle-korrekczii-zreniya-vblizi-ploho-vidno/
 description: "После лазерной коррекции плохо видно вблизи? Потеря ближнего зрения — частое осложнение LASIK. Причины: гиперкоррекция, пресбиопия, потеря аккомодации. Что делать."
 date: 2025-04-02
 keywords:

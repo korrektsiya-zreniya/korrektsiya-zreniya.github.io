@@ -12,6 +12,12 @@ keywords:
   - отзывы смайл про
   - опасность релекс смайл
   - минусы smile
+  - smile pro отзывы
+  - smile pro коррекция зрения отзывы
+  - смайл про отзывы
+  - relex smile минусы
+  - lasik smile
+  - лазерная коррекция зрения relex smile
 tags:
   - smile pro
 ---

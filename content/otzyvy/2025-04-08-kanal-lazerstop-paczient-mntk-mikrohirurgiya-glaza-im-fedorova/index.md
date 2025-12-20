@@ -10,6 +10,7 @@ keywords:
   - антон lazerstop
   - ошибки врачей офтальмологов
   - удаление глаза после коррекции
+  - lazerstop
 date: 2025-04-08
 thumbnail: channels4_banner-e1744124167426.webp
 tags:

@@ -3,7 +3,7 @@ title = 'ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА'
 languageCode = 'ru'
 languageName = 'ru'
 defaultContentLanguage = "ru"
-enableGitInfo = false
+enableGitInfo = true
 theme = "mainroad"
 minify = true
 enableRobotsTXT = true
@@ -12,10 +12,16 @@ enableRobotsTXT = true
 [mediaTypes]
   [mediaTypes."video/mp4"]
     suffixes = ["mp4"]
+  [mediaTypes."video/webm"]
+    suffixes = ["webm"]
 
 [outputFormats]
   [outputFormats.mp4]
     mediaType = "video/mp4"
+    isPlainText = false
+    notAlternative = true
+  [outputFormats.webm]
+    mediaType = "video/webm"
     isPlainText = false
     notAlternative = true
 

@@ -75,7 +75,7 @@ enableRobotsTXT = true
   widgets = ["search", "taglist", "recent"]
 
 [Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
   #categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 

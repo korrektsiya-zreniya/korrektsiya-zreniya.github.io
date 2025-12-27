@@ -65,7 +65,7 @@ keywords:
 
 [Прочитать новые предупреждения FDA (PDF)](https://downloads.regulations.gov/FDA-2022-D-1253-0002/attachment_1.pdf)
 
-[Прочитать пресс-релиз FDA](https://visionadvocacy.org/fda-proposed-guidance/)
+[Прочитать пресс-релиз FDA](https://web.archive.org/web/20230604163026/https://www.fda.gov/news-events/press-announcements/fda-seeks-improve-patient-communication-lasik-benefits-and-risks-through-issuance-draft-guidance)
 
 ## Лазерная коррекция зрения должна быть запрещена, заявляет бывший консультант FDA
 

@@ -63,9 +63,9 @@ keywords:
 
 Офтальмологи понимают опасность лазерной коррекции зрения. FDA также осознаёт риски, но не отзывает одобрение, поскольку это повлечёт необходимость выплачивать компенсации всем пациентам, которые сделали ЛКЗ.
 
-[Прочитать новые предупреждения FDA (PDF)](https://www.fda.gov/media/160239/download)
+[Прочитать новые предупреждения FDA (PDF)](https://downloads.regulations.gov/FDA-2022-D-1253-0002/attachment_1.pdf)
 
-[Прочитать пресс-релиз FDA](https://www.fda.gov/news-events/press-announcements/fda-works-better-inform-patients-about-risks-lasik)
+[Прочитать пресс-релиз FDA](https://visionadvocacy.org/fda-proposed-guidance/)
 
 ## Лазерная коррекция зрения должна быть запрещена, заявляет бывший консультант FDA
 

@@ -76,7 +76,6 @@ jobs:
 
   # Firebase Hosting deployment job
   deploy-firebase:
-    environment: github-pages
     runs-on: ubuntu-latest
     needs: build
     steps:

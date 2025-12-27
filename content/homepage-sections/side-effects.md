@@ -32,7 +32,7 @@ keywords:
   img_before="/images/night-vision-before-lasik.webp"
   img_after="/images/night-vision-after-lasik.webp"
   text="Вождение автомобиля"
-  link="/starburst">}}
+  link="/pobochnye-effekty/starburst">}}
 
   {{< card-split
   img_before="/images/ghosting_before.webp"

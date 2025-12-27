@@ -22,23 +22,23 @@ keywords:
 
   {{< card text="Поврежденные нервы" img="/images/nerve_damage.webp"  link="/povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Тонкая роговица" img="/images/nerve_damage.webp"  link="/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Тонкая роговица" img="/images/thin_cornea.webp"  link="/tonkaya-rogovica-posle-lazernoj-korrekczii-zreniya" >}}
   
   {{< card text="Склеральные линзы" img="/images/scleral-into-eye.webp"  link="/skleralnye-linzy-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Светочувствительность"img="/images/photophobia.webp"  link="/svetochuvstvitelnost-fotofobiya-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Светочувствительность" img="/images/photophobia.webp"  link="/svetochuvstvitelnost-fotofobiya-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Эктазия роговицы"img="/images/lasik-ectasia.webp"  link="/ektaziya-rogovicy-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Эктазия роговицы" img="/images/lasik-ectasia.webp"  link="/ektaziya-rogovicy-posle-lazernoj-korrekczii-zreniya" >}}
 
   {{< card text="Усталость глаз" img="/images/eye_fatigue_lasik.webp"  link="/ustalost-glaz-posle-lazernoj-korrekczii-zreniya" >}}
 
   {{< card text="Потеря контраста" img="/images/contrast_loss_lasik.webp"  link="/poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Ранние катаракты"img="/images/cataract.webp"  link="/rannie-katarakty-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Ранние катаракты" img="/images/cataract.webp"  link="/rannie-katarakty-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Плавающие помутнения (мушки)"img="/images/floaters.webp"  link="/plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Плавающие помутнения (мушки)" img="/images/floaters.webp"  link="/plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya" >}}
 
-  {{< card text="Роговичная невралгия"img="/images/corneal_neuralgia.webp"  link="/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya" >}}
+  {{< card text="Роговичная невралгия" img="/images/corneal_neuralgia.webp"  link="/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya" >}}
 
   {{< card text="Мигрень" img="/images/migraine.webp"  link="/migren-posle-lazernoj-korrekczii-zreniya" >}}
 

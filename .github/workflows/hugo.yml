@@ -43,9 +43,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Checkout lasikcomplications ru branch
-        run: |
-          git submodule update --init --remote static/lasikcomplications
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

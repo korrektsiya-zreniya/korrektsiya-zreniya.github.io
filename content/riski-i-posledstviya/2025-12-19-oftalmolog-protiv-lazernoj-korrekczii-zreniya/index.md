@@ -1,8 +1,12 @@
 ---
-title: "Офтальмолог рассказывает правду о рисках лазерной коррекции зрения"
-slug: oftalmolog-rasskazyvaet-pravdu-o-riskah-lazernoj-korrekczii-zreniya
+title: "Офтальмолог рассказывает правду о рисках и последствиях лазерной коррекции зрения"
+slug: oftalmolog-rasskazyvaet-pravdu-o-riskah-i-posledstviyah-lazernoj-korrekczii-zreniya
 description: "Доктор оптометрии Наталья Ринская откровенно рассказывает о последствиях LASIK и SMILE: гало-эффект, синдром сухого глаза, склеропластика без доказательной базы и почему операция после 35-37 лет лишена смысла."
 date: 2025-12-19
+weight: -100
+aliases:
+  - /novosti/oftalmolog-rasskazyvaet-pravdu-o-riskah-lazernoj-korrekczii-zreniya/
+  - /riski-i-posledstviya/oftalmolog-rasskazyvaet-pravdu-o-riskah-lazernoj-korrekczii-zreniya/
 keywords:
   - наталья ринская офтальмолог
   - правда о лазерной коррекции видео

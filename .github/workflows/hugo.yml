@@ -45,9 +45,7 @@ jobs:
           submodules: recursive
       - name: Checkout lasikcomplications ru branch
         run: |
-          cd static/lasikcomplications
-          git fetch origin ru
-          git checkout ru
+          git submodule update --init --remote static/lasikcomplications
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

@@ -6,6 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "rewrites": [
+      {
+        "source": "/lasikcomplications/",
+        "destination": "/lasikcomplications/index.htm"
+      }
+    ],
     "headers": [
       {
         "source": "**/*.@(jpg|jpeg|gif|png|svg|webp|ico)",
@@ -26,7 +32,7 @@
         ]
       },
       {
-        "source": "**/*.@(html)",
+        "source": "**/*.@(html|htm)",
         "headers": [
           {
             "key": "Cache-Control",

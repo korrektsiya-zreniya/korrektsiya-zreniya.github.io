@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "static/lasikcomplications"]
+	path = static/lasikcomplications
+	url = https://github.com/korrektsiya-zreniya/lasikcomplications.git

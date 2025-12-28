@@ -74,10 +74,10 @@ enableRobotsTXT = true
   list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "taglist", "recent"]
+  widgets = ["search", "taglist"]
 
 [Params.widgets]
-  recent_num = 10 # Set the number of articles in the "Recent articles" widget
+  recent_num = 0 # Set the number of articles in the "Recent articles" widget
   #categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 

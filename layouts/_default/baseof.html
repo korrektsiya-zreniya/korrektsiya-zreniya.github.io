@@ -24,8 +24,7 @@
 	{{ $bundledCSS := slice $style $custom | resources.Concat "css/bundle.css" | minify -}}
 	<link rel="stylesheet" href="{{ $bundledCSS.RelPermalink }}">
 
-	<!-- vLite.js Video Player v6 -->
-	<link rel="stylesheet" href="/css/vlite.min.css">
+
 
 	<!-- Preload local fonts -->
 	<link rel="preload" href="/fonts/open-sans-v44-cyrillic_latin-regular.woff2" as="font" type="font/woff2"
@@ -76,28 +75,7 @@
 	{{- end }}
 	{{- partial "mathjax.html" . -}}
 
-	<!-- vLite.js Video Player v8 -->
-	<script type="module">
-		import Vlitejs from '/js/vlite.esm.js';
-		document.querySelectorAll('video.vlite-video').forEach(function (video) {
-			new Vlitejs(video, {
-				options: {
-					controls: true,
-					autoplay: false,
-					playPause: true,
-					progressBar: true,
-					time: true,
-					volume: true,
-					fullscreen: true,
-					bigPlay: true,
-					playsinline: true,
-					loop: false,
-					muted: false,
-					poster: video.getAttribute('poster')
-				}
-			});
-		});
-	</script>
+
 </body>
 
 </html>

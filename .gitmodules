@@ -4,3 +4,4 @@
 [submodule "static/lasikcomplications"]
 	path = static/lasikcomplications
 	url = https://github.com/korrektsiya-zreniya/lasikcomplications.git
+	branch = ru

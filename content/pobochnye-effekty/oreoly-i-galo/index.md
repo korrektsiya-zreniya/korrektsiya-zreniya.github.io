@@ -4,7 +4,7 @@ slug: oreoly-i-galo
 aliases:
   - /oreoly-i-galo/
   - /riski-i-posledstviya/oslozhneniya/problemy-nochnogo-zreniya/
-thumbnail: /wp-content/uploads/2025/04/halos-destellos-deslumbramiento.webp.webp
+thumbnail: /images/halos.webp
 
 type: post
 date: 2025-01-01

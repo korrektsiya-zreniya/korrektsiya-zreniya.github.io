@@ -1,5 +1,5 @@
 <div class="video-container"
-    style="max-width: 800px; margin: 0 auto 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+    style="max-width: 800px; margin: 0 auto 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.15); background-color: #000;">
     <video controls style="display: block; width: 100%; height: auto; border-radius: 12px;" playsinline
         preload="metadata" poster='{{ .Get "poster" }}'>
         <source src='{{ .Get "src" }}' type='{{ .Get "type" | default "video/webm" }}'>

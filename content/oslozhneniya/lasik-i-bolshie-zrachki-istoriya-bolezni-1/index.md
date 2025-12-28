@@ -5,7 +5,7 @@ aliases:
   - /oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-1/
 weight: 999
 description: Реальная история пациента с большими зрачками после лазерной коррекции. Топография роговицы и визуализация проблем ночного зрения.
-thumbnail: bolshie-zrachki.webp
+thumbnail: /images/bolshie-zrachki.webp
 
 type: post
 keywords:

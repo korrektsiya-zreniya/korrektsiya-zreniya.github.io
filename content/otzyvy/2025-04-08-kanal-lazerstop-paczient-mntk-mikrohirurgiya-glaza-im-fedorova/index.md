@@ -12,7 +12,7 @@ keywords:
   - удаление глаза после коррекции
   - lazerstop
 date: 2025-04-08
-thumbnail: channels4_banner-e1744124167426.webp
+thumbnail: /images/lazerstop-banner.jpg
 tags:
   - отзывы
   - осложнения

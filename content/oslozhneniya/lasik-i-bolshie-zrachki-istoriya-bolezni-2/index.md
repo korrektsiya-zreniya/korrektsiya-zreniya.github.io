@@ -5,7 +5,7 @@ aliases:
   - /oslozhneniya/lasik-i-bolshie-zrachki-istoriya-bolezni-2/
 weight: 1000
 description: Второй клинический случай пациента с большими зрачками после лазерной коррекции. Демонстрация проблем ночного зрения.
-thumbnail: image-1.webp
+thumbnail: /images/bolshie-zrachki-2.webp
 
 keywords:
   - большие зрачки и лазерная коррекция

@@ -4,7 +4,7 @@ slug: orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya
 date: 2024-11-30
 #thumbnail: larkova-poteryala-glaz-3-e1744297483664.webp
 tags:
-  - депрессия
+  - depressiya
 
 type: post
 description: "История Ирины Ларьковой из Орска, которая потеряла глаз после осложнений лазерной коррекции зрения. Реальный отзыв об операции и борьбе с клиникой."

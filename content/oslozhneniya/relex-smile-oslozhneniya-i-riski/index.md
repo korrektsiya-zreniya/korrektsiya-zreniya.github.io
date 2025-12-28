@@ -8,9 +8,9 @@ slug: "relex-smile-oslozhneniya-i-riski"
 image: "images/smile-complications.webp"
 tags:
   - smile
-  - депрессия
-  - осложнения
-  - эктазия
+  - depressiya
+  - oslozhneniya
+  - ektaziya
 keywords:
   - осложнения relex smile
   - риски смайл коррекции

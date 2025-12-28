@@ -13,7 +13,7 @@ draft: false
 slug: "raznoe-zrenie-posle-korrekcii"
 image: "images/anisometropia.webp"
 tags:
-  - последствия
+  - posledstviya
 categories: ["Осложнения", "Восприятие"]
 
 type: post

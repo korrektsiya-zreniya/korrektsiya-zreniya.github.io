@@ -13,8 +13,8 @@ draft: false
 slug: "ostrota-zreniya-ne-garantiya-kachestva"
 image: "images/snellen-blur.webp"
 tags:
-  - ночное зрение
-  - риски
+  - nochnoe-zrenie
+  - riski
 categories: ["Риски", "Ликбез"]
 
 type: post

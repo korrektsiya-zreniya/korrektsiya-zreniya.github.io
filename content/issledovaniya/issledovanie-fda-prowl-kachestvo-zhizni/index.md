@@ -12,8 +12,8 @@ keywords:
   - новые симптомы после операции
 tags:
   - FDA
-  - исследования
-  - качество жизни
+  - issledovaniya
+  - kachestvo-zhizni
 ---
 
 ## Что такое PROWL

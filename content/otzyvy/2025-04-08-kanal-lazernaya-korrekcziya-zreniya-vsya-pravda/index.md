@@ -3,9 +3,9 @@ title: Канал – ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ | ВСЯ 
 slug: kanal-lazernaya-korrekcziya-zreniya-vsya-pravda
 date: 2025-04-08
 tags:
-  - видео
-  - отзывы
-  - осложнения
+  - video
+  - otzyvy
+  - oslozhneniya
 
 type: post
 description: "Подборка видео с канала 'Вся правда о лазерной коррекции зрения'. Документальные расследования, мнения честных офтальмологов и истории пострадавших."

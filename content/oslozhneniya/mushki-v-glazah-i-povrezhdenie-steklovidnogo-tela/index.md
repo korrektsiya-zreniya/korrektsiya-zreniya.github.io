@@ -7,8 +7,8 @@ draft: false
 slug: "mushki-v-glazah-i-povrezhdenie-steklovidnogo-tela"
 image: "images/floaters-vitreous.webp"
 tags:
-  - исследования
-  - осложнения
+  - issledovaniya
+  - oslozhneniya
 categories: ["Осложнения"]
 
 keywords:

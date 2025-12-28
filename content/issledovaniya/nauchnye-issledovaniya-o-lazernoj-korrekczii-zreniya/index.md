@@ -10,9 +10,9 @@ keywords:
   - научное обоснование вреда ласик
 date: 2025-06-15
 tags:
-  - исследования
-  - сухой глаз
-  - эктазия
+  - issledovaniya
+  - suhoj-glaz
+  - ektaziya
 
 type: post
 ---

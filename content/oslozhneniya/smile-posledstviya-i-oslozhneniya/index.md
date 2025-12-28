@@ -7,9 +7,9 @@ description: "Правда о методе SMILE (ReLEx): почему это н
 tags:
   - SMILE
   - ReLEx SMILE
-  - осложнения
-  - последствия
-  - эктазия
+  - oslozhneniya
+  - posledstviya
+  - ektaziya
 keywords:
   - осложнения relex smile
   - риски смайл коррекции

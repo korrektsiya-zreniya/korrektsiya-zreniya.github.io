@@ -5,7 +5,7 @@ date: 2025-02-18
 #comments: true
 thumbnail: /novosti/devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya/irina_glaz.webp
 tags:
-  - депрессия
+  - depressiya
 aliases:
   - /девушке-из-оренбурга-удалили-глаз-после-лазерной-коррекции-зрения/
   - /devushka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/

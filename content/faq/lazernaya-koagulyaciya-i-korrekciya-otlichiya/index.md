@@ -7,9 +7,9 @@ draft: false
 slug: "lazernaya-koagulyaciya-i-korrekciya-otlichiya"
 image: "images/retina-vs-cornea.webp"
 tags:
-  - альтернативы
-  - осложнения
-  - риски
+  - alternativy
+  - oslozhneniya
+  - riski
 categories: ["Ликбез", "Общее"]
 keywords:
   - отличие коагуляции от коррекции

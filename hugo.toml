@@ -5,8 +5,10 @@ languageName = 'ru'
 defaultContentLanguage = "ru"
 enableGitInfo = false
 theme = "mainroad"
-minify = true
 enableRobotsTXT = true
+
+[minify]
+  minifyOutput = true
 
 # Allow video files as page resources
 [mediaTypes]

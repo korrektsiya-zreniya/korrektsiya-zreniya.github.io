@@ -46,6 +46,7 @@ jobs:
       - name: Checkout lasikcomplications ru branch
         run: |
           cd static/lasikcomplications
+          git fetch origin ru
           git checkout ru
       - name: Setup Pages
         id: pages

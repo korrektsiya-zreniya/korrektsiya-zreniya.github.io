@@ -3,7 +3,7 @@ title: Девушке из Оренбурга удалили глаз после
 slug: devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya
 date: 2025-02-18
 #comments: true
-thumbnail: devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya/irina_glaz.webp
+thumbnail: /novosti/devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya/irina_glaz.webp
 tags:
   - депрессия
 aliases:

@@ -2,7 +2,7 @@
 title: Девушка из Краснодара потеряла зрение и ослепла после LASIK
 #slug: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik
 date: 2023-10-28
-thumbnail: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik/img_1.webp
+thumbnail: /novosti/devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik/devushka-krasnodar-oslepla-lasik.webp
 
 slug: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik
 aliases:
@@ -21,7 +21,7 @@ keywords:
 полетела в москву. Только там я заехав в зону значка. Видимо врач просто не контролировала процесс а в носу коворяла. В операционной было трое: ещё инженер техник и мед Сестра. Кто виноват будет выяснять СК, может техник неверные параметры ввёл, может медсестра шнур зацепила тли лезвие криво заправили изначально. В любом случае всю ответственность за происходящее Несет врач. Раз такие случаи у них бывают, значит это норма для них  
 калечить людей.
 
-![](img_1.webp)
+![](devushka-krasnodar-oslepla-lasik.webp)
 
 Источник: <a href="https://instagram.com/nnninafom" target="_blank" rel="noreferrer noopener">https://instagram.com/nnninafom</a>
 

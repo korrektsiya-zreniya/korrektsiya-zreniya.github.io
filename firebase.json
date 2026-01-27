@@ -1,8 +1,14 @@
 {
   "hosting": {
     "public": "public",
-    "trailingSlash": true,
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "redirects": [
+      {
+        "source": "/lasikcomplications",
+        "destination": "/lasikcomplications/",
+        "type": 301
+      }
+    ],
     "rewrites": [
       {
         "source": "/lasikcomplications/",

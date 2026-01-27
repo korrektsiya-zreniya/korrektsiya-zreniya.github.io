@@ -5,10 +5,6 @@
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
-        "source": "/lasikcomplications",
-        "destination": "/lasikcomplications/index.htm"
-      },
-      {
         "source": "/lasikcomplications/",
         "destination": "/lasikcomplications/index.htm"
       }

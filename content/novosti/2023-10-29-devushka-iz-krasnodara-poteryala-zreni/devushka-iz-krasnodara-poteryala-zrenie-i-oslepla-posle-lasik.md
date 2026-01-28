@@ -2,7 +2,7 @@
 title: Девушка из Краснодара потеряла зрение и ослепла после LASIK
 #slug: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik
 date: 2023-10-28
-thumbnail: /novosti/devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik/devushka-krasnodar-oslepla-lasik.webp
+thumbnail: /devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik/devushka-krasnodar-oslepla-lasik.webp
 
 slug: devushka-iz-krasnodara-poteryala-zrenie-i-oslepla-posle-lasik
 aliases:

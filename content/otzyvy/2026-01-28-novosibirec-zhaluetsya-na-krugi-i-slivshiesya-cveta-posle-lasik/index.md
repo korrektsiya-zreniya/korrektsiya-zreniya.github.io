@@ -4,7 +4,7 @@ slug: novosibirec-zhaluetsya-na-krugi-i-slivshiesya-cveta-posle-lasik
 type: post
 date: 2026-01-28
 description: "Реальная история Кирилла из Новосибирска. После операции он не может водить машину ночью из-за гало-эффектов. Причина — ошибка в расчете зоны лазера под размер зрачка."
-thumbnail: "/images/night-driving-halos.png"
+thumbnail: "/images/night-driving-halos.webp"
 keywords:
   - негативные отзывы про лазерную коррекцию зрения
   - пикабу истории о лазерной коррекции зрения неудачные отзывы
@@ -33,7 +33,7 @@ tags:
 
 В вечернее время пациент обнаружил выраженные гало-эффекты (светящиеся ореолы) вокруг искусственных источников света.
 
-<img src="/images/night-driving-halos.png" style="width: 50%; display: block; margin: 0 auto;" alt="Галло-эффекты при вождении ночью">
+<img src="/images/night-driving-halos.webp" style="width: 50%; display: block; margin: 0 auto;" alt="Галло-эффекты при вождении ночью">
 
 > _"Я вожу автомобиль, но после операции светофоры ночью стали сливаться. А на трассе невозможно понять расстояние от другой машины до меня, потому что перед глазами «круги» вроде гало"_
 

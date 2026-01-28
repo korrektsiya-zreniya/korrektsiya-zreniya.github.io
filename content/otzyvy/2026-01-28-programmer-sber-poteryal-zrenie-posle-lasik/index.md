@@ -4,7 +4,7 @@ slug: programmer-sber-poteryal-zrenie-posle-lasik
 type: post
 date: 2026-01-28
 description: "История разработчика, который хотел избавиться от очков, а в итоге не смог смотреть в монитор. Сухость глаз, гало-эффекты и крах карьеры."
-thumbnail: "/images/sber-programmer-lasik.png"
+thumbnail: "/images/sber-programmer-lasik.webp"
 keywords:
   - побочные эффекты после коррекции зрения отзывы
   - программист потерял зрение после ласик
@@ -30,7 +30,7 @@ tags:
 
 Но ни через месяц, ни через три ситуация не улучшилась. Напротив, состояние только ухудшалось, превращая жизнь и работу в ежедневную пытку.
 
-<img src="/images/sber-programmer-lasik.png" style="width: 50%; display: block; margin: 0 auto;" alt="Программист страдает от боли в глазах после LASIK">
+<img src="/images/sber-programmer-lasik.webp" style="width: 50%; display: block; margin: 0 auto;" alt="Программист страдает от боли в глазах после LASIK">
 
 ## Компьютерный зрительный синдром x10
 

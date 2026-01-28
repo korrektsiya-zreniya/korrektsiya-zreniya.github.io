@@ -12,7 +12,7 @@ keywords:
   - тень от букв после лазерной коррекции
   - аберрации высшего порядка
   - кома после ласик
-thumbnail: "/images/ghosting-lasik.png"
+thumbnail: "/images/ghosting-lasik.webp"
 tags:
   - oslozhneniya
   - nochnoe-zrenie
@@ -23,7 +23,7 @@ tags:
 
 Особенно ярко это проявляется при взгляде на контрастные объекты: экран смартфона в темной теме, титры в кинотеатре или дорожные знаки ночью. Белые буквы на черном фоне имеют призрачную тень-дубликат (сверху, снизу или сбоку). Текст двоится, «плывет», чтение вызывает дискомфорт, хотя формально пациент различает строчки в таблице проверки зрения.
 
-<img src="/images/ghosting-lasik.png" style="width: 50%; display: block; margin: 0 auto;" alt="Ghosting effect after LASIK">
+<img src="/images/ghosting-lasik.webp" style="width: 50%; display: block; margin: 0 auto;" alt="Ghosting effect after LASIK">
 
 Этот визуальный дефект называется **Ghosting (Гхостинг)** или монокулярная полиопия. Это одно из распространенных осложнений рефракционной хирургии, о котором часто умалчивают в клиниках.
 

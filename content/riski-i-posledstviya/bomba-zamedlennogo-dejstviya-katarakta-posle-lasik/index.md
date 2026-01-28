@@ -4,7 +4,7 @@ slug: bomba-zamedlennogo-dejstviya-katarakta-posle-lasik
 type: post
 date: 2026-01-28
 description: "После лазерной коррекции зрения в старости вас ждет сюрприз: хирург не сможет правильно рассчитать хрусталик при катаракте. Риск остаться слабовидящим навсегда."
-thumbnail: "/images/cataract-error-lasik.png"
+thumbnail: "/images/cataract-error-lasik.webp"
 keywords:
   - катаракта после лазерной коррекции
   - расчет хрусталика после ласик ошибка
@@ -25,7 +25,7 @@ tags:
 
 А через 30-40 лет вас (как и 100% людей на Земле) ждет **катаракта** — помутнение хрусталика. И вот здесь сработает «мина замедленного действия», заложенная лазером в молодости.
 
-<img src="/images/cataract-error-lasik.png" style="width: 50%; display: block; margin: 0 auto;" alt="Ошибка расчета ИОЛ после LASIK">
+<img src="/images/cataract-error-lasik.webp" style="width: 50%; display: block; margin: 0 auto;" alt="Ошибка расчета ИОЛ после LASIK">
 
 ## Проблема, о которой молчат хирурги
 

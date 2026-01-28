@@ -12,7 +12,7 @@ keywords:
   - лазерная коррекция и депрессия
   - могут ли обмануть при лазерной кореуции зрения
   - лазерная коррекция зрения как обманывают людей
-thumbnail: "/images/marketing-scam.png"
+thumbnail: "/images/marketing-scam.webp"
 tags:
   - marketing
   - riski

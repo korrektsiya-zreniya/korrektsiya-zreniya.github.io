@@ -22,7 +22,7 @@ keywords:
 
 > «Близорукость более чем на 1 диоптрию была выявлена у **76,6% пациентов** через 10 лет после операции».
 >
-> *— Lim et al., Korean J Ophthalmol, 2016*
+> _— Lim et al., Korean J Ophthalmol, 2016_
 
 ### Выпячивание роговицы
 
@@ -50,7 +50,7 @@ keywords:
 
 ## Читайте также
 
-*   [Регресс зрения →](/oslozhneniya/regress-posle-lazernoj-korrekczii-zreniya/)
-*   [Катаракта раньше →](/oslozhneniya/katarakta-posle-lazernoj-korrekczii-zreniya/)
-*   [Эктазия роговицы →](/oslozhneniya/keratokonus-posle-lazernoj-korrekczii-zreniya/)
-*   [Сухость глаз →](/oslozhneniya/suhost-glaz-posle-lazernoj-korrekcii-zreniya/)
+- [Регресс зрения →](/regress-posle-lazernoj-korrekczii-zreniya/)
+- [Катаракта раньше →](/katarakta-posle-lazernoj-korrekczii-zreniya/)
+- [Эктазия роговицы →](/keratokonus-posle-lazernoj-korrekczii-zreniya/)
+- [Сухость глаз →](/suhost-glaz-posle-lazernoj-korrekcii-zreniya/)

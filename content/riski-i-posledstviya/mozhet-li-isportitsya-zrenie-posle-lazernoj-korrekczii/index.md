@@ -77,5 +77,5 @@ aliases:
 ## См. также
 
 - [Регресс зрения после LASIK](/regress-zreniya-posle-lasik/)
-- [Последствия через 10 лет](/oslozhneniya/lazernaya-korrekcziya-zreniya-posledstviya-cherez-10-let/)
+- [Последствия через 10 лет](/lazernaya-korrekcziya-zreniya-posledstviya-cherez-10-let/)
 - [Эктазия роговицы](/ektaziya-rogovitsy-posle-lazernoj-korrekczii-zreniya/)

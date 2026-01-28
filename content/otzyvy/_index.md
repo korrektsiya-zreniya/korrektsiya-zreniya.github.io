@@ -21,6 +21,6 @@ date: 2025-01-01
 
 **Рекомендуем к прочтению:**
 
-- **[Отзывы спустя 10-20 лет: Вся правда](/otzyvy/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let/)** — что происходит с глазами на длинной дистанции.
-- **[Реабилитация после SMILE Pro](/otzyvy/smile-pro-reabilitacziya-otzyvy/)** — почему обещанное "зрение на следующий день" часто оказывается мифом.
-- **[Истории из FDA](/otzyvy/otzyvy-o-lazernoj-korrekczii-zreniya-realnye-istorii/)** — официальные жалобы в надзорные органы США.
+- **[Отзывы спустя 10-20 лет: Вся правда](/lazernaya-korrekciya-zreniya-otzyvy-spustya-mnogo-let/)** — что происходит с глазами на длинной дистанции.
+- **[Реабилитация после SMILE Pro](/smile-pro-reabilitacziya-otzyvy/)** — почему обещанное "зрение на следующий день" часто оказывается мифом.
+- **[Истории из FDA](/otzyvy-o-lazernoj-korrekczii-zreniya-realnye-istorii/)** — официальные жалобы в надзорные органы США.

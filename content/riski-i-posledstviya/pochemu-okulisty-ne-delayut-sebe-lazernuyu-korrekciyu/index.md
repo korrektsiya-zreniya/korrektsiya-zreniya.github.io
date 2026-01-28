@@ -81,4 +81,4 @@ type: post
 
 - [10 причин не делать лазерную коррекцию](/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/)
 - [Что скрывают клиники](/riski-i-posledstviya/)
-- [Офтальмолог рассказывает правду](/riski-i-posledstviya/oftalmolog-rasskazyvaet-pravdu-o-riskah-i-posledstviyah-lazernoj-korrekczii-zreniya/)
+- [Офтальмолог рассказывает правду](/oftalmolog-rasskazyvaet-pravdu-o-riskah-i-posledstviyah-lazernoj-korrekczii-zreniya/)

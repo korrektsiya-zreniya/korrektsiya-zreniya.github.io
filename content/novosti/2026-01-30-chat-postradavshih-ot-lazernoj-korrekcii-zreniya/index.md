@@ -4,7 +4,7 @@ slug: chat-postradavshih-ot-lazernoj-korrekcii-zreniya
 type: post
 date: 2026-01-28
 description: "Единственное место, где нет цензуры клиник. Реальные истории, советы по лечению осложнений и поддержка тех, кто столкнулся с проблемами после LASIK и SMILE."
-thumbnail: "/images/lasik-chat-telegram.webp"
+thumbnail: "/images/lasik-chat-cover.webp"
 keywords:
   - чат пострадавших лазерная коррекция
   - форум неудачная коррекция зрения

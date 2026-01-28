@@ -12,7 +12,7 @@ keywords:
   - тень от букв после лазерной коррекции
   - аберрации высшего порядка
   - кома после ласик
-image: "/images/ghosting-lasik.png"
+thumbnail: "/images/ghosting-lasik.png"
 tags:
   - ОСЛОЖНЕНИЯ
   - НОЧНОЕ ЗРЕНИЕ

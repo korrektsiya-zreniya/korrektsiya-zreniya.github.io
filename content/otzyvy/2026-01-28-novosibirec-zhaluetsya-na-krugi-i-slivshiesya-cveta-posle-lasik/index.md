@@ -4,7 +4,7 @@ slug: novosibirec-zhaluetsya-na-krugi-i-slivshiesya-cveta-posle-lasik
 type: post
 date: 2026-01-28
 description: "Реальная история Кирилла из Новосибирска. После операции он не может водить машину ночью из-за гало-эффектов. Причина — ошибка в расчете зоны лазера под размер зрачка."
-image: "/images/night-driving-halos.png"
+thumbnail: "/images/night-driving-halos.png"
 keywords:
   - негативные отзывы про лазерную коррекцию зрения
   - пикабу истории о лазерной коррекции зрения неудачные отзывы

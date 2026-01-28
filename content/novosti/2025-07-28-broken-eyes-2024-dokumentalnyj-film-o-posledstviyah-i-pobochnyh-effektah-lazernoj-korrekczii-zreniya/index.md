@@ -29,6 +29,7 @@ tags:
   - video
 aliases:
   - /broken-eyes-2024-документальный-фильм-о-последствиях-и-побочных-эффектах-лазерной-коррекции-зрения/
+  - /novosti/broken-eyes-2024-dokumentalnyj-film-o-posledstviyah-i-pobochnyh-effektah-lazernoj-korrekczii-zreniya/
 ---
 
 ## 🎬 Broken Eyes (2024) «Сломанные глаза» — смотреть онлайн

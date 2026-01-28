@@ -2,7 +2,7 @@
 title: "Johnson & Johnson ELITA: Шелковая революция или маркетинг?"
 slug: johnson-johnson-elita
 description: "Обзор новейшего лазера J&J ELITA и процедуры SILK (Smooth Incision Lenticule Keratomileusis). Биконвексная лентикула и особенности восстановления."
-date: 2026-01-29
+date: 2026-01-28
 type: post
 keywords:
   - silk лазерная коррекция

@@ -39,7 +39,6 @@ enableRobotsTXT = true
   transliterations = "russian"
 
 [permalinks]
-  [permalinks.page]
     novosti = "/:slug/"
     riski-i-posledstviya = "/:slug/"
     pobochnye-effekty = "/:slug/"

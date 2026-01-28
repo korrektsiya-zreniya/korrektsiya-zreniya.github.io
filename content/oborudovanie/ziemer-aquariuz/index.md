@@ -2,7 +2,7 @@
 title: "Ziemer AQUARIUZ: Лазер без запаха гари"
 slug: ziemer-aquariuz
 description: "Обзор уникального твердотельного лазера Ziemer AQUARIUZ. Технология 'мокрой абляции', отсутствие газа и работа без эксимера. Будущее или экзотика?"
-date: 2026-01-29
+date: 2026-01-28
 type: post
 keywords:
   - ziemer aquariuz отзывы

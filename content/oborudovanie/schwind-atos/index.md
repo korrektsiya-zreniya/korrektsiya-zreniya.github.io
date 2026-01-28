@@ -2,7 +2,7 @@
 title: "Schwind Atos & SmartSight: Убийца SMILE?"
 slug: schwind-atos
 description: "Обзор фемтосекундного лазера Schwind Atos. Чем технология SmartSight лучше ReLEx SMILE, система отслеживания циклоторсии и качество лентикулы."
-date: 2026-01-29
+date: 2026-01-28
 type: post
 keywords:
   - schwind atos smartsight

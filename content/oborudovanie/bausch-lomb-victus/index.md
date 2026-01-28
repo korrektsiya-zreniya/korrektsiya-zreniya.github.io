@@ -2,7 +2,7 @@
 title: "Bausch + Lomb Victus: Мастер на все руки"
 slug: bausch-lomb-victus
 description: "Обзор фемтосекундного лазера Victus. Универсальность (катаракта + LASIK), особенности интерфейса пациента и почему универсальность — это компромисс."
-date: 2026-01-29
+date: 2026-01-28
 type: post
 keywords:
   - bausch lomb victus характеристики

@@ -2,7 +2,7 @@
 title: "Alcon Allegretto Wave Eye-Q: Легендарная классика"
 slug: alcon-allegretto-wave-eye-q
 description: "Обзор эксимерного лазера Allegretto Wave Eye-Q (400 Гц). Предшественник EX500, который до сих пор работает в сотнях клиник. Надежность против скорости."
-date: 2026-01-29
+date: 2026-01-28
 type: post
 keywords:
   - allegretto wave eye-q 400hz

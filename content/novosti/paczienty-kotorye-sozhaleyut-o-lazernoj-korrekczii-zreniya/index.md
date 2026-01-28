@@ -1,6 +1,8 @@
 ---
 title: "Пациенты, которые сожалеют о лазерной коррекции зрения"
 slug: paczienty-kotorye-sozhaleyut-o-lazernoj-korrekczii-zreniya
+aliases:
+  - /novosti/paczienty-kotorye-sozhaleyut-o-lazernoj-korrekczii-zreniya/
 description: "Истории пациентов, которые жалеют о лазерной коррекции зрения. Реальные последствия: боль, двоение, потеря работоспособности."
 date: 2020-01-01
 type: post

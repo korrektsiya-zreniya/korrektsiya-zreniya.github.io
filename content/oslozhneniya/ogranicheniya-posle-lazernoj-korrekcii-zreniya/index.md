@@ -1,6 +1,8 @@
 ---
 title: "Ограничения после лазерной коррекции зрения: полный чек-лист"
 slug: ogranicheniya-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /oslozhneniya/ogranicheniya-posle-lazernoj-korrekcii-zreniya/
 type: post
 date: 2025-12-19
 description: "Что нельзя делать после лазерной коррекции зрения: спорт, алкоголь, бассейн, самолёт, макияж. Полный список ограничений и сроки восстановления."

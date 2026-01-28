@@ -1,6 +1,8 @@
 ---
 title: "Осложнения Фемто ЛАСИК (Femto LASIK): О чем молчат клиники"
 slug: femto-lasik-oslozhneniya
+aliases:
+  - /oslozhneniya/femto-lasik-oslozhneniya/
 description: "Фемто ЛАСИК рекламируют как «бесконтактный» и безопасный метод. Но у него есть свои специфические осложнения: прорыв газа, радужные блики, светобоязнь."
 date: 2025-01-01
 keywords:

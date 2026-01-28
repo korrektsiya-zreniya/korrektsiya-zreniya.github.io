@@ -1,6 +1,8 @@
 ---
 title: Синдром визуального снега после лазерной коррекции зрения
 slug: sindrom-vizualnogo-snega-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/sindrom-vizualnogo-snega-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

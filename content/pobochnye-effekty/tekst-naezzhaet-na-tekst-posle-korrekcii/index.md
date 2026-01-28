@@ -1,6 +1,8 @@
 ---
 title: "Текст наезжает на текст после лазерной коррекции: причины и что делать"
 slug: tekst-naezzhaet-na-tekst-posle-korrekcii
+aliases:
+  - /pobochnye-effekty/tekst-naezzhaet-na-tekst-posle-korrekcii/
 type: post
 date: 2026-01-28
 description: "Буквы прыгают, строки сливаются, а текст двоится при чтении. Почему возникает эффект наложения текста после LASIK и SMILE и пройдет ли это?"

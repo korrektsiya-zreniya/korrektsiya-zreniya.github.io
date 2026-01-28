@@ -12,6 +12,8 @@ keywords:
   - психотерапия осложнения зрения
   - избегающее поведение фотофобия
 slug: ptsr-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /riski-i-posledstviya/ptsr-posle-lazernoj-korrekcii-zreniya/
 type: post
 ---
 

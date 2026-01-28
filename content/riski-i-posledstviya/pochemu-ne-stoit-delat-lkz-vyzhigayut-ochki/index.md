@@ -1,6 +1,8 @@
 ---
 title: "Почему не стоит делать ЛКЗ: вам просто выжигают очки, которые нельзя снять"
 slug: pochemu-ne-stoit-delat-lkz-vyzhigayut-ochki
+aliases:
+  - /riski-i-posledstviya/pochemu-ne-stoit-delat-lkz-vyzhigayut-ochki/
 description: "Лазерная коррекция — это не новое зрение, а перманентные очки, выжженные на роговице. Их нельзя снять."
 keywords:
   - лазер выжигает очки

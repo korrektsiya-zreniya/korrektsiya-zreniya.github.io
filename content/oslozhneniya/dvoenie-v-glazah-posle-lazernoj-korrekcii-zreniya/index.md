@@ -1,6 +1,8 @@
 ---
 title: "Двоение в глазах после лазерной коррекции зрения: причины и лечение"
 slug: dvoenie-v-glazah-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /oslozhneniya/dvoenie-v-glazah-posle-lazernoj-korrekcii-zreniya/
 type: post
 date: 2025-12-19
 description: "Двоение в глазах (диплопия) после лазерной коррекции зрения: почему возникает, как долго длится, можно ли вылечить. Монокулярное и бинокулярное двоение."

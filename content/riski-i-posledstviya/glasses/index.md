@@ -1,6 +1,8 @@
 ---
 title: Очки после лазерной коррекции зрения
 slug: glasses
+aliases:
+  - /riski-i-posledstviya/glasses/
 
 
 type: post

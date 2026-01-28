@@ -1,6 +1,8 @@
 ---
 title: Повреждение нервов после лазерной коррекции зрения
 slug: povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/povrezhdenie-nervov-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

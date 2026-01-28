@@ -1,6 +1,8 @@
 ---
 title: "Регресс после лазерной коррекции зрения: возвращение близорукости"
 slug: regress-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/regress-posle-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Результаты LASIK ухудшаются со временем. Исследования показывают регресс близорукости у 76% пациентов через 10 лет. Почему зрение возвращается и что делать."

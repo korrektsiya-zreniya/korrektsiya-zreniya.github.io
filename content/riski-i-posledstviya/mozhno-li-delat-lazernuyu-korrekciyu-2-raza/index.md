@@ -1,6 +1,8 @@
 ---
 title: "Можно ли делать лазерную коррекцию зрения 2 раза?"
 slug: mozhno-li-delat-lazernuyu-korrekciyu-2-raza
+aliases:
+  - /riski-i-posledstviya/mozhno-li-delat-lazernuyu-korrekciyu-2-raza/
 description: "Можно ли делать лазерную коррекцию повторно? Докоррекция после LASIK и SMILE — показания, риски и почему это не всегда возможно."
 date: 2025-12-28
 keywords:

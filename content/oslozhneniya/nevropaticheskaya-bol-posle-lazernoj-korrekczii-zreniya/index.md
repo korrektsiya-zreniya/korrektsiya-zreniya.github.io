@@ -1,6 +1,8 @@
 ---
 title: Невропатическая боль после лазерной коррекции зрения
 slug: nevropaticheskaya-bol-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/nevropaticheskaya-bol-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

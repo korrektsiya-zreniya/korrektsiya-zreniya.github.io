@@ -1,6 +1,8 @@
 ---
 title: Неестественная смерть после лазерной коррекции зрения
 slug: neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/neestestvennaya-smert-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

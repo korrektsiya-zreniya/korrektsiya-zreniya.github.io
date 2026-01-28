@@ -13,6 +13,8 @@ keywords:
   - митомицин с при фрк
   - лечение хейза
 slug: haze-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/haze-posle-lazernoj-korrekczii/
 type: post
 ---
 

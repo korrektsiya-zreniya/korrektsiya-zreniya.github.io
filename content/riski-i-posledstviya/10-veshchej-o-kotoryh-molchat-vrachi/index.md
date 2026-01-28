@@ -1,6 +1,8 @@
 ---
 title: "10 вещей, о которых молчат офтальмологи перед лазерной коррекцией"
 slug: 10-veshchej-o-kotoryh-molchat-vrachi
+aliases:
+  - /riski-i-posledstviya/10-veshchej-o-kotoryh-molchat-vrachi/
 description: "Врачи обещают идеальное зрение каждому, но исследования показывают другую картину. Узнайте 10 фактов, которые клиники предпочитают скрывать от пациентов."
 date: 2024-11-20
 keywords:

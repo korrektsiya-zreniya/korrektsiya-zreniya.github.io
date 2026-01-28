@@ -1,6 +1,8 @@
 ---
 title: "Как понять, что тебя разводят при коррекции зрения? Чек-лист обмана в клиниках"
 slug: kak-ponyat-chto-tebya-razvodyat-pri-korrekcii-zreniya
+aliases:
+  - /riski-i-posledstviya/kak-ponyat-chto-tebya-razvodyat-pri-korrekcii-zreniya/
 type: post
 date: 2026-01-28
 description: "Лохотрон с лазерной коррекцией зрения: как клиники манипулируют пациентами. Разбор маркетинговых уловок: пожизненная гарантия, скидки, молчание о рисках."

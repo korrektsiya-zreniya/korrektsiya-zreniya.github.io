@@ -5,6 +5,7 @@ type: post
 date: 2025-12-19
 description: "Задокументированные случаи самоубийств и тяжёлой депрессии после LASIK. Свидетельства врачей, отчёты в FDA, истории семей. Почему осложнения после лазерной коррекции могут разрушить жизнь."
 aliases:
+  - /riski-i-posledstviya/depressiya-posle-lazernoj-korrekczii-zreniya/
   - /riski-i-posledstviya/depression-and-suicide-after-LASIK/
 keywords:
   - депрессия после лазерной коррекции

@@ -12,6 +12,8 @@ keywords:
   - расходы на лечение сухого глаза
   - цена докоррекции зрения
 slug: skolko-stoit-lechenie-oslozhnenij-lazernoj-korrekcii
+aliases:
+  - /riski-i-posledstviya/skolko-stoit-lechenie-oslozhnenij-lazernoj-korrekcii/
 type: post
 ---
 

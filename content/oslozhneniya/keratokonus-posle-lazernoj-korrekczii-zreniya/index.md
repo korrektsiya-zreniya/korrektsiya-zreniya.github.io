@@ -2,6 +2,7 @@
 title: "Кератоконус (Эктазия) после лазерной коррекции: когда роговица не выдерживает"
 slug: keratokonus-posle-lazernoj-korrekczii-zreniya
 aliases:
+  - /oslozhneniya/keratokonus-posle-lazernoj-korrekczii-zreniya/
   - /riski-i-posledstviya/oslozhneniya/keratokonus/
 weight: 10
 type: post

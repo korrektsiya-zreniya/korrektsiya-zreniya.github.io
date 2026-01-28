@@ -2,6 +2,7 @@
 title: Канал Lazerstop – отзывы пациента МНТК Микрохирургия глаза им Федорова
 slug: kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova
 aliases:
+  - /otzyvy/kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova/
   - /kanal-lazerstop-paczient-mntk-mikrohirurgiya-glaza-im-fedorova/
   - /laserstop/
 description: "Видеоотзывы и истории пациентов о лазерной коррекции зрения от канала Lazerstop"

@@ -1,6 +1,8 @@
 ---
 title: Нестабильное зрение после лазерной коррекции зрения
 slug: nestabilnoe-zrenie-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/nestabilnoe-zrenie-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

@@ -1,6 +1,8 @@
 ---
 title: "Информированное согласие на лазерную коррекцию: что должны рассказать"
 slug: informirovannoe-soglasie-na-lazernuyu-korrekciyu
+aliases:
+  - /riski-i-posledstviya/informirovannoe-soglasie-na-lazernuyu-korrekciyu/
 type: post
 date: 2025-12-19
 description: "Что должно быть в информированном согласии на лазерную коррекцию. Какие риски обязаны объяснить. Что клиники скрывают."

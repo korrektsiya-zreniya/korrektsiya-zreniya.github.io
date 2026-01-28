@@ -1,6 +1,8 @@
 ---
 title: "Сухость глаз после лазерной коррекции зрения: полный обзор"
 slug: suhost-glaz-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /oslozhneniya/suhost-glaz-posle-lazernoj-korrekcii-zreniya/
 type: post
 date: 2025-12-19
 keywords:

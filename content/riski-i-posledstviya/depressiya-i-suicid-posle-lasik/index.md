@@ -1,6 +1,8 @@
 ---
 title: "Депрессия и суицид после LASIK: Когда жизнь становится невыносимой"
 slug: depressiya-i-suicid-posle-lasik
+aliases:
+  - /riski-i-posledstviya/depressiya-i-suicid-posle-lasik/
 description: "Истории пациентов, выбравших смерть вместо жизни с осложнениями после лазерной коррекции. Почему психика не выдерживает постоянной боли и плохого зрения."
 date: 2024-11-20
 keywords:

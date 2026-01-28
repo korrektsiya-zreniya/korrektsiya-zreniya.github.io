@@ -1,6 +1,8 @@
 ---
 title: "Врастание эпителия после лазерной коррекции зрения"
 slug: vrastanie-epiteliya-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/vrastanie-epiteliya-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Врастание эпителия (epithelial ingrowth) — осложнение после лазерной коррекции, когда клетки растут под лоскутом. Симптомы и лечение."

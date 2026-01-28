@@ -1,6 +1,8 @@
 ---
 title: "Размытое зрение (Blurry Vision) после LASIK"
 slug: razmytoe-zrenie-posle-lasik
+aliases:
+  - /pobochnye-effekty/razmytoe-zrenie-posle-lasik/
 description: "«Аквариумное зрение», «как через вазелин» и потеря контрастности. Почему даже при 100% остроте зрение может оставаться размытым."
 date: 2024-11-20
 keywords:

@@ -1,6 +1,8 @@
 ---
 title: "Складки и стрии лоскута (Microstriae): когда зрение не разглаживается"
 slug: skladki-i-strii-loskuta-posle-lasik
+aliases:
+  - /oslozhneniya/skladki-i-strii-loskuta-posle-lasik/
 type: post
 date: 2025-12-19
 description: "Что такое стрии (striae) и складки лоскута после LASIK? Эффект целлофана, искажение зрения и почему их трудно разгладить."

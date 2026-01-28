@@ -1,6 +1,8 @@
 ---
 title: "SMILE (ReLEx SMILE): последствия и осложнения — мифы о безопасности"
 slug: smile-posledstviya-i-oslozhneniya
+aliases:
+  - /oslozhneniya/smile-posledstviya-i-oslozhneniya/
 type: post
 date: 2025-12-19
 description: "Правда о методе SMILE (ReLEx): почему это не «безлоскутная» операция, риск потери вакуума, сложности докоррекции и трагические случаи. Исследования 2019 года."

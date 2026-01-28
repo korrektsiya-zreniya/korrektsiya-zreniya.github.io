@@ -1,6 +1,8 @@
 ---
 title: Слепота после лазерной коррекции зрения
 slug: slepota-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/slepota-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

@@ -11,6 +11,8 @@ keywords:
   - замена хрусталика вместо lasik
   - моновижн недостатки
 slug: lazernaya-korrekciya-zreniya-posle-40-45-let
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekciya-zreniya-posle-40-45-let/
 type: post
 ---
 

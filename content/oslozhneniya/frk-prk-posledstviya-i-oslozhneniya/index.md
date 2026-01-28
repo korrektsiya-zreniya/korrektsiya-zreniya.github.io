@@ -1,6 +1,8 @@
 ---
 title: "ФРК (PRK): последствия и осложнения поверхностной лазерной коррекции"
 slug: frk-prk-posledstviya-i-oslozhneniya
+aliases:
+  - /oslozhneniya/frk-prk-posledstviya-i-oslozhneniya/
 type: post
 date: 2025-12-19
 description: "ФРК (PRK) — поверхностная лазерная коррекция без лоскута. Но осложнения реальны: боль, хейз, регресс, сухость. Полный разбор."

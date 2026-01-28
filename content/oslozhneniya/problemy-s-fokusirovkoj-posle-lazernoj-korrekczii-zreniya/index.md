@@ -1,6 +1,8 @@
 ---
 title: Проблемы с фокусировкой после лазерной коррекции зрения
 slug: problemy-s-fokusirovkoj-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/problemy-s-fokusirovkoj-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

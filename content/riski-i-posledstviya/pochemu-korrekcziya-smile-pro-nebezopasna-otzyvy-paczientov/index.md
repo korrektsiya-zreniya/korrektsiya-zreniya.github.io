@@ -2,6 +2,7 @@
 title: Почему коррекция SMILE PRO небезопасна отзывы пациентов
 slug: pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov
 aliases:
+  - /riski-i-posledstviya/pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov/
   - /pochemu-korrekcziya-smile-pro-nebezopasna-otzyvy-paczientov/
 type: post
 date: 2025-01-01

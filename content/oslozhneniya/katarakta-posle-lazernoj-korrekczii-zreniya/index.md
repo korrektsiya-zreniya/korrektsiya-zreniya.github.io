@@ -1,6 +1,8 @@
 ---
 title: "Катаракта после лазерной коррекции: ранняя операция и проблемы с расчётами"
 slug: katarakta-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/katarakta-posle-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Пациенты с LASIK делают операцию катаракты на 6-15 лет раньше. Расчёт линзы затруднён — риск неправильной коррекции."

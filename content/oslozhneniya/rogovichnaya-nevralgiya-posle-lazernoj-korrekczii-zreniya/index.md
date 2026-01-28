@@ -1,6 +1,8 @@
 ---
 title: Роговичная невралгия после лазерной коррекции зрения
 slug: rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/rogovichnaya-nevralgiya-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

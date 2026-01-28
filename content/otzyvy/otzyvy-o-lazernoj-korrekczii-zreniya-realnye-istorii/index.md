@@ -1,6 +1,9 @@
 ---
 title: "Отзывы о лазерной коррекции зрения: реальные истории пациентов"
 slug: otzyvy-o-lazernoj-korrekczii-zreniya-realnye-istorii
+aliases:
+  - /otzyvy/otzyvy-o-lazernoj-korrekczii-zreniya-realnye-istorii/
+  - /otzyvy-o-lazernoj-korrekczii-zreniya-realnye-istorii/
 type: post
 date: 2025-12-19
 description: "Реальные отзывы пациентов после LASIK, SMILE, ФРК. Негативный опыт, осложнения, сожаления. Истории из FDA, судебных дел и личных свидетельств."

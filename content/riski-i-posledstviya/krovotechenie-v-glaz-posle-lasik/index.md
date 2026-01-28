@@ -1,6 +1,8 @@
 ---
 title: "Кровоизлияние в глаз после LASIK: почему глаз красный?"
 slug: krovotechenie-v-glaz-posle-lasik
+aliases:
+  - /riski-i-posledstviya/krovotechenie-v-glaz-posle-lasik/
 type: post
 date: 2025-12-19
 description: "Лопнувший сосуд (субконъюнктивальное кровоизлияние) после операции. Выглядит страшно, но так ли это опасно? Влияние вакуумного кольца."

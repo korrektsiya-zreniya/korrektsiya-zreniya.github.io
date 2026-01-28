@@ -1,6 +1,8 @@
 ---
 title: "Почему офтальмологи не делают лазерную коррекцию себе?"
 slug: pochemu-oftalmologi-ne-delayut-lazernuyu-korrekciyu-sebe
+aliases:
+  - /riski-i-posledstviya/pochemu-oftalmologi-ne-delayut-lazernuyu-korrekciyu-sebe/
 type: post
 date: 2025-12-19
 description: "Почему врачи-офтальмологи носят очки и не делают лазерную коррекцию себе? Разбираем факты и мнения специалистов."

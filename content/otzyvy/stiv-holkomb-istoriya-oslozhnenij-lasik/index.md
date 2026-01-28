@@ -1,6 +1,9 @@
 ---
 title: "Трагедия Стива Холкомба: как LASIK чуть не лишил олимпийца золота"
 slug: stiv-holkomb-istoriya-oslozhnenij-lasik
+aliases:
+  - /otzyvy/stiv-holkomb-istoriya-oslozhnenij-lasik/
+  - /stiv-holkomb-istoriya-oslozhnenij-lasik/
 type: post
 date: 2025-12-19
 description: "История олимпийского чемпиона по бобслею Стива Холкомба (Steve Holcomb). Кератоконус после LASIK, потеря зрения, депрессия и чудесное спасение кросс-линкингом."

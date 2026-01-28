@@ -1,6 +1,8 @@
 ---
 title: "Почему нельзя делать лазерную коррекцию сразу на оба глаза: скрытый риск"
 slug: pochemu-nelzya-delat-lkz-srazu-na-oba-glaza
+aliases:
+  - /riski-i-posledstviya/pochemu-nelzya-delat-lkz-srazu-na-oba-glaza/
 type: post
 date: 2025-12-19
 description: "Операция на оба глаза в один день удобна клинике, но опасна для пациента. Риски двусторонней слепоты, инфекции и нарушения принципов информированного согласия."

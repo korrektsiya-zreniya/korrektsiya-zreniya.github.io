@@ -5,6 +5,7 @@ description: "Доктор оптометрии Наталья Ринская о
 date: 2025-12-19
 weight: -100
 aliases:
+  - /riski-i-posledstviya/oftalmolog-rasskazyvaet-pravdu-o-riskah-i-posledstviyah-lazernoj-korrekczii-zreniya/
   - /novosti/oftalmolog-rasskazyvaet-pravdu-o-riskah-lazernoj-korrekczii-zreniya/
   - /riski-i-posledstviya/oftalmolog-rasskazyvaet-pravdu-o-riskah-lazernoj-korrekczii-zreniya/
 keywords:

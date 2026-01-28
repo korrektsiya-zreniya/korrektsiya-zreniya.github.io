@@ -1,6 +1,8 @@
 ---
 title: "Лазерная коррекция зрения: отзывы спустя много лет — долгосрочные последствия"
 slug: lasik-dolgosrochnye-posledstviya-otzyvy-spustya-gody
+aliases:
+  - /oslozhneniya/lasik-dolgosrochnye-posledstviya-otzyvy-spustya-gody/
 type: post
 date: 2025-12-19
 description: "Долгосрочные последствия лазерной коррекции зрения через 5, 10, 20 лет: эктазия, смещение лоскута, проблемы с катарактой, глаукома. Реальные истории и научные данные."

@@ -1,6 +1,8 @@
 ---
 title: "Можно ли носить контактные линзы после лазерной коррекции зрения?"
 slug: mozhno-li-nosit-linzy-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /oslozhneniya/mozhno-li-nosit-linzy-posle-lazernoj-korrekcii-zreniya/
 type: post
 date: 2025-12-19
 description: "Можно ли носить контактные линзы после лазерной коррекции зрения? Когда это необходимо, какие линзы подходят, почему это может быть сложно."

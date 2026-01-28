@@ -1,6 +1,8 @@
 ---
 title: "Минусы и последствия лазерной коррекции зрения, которые скрывают врачи"
 slug: minusy-i-posledstviya-lazernoj-korrekczii-zreniya-kotorye-skryvayut-vrachi
+aliases:
+  - /riski-i-posledstviya/minusy-i-posledstviya-lazernoj-korrekczii-zreniya-kotorye-skryvayut-vrachi/
 description: "Правда о минусах и последствиях лазерной коррекции зрения. Что скрывают врачи? Реальные истории пострадавших."
 date: 2024-10-17
 type: post

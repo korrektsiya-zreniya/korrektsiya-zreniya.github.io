@@ -1,6 +1,8 @@
 ---
 title: Многократное изображение после лазерной коррекции зрения
 slug: mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /pobochnye-effekty/mnogokratnoe-izobrazhenie-posle-lazernoj-korrekczii-zreniya/
 
 type: post
 date: 2025-01-01

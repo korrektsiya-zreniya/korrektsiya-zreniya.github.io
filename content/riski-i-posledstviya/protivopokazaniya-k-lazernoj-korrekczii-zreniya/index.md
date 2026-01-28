@@ -1,6 +1,8 @@
 ---
 title: "Противопоказания к лазерной коррекции зрения: полный список"
 slug: protivopokazaniya-k-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/protivopokazaniya-k-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Кому нельзя делать LASIK, SMILE, ФРК? Официальные противопоказания FDA и дополнительные факторы риска. Полный список."

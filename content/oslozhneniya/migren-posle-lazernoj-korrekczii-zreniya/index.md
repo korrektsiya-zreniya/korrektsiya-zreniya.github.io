@@ -1,6 +1,8 @@
 ---
 title: Мигрень после лазерной коррекции зрения
 slug: migren-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/migren-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

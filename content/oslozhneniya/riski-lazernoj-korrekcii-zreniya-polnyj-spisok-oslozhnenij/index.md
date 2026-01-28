@@ -1,6 +1,8 @@
 ---
 title: "Риски лазерной коррекции зрения: полный список осложнений"
 slug: riski-lazernoj-korrekcii-zreniya-polnyj-spisok-oslozhnenij
+aliases:
+  - /oslozhneniya/riski-lazernoj-korrekcii-zreniya-polnyj-spisok-oslozhnenij/
 type: post
 date: 2025-12-19
 keywords:

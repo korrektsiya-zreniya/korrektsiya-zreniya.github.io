@@ -1,6 +1,8 @@
 ---
 title: "Аберрации высшего порядка после лазерной коррекции зрения"
 slug: aberraczii-vysshego-poryadka-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/aberraczii-vysshego-poryadka-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Что такое аберрации высшего порядка (HOA) и почему они возникают после лазерной коррекции. Сферическая аберрация, кома, их влияние на зрение."

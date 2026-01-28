@@ -1,6 +1,8 @@
 ---
 title: "Отслоение сетчатки после лазерной коррекции: почему риск возрастает?"
 slug: otsloenie-setchatki-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/otsloenie-setchatki-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Вакуумное кольцо, скачок давления до 80 мм рт.ст. и ударные волны. Почему лазерная коррекция опасна для сетчатки, особенно при высокой близорукости."

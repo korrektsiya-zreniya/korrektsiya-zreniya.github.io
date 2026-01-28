@@ -1,6 +1,8 @@
 ---
 title: Несколько пар очков
 slug: neskolko-par-ochkov
+aliases:
+  - /riski-i-posledstviya/neskolko-par-ochkov/
 
 thumbnail: /wp-content/uploads/2025/04/scale_1200-4.jpeg
 

@@ -14,6 +14,8 @@ keywords:
   - противопоказания после лазерной коррекции зрения
   - можно ли капать капли в линзах
 slug: ogranicheniya-posle-lazernoj-korrekcii-zreniya
+aliases:
+  - /riski-i-posledstviya/ogranicheniya-posle-lazernoj-korrekcii-zreniya/
 type: post
 ---
 

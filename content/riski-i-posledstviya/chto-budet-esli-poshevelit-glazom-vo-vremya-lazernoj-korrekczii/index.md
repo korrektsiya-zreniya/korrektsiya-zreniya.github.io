@@ -13,6 +13,8 @@ keywords:
   - блефаростат лазерная коррекция
   - система слежения за глазом lasik
 slug: chto-budet-esli-poshevelit-glazom-vo-vremya-lazernoj-korrekczii
+aliases:
+  - /riski-i-posledstviya/chto-budet-esli-poshevelit-glazom-vo-vremya-lazernoj-korrekczii/
 type: post
 ---
 

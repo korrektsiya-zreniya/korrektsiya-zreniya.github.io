@@ -15,6 +15,7 @@ tags:
   - povtornaya-operaciya
   - riski
 aliases:
+  - /oslozhneniya/povtornaya-lazernaya-korrekcziya-dokorrekcziya/
   - /dokorrekciya-lazernoj-korrekcii-zreniya/
 ---
 

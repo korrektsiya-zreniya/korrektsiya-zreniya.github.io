@@ -1,6 +1,8 @@
 ---
 title: Непереносимость контактных линз после лазерной коррекции зрения
 slug: neperenosimost-kontaktnyh-linz-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/neperenosimost-kontaktnyh-linz-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

@@ -1,6 +1,8 @@
 ---
 title: "Лазерная коррекция зрения: за и против — честное сравнение"
 slug: lazernaya-korrekcziya-zreniya-za-i-protiv
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekcziya-zreniya-za-i-protiv/
 type: post
 date: 2025-12-19
 description: "Все за и против лазерной коррекции зрения. Плюсы, минусы, риски и преимущества. Объективный анализ для принятия решения."

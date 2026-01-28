@@ -1,6 +1,8 @@
 ---
 title: "Регресс зрения после LASIK: Почему близорукость возвращается"
 slug: regress-zreniya-posle-lasik
+aliases:
+  - /riski-i-posledstviya/regress-zreniya-posle-lasik/
 description: "Исследования показывают: спустя 7-15 лет более 50% пациентов снова нуждаются в очках. Почему эффект лазерной коррекции не вечен."
 date: 2024-11-20
 keywords:

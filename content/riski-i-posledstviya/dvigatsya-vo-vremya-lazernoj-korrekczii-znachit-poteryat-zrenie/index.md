@@ -12,6 +12,8 @@ keywords:
   - фиксация пациента во время операции
   - ошибки позиционирования лазера
 slug: dvigatsya-vo-vremya-lazernoj-korrekczii-znachit-poteryat-zrenie
+aliases:
+  - /riski-i-posledstviya/dvigatsya-vo-vremya-lazernoj-korrekczii-znachit-poteryat-zrenie/
 type: post
 ---
 

@@ -7,6 +7,7 @@ thumbnail: /devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya/
 tags:
   - depressiya
 aliases:
+  - /novosti/devushke-iz-orenburga-udalili-glaz-posle-lazernoj-korrekcii-zreniya/
   - /девушке-из-оренбурга-удалили-глаз-после-лазерной-коррекции-зрения/
   - /devushka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
   - /devushke-udalili-glaz-posle-lazernoj-korrekcii-zreniya/
@@ -41,7 +42,7 @@ keywords:
 
 ![](irina_glaz.webp)
 
-На глазу появилось белое пятно, а после повторной операции начался гной и воспаление. Врачи пытались спасти зрение, но после пересадки роговицы глаз лопнул, и женщине пришлось установить протез. В клинике ей предложили 200 тысяч рублей в качестве компенсации и попросили не раздувать скандал, но она&nbsp;<a href="/sudebnye-dela/pyat-millionov-rublej-prosit-vzyskat-orchanka-za-neudachnuyu-operacziyu-korrekczii-zreniya/" target="_blank" rel="noreferrer noopener">решила обратиться в суд</a>.
+На глазу появилось белое пятно, а после повторной операции начался гной и воспаление. Врачи пытались спасти зрение, но после пересадки роговицы глаз лопнул, и женщине пришлось установить протез. В клинике ей предложили 200 тысяч рублей в качестве компенсации и попросили не раздувать скандал, но она&nbsp;<a href="/pyat-millionov-rublej-prosit-vzyskat-orchanka-za-neudachnuyu-operacziyu-korrekczii-zreniya/" target="_blank" rel="noreferrer noopener">решила обратиться в суд</a>.
 
 Источники:   
 [Орчанка потеряла глаз после лазерной коррекции зрения][1]  

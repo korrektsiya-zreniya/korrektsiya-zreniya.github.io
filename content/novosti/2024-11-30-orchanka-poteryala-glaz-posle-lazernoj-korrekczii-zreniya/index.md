@@ -15,6 +15,7 @@ keywords:
   - осложнения лазерной коррекции зрения
   - суд с клиникой зрения
 aliases:
+  - /novosti/orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
   - /orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
 ---
 

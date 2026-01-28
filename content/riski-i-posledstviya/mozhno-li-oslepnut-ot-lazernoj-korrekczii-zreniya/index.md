@@ -1,6 +1,8 @@
 ---
 title: "Можно ли ослепнуть от лазерной коррекции зрения?"
 slug: mozhno-li-oslepnut-ot-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/mozhno-li-oslepnut-ot-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Можно ли ослепнуть после LASIK? Случаи полной потери зрения, эктазия, инфекции. Разбираем реальные риски слепоты при лазерной коррекции."

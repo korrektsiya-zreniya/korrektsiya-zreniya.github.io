@@ -1,6 +1,8 @@
 ---
 title: 10 вопросов, которые нужно задать врачу перед лазерной коррекцией зрения
 slug: desyat-voprosov-kotorye-nuzhno-zadat-vrachu-pered-lazernoj-korrekcziej-zreniya
+aliases:
+  - /riski-i-posledstviya/desyat-voprosov-kotorye-nuzhno-zadat-vrachu-pered-lazernoj-korrekcziej-zreniya/
 
 
 type: post

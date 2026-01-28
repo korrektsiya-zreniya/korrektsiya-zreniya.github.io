@@ -1,6 +1,8 @@
 ---
 title: Ранние катаракты после лазерной коррекции зрения
 slug: rannie-katarakty-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/rannie-katarakty-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

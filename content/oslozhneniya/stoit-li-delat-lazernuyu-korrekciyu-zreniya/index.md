@@ -1,6 +1,8 @@
 ---
 title: "Стоит ли делать лазерную коррекцию зрения: аргументы против"
 slug: stoit-li-delat-lazernuyu-korrekciyu-zreniya
+aliases:
+  - /oslozhneniya/stoit-li-delat-lazernuyu-korrekciyu-zreniya/
 type: post
 date: 2025-12-19
 description: "Стоит ли делать лазерную коррекцию зрения? 10 причин задуматься: научные данные о рисках, осложнениях и долгосрочных последствиях операции."

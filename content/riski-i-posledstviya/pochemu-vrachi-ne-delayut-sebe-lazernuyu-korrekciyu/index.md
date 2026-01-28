@@ -11,6 +11,8 @@ keywords:
   - косметическая операция глаз
   - почему хирурги в очках
 slug: pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu
+aliases:
+  - /riski-i-posledstviya/pochemu-vrachi-ne-delayut-sebe-lazernuyu-korrekciyu/
 type: post
 ---
 

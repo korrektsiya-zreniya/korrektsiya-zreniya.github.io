@@ -2,6 +2,7 @@
 title: Последствия после лазерной коррекции зрения Relex Smile⁠⁠
 slug: posledstviya-posle-lazernoj-korrekczi
 aliases:
+  - /otzyvy/posledstviya-posle-lazernoj-korrekczi/
   - /posledstviya-posle-lazernoj-korrekczi/
 date: 2023-10-28
 

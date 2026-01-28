@@ -1,6 +1,8 @@
 ---
 title: "После лазерной коррекции зрачки разного размера (Анизокория)"
 slug: raznyy-razmer-zrachkov-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/raznyy-razmer-zrachkov-posle-lazernoj-korrekczii/
 type: post
 date: 2025-05-15
 description: "Анизокория (разный размер зрачков) после LASIK и SMILE. Синдром Урретс-Завалия, повреждение радужки вакуумным кольцом. Пройдет ли это само?"

@@ -1,6 +1,8 @@
 ---
 title: "Звездные вспышки (Starbursts): Почему после LASIK фонари превращаются в звезды"
 slug: starbursts-posle-lasik
+aliases:
+  - /pobochnye-effekty/starbursts-posle-lasik/
 description: "Эффект Starburst: как он выглядит, почему возникает и почему врачи называют это просто «бликами». Опасность для водителей и пешеходов."
 date: 2024-11-20
 keywords:

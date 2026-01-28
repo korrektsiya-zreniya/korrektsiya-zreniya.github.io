@@ -1,6 +1,8 @@
 ---
 title: "После коррекции зрения один глаз видит хуже"
 slug: posle-korrekcii-zreniya-odin-glaz-vidit-huzhe
+aliases:
+  - /oslozhneniya/posle-korrekcii-zreniya-odin-glaz-vidit-huzhe/
 description: "После лазерной коррекции зрения один глаз видит хуже другого: причины, когда обращаться к врачу, возможные решения проблемы."
 date: 2025-04-02
 tags:

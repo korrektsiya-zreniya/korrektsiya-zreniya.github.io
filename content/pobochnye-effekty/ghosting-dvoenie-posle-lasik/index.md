@@ -1,6 +1,8 @@
 ---
 title: "Двоение и «призраки» (Ghosting) после LASIK"
 slug: ghosting-dvoenie-posle-lasik
+aliases:
+  - /pobochnye-effekty/ghosting-dvoenie-posle-lasik/
 description: "Почему после лазерной коррекции предметы двоятся? Монокулярная диплопия — побочный эффект, превращающий один предмет в несколько."
 date: 2024-11-20
 keywords:

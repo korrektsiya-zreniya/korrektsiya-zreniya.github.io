@@ -1,6 +1,8 @@
 ---
 title: "Вождение автомобиля после лазерной коррекции зрения: риски, о которых молчат"
 slug: vozhdenie-avtomobilya-posle-lazernoj-korrekczii
+aliases:
+  - /riski-i-posledstviya/vozhdenie-avtomobilya-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Можно ли водить машину ночью после LASIK? Почему возникают блики, гало и потеря контрастности за рулем. Риски потери водительских прав."

@@ -1,6 +1,9 @@
 ---
 title: "История Клэр: от LASIK к удалению глаза (эвисцерация)"
 slug: kler-istoriya-poteri-glaza
+aliases:
+  - /otzyvy/kler-istoriya-poteri-glaza/
+  - /kler-istoriya-poteri-glaza/
 type: post
 date: 2025-12-19
 description: "Трагическая история пациентки, которая потеряла глаз из-за боли после лазерной коррекции. Невралгия роговицы, которая привела к эвисцерации."

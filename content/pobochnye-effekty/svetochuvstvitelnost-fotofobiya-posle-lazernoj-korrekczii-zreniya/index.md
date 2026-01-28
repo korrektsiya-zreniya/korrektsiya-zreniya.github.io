@@ -1,6 +1,8 @@
 ---
 title: Светочувствительность (фотофобия) после лазерной коррекции зрения
 slug: svetochuvstvitelnost-fotofobiya-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /pobochnye-effekty/svetochuvstvitelnost-fotofobiya-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

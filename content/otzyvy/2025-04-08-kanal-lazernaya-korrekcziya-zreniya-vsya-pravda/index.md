@@ -1,6 +1,9 @@
 ---
 title: Канал – ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ | ВСЯ ПРАВДА
 slug: kanal-lazernaya-korrekcziya-zreniya-vsya-pravda
+aliases:
+  - /otzyvy/kanal-lazernaya-korrekcziya-zreniya-vsya-pravda/
+  - /kanal-lazernaya-korrekcziya-zreniya-vsya-pravda/
 date: 2025-04-08
 tags:
   - video

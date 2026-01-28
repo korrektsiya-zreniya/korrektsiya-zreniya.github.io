@@ -1,6 +1,8 @@
 ---
 title: Трудности при чтении после лазерной коррекции зрения
 slug: trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/trudnosti-pri-chtenii-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

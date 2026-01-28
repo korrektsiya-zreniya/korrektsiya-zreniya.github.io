@@ -1,6 +1,8 @@
 ---
 title: "Двоение в глазах после лазерной коррекции зрения"
 slug: dvoenie-v-glazah-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/dvoenie-v-glazah-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Двоение (диплопия, ghosting) после лазерной коррекции — почему возникает и можно ли исправить. Моноокулярное двоение и его причины."

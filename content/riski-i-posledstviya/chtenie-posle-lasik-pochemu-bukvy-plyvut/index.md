@@ -1,6 +1,8 @@
 ---
 title: "Чтение после LASIK: почему буквы плывут?"
 slug: chtenie-posle-lasik-pochemu-bukvy-plyvut
+aliases:
+  - /riski-i-posledstviya/chtenie-posle-lasik-pochemu-bukvy-plyvut/
 type: post
 date: 2025-12-19
 description: "Трудности с чтением и работой за компьютером после лазерной коррекции. Потеря аккомодации, возрастная дальнозоркость и влияние сухости."

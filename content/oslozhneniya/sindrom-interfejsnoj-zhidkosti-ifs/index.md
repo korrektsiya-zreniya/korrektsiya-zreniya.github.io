@@ -1,6 +1,8 @@
 ---
 title: "IFS: Синдром интерфейсной жидкости (жидкость под лоскутом)"
 slug: sindrom-interfejsnoj-zhidkosti-ifs
+aliases:
+  - /oslozhneniya/sindrom-interfejsnoj-zhidkosti-ifs/
 type: post
 date: 2025-12-19
 description: "Когда под лоскутом скапливается жидкость, но врач говорит, что давление низкое. Опасное осложнение IFS, которое путают с ДЛК."

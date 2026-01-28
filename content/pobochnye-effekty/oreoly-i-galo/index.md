@@ -2,6 +2,7 @@
 title: Ореолы и гало после лазерной коррекции зрения
 slug: oreoly-i-galo
 aliases:
+  - /pobochnye-effekty/oreoly-i-galo/
   - /oreoly-i-galo/
   - /riski-i-posledstviya/oslozhneniya/problemy-nochnogo-zreniya/
 thumbnail: /images/halos.webp

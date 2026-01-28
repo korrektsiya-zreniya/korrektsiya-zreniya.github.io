@@ -1,6 +1,8 @@
 ---
 title: "Инфекции после LASIK: когда операция идет не по плану"
 slug: infekcii-posle-lasik
+aliases:
+  - /oslozhneniya/infekcii-posle-lasik/
 type: post
 date: 2025-12-19
 description: "Риск глазных инфекций после лазерной коррекции. Почему лоскут никогда не заживает и является входными воротами для бактерий на всю жизнь."

@@ -1,6 +1,8 @@
 ---
 title: Гало эффект после лазерной коррекции зрения
 slug: halo-effect
+aliases:
+  - /pobochnye-effekty/halo-effect/
 
 type: post
 date: 2025-01-01

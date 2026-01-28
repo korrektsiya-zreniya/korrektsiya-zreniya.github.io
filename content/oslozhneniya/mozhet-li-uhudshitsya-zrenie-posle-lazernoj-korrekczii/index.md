@@ -1,6 +1,8 @@
 ---
 title: "Может ли ухудшиться зрение после лазерной коррекции?"
 slug: mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/
 description: "Может ли ухудшиться зрение после лазерной коррекции? Да. Узнайте причины, факторы риска и что делать."
 date: 2024-01-01
 keywords:

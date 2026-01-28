@@ -1,6 +1,8 @@
 ---
 title: "Почему окулисты не делают себе лазерную коррекцию зрения?"
 slug: pochemu-okulisty-ne-delayut-sebe-lazernuyu-korrekciyu
+aliases:
+  - /riski-i-posledstviya/pochemu-okulisty-ne-delayut-sebe-lazernuyu-korrekciyu/
 description: "Почему офтальмологи сами носят очки и не делают себе LASIK или SMILE? Честный ответ врачей и статистика среди специалистов."
 date: 2025-12-28
 keywords:

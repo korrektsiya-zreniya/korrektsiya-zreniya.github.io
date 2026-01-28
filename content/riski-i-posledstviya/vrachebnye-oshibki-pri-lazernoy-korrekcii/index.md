@@ -1,6 +1,8 @@
 ---
 title: "Врачебные ошибки при лазерной коррекции зрения: миф или реальность? Разбор случаев"
 slug: vrachebnye-oshibki-pri-lazernoy-korrekcii
+aliases:
+  - /riski-i-posledstviya/vrachebnye-oshibki-pri-lazernoy-korrekcii/
 type: post
 date: 2026-01-28
 description: "Есть ли случаи врачебной ошибки при лазерной коррекции зрения? Да. Разбираем 4 главных типа ошибок: от пропущенного кератоконуса до неправильного расчета зоны лазера."

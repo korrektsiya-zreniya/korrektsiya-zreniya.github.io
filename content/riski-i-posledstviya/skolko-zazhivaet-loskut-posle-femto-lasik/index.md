@@ -1,6 +1,8 @@
 ---
 title: "Сколько заживает лоскут после фемто ЛАСИК?"
 slug: skolko-zazhivaet-loskut-posle-femto-lasik
+aliases:
+  - /riski-i-posledstviya/skolko-zazhivaet-loskut-posle-femto-lasik/
 description: "Сколько заживает лоскут после фемто ЛАСИК? Правда: он НЕ прирастает. Узнайте о реальных рисках незаживающего лоскута."
 date: 2024-11-01
 keywords:

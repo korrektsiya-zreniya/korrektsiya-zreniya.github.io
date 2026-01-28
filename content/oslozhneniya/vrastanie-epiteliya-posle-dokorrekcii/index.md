@@ -12,6 +12,8 @@ keywords:
   - поднятие лоскута осложнения
   - повторная лазерная коррекция
 slug: vrastanie-epiteliya-posle-dokorrekcii
+aliases:
+  - /oslozhneniya/vrastanie-epiteliya-posle-dokorrekcii/
 type: post
 ---
 

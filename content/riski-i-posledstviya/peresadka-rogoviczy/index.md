@@ -1,6 +1,8 @@
 ---
 title: Пересадка роговицы
 slug: peresadka-rogoviczy
+aliases:
+  - /riski-i-posledstviya/peresadka-rogoviczy/
 
 thumbnail: /wp-content/uploads/2025/04/corneal_transplant.webp
 

@@ -1,6 +1,8 @@
 ---
 title: Потеря контрастной чувствительности после лазерной коррекции зрения
 slug: poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/poterya-kontrastnoj-chuvstvitelnosti-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

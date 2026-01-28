@@ -1,6 +1,8 @@
 ---
 title: Очки после лазерной коррекции зрения
 slug: ochki-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/ochki-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

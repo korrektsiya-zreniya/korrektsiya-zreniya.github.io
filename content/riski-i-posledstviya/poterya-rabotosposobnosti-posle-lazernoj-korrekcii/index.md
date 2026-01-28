@@ -12,6 +12,8 @@ keywords:
   - программисты осложнения зрения
   - инвалидность по зрению после коррекции
 slug: poterya-rabotosposobnosti-posle-lazernoj-korrekcii
+aliases:
+  - /riski-i-posledstviya/poterya-rabotosposobnosti-posle-lazernoj-korrekcii/
 type: post
 ---
 

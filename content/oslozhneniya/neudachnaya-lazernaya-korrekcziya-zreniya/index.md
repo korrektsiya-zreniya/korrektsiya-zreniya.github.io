@@ -1,6 +1,8 @@
 ---
 title: "Неудачная лазерная коррекция зрения: истории пациентов и что делать"
 slug: neudachnaya-lazernaya-korrekcziya-zreniya
+aliases:
+  - /oslozhneniya/neudachnaya-lazernaya-korrekcziya-zreniya/
 type: post
 date: 2025-12-19
 description: "Неудачная лазерная коррекция зрения: реальные истории, виды осложнений, юридические аспекты и что делать, если операция прошла неудачно."

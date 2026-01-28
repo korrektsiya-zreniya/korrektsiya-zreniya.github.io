@@ -1,6 +1,8 @@
 ---
 title: Астигматизм после лазерной коррекции зрения
 slug: astigmatizm-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /riski-i-posledstviya/astigmatizm-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

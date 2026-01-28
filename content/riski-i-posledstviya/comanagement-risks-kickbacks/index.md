@@ -1,6 +1,8 @@
 ---
 title: "Совместное ведение (Comanagement): Кик-бэки и риски для пациента"
 slug: comanagement-risks-kickbacks
+aliases:
+  - /riski-i-posledstviya/comanagement-risks-kickbacks/
 description: "Что такое co-management в лазерной хирургии? Почему ваш оптометрист так настойчиво рекомендует конкретного хирурга и почему это опасно для вас."
 date: 2024-11-20
 keywords:

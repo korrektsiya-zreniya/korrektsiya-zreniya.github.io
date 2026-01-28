@@ -1,6 +1,8 @@
 ---
 title: Как долго восстанавливается зрение после лазерной коррекции
 slug: kak-dolgo-vosstanavlivaetsya-zrenie-posle-lazernoy-korrekcii
+aliases:
+  - /riski-i-posledstviya/kak-dolgo-vosstanavlivaetsya-zrenie-posle-lazernoy-korrekcii/
 
 
 type: post

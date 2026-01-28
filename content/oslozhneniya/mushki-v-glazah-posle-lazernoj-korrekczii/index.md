@@ -1,6 +1,8 @@
 ---
 title: "Мушки в глазах (деструкция стекловидного тела) после лазерной коррекции"
 slug: mushki-v-glazah-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/mushki-v-glazah-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Почему после LASIK появляются черные точки и паутинки? Влияние вакуумного кольца на стекловидное тело."

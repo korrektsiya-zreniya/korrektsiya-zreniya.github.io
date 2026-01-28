@@ -1,6 +1,8 @@
 ---
 title: "Миф о «Зрении 100%» (20/20): почему таблица врет"
 slug: mif-o-zrenii-100-procentov
+aliases:
+  - /riski-i-posledstviya/mif-o-zrenii-100-procentov/
 type: post
 date: 2025-12-19
 description: "Острота зрения (Quantity) против Качества зрения (Quality). Как можно видеть 100% строчку в таблице, но быть функционально слепым. Иллюстрации потери контраста и двоения."

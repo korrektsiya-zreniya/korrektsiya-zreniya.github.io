@@ -1,6 +1,8 @@
 ---
 title: "Чат пациентов: Где искать правду и поддержку пострадавшим от лазерной коррекции?"
 slug: chat-postradavshih-ot-lazernoj-korrekcii-zreniya
+aliases:
+  - /novosti/chat-postradavshih-ot-lazernoj-korrekcii-zreniya/
 type: post
 date: 2026-01-28
 description: "Единственное место, где нет цензуры клиник. Реальные истории, советы по лечению осложнений и поддержка тех, кто столкнулся с проблемами после LASIK и SMILE."

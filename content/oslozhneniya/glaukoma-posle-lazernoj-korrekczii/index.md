@@ -1,6 +1,8 @@
 ---
 title: "Глаукома после лазерной коррекции: невидимая угроза"
 slug: glaukoma-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/glaukoma-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "Почему после LASIK невозможно точно измерить глазное давление? Как низкие показания приборов скрывают развитие глаукомы и приводят к слепоте."

@@ -1,6 +1,8 @@
 ---
 title: "Кератоэктазия после LASIK: Реальные истории из базы FDA"
 slug: ectasia-fda-reports
+aliases:
+  - /riski-i-posledstviya/ectasia-fda-reports/
 description: "FDA MAUDE Database хранит тысячи жалоб пациентов. Истории людей, потерявших зрение из-за эктазии роговицы после «безопасной» лазерной коррекции."
 date: 2024-11-20
 keywords:

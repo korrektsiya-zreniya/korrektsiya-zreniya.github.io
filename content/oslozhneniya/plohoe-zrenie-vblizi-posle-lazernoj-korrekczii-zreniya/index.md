@@ -1,6 +1,8 @@
 ---
 title: "Плохое зрение вблизи после лазерной коррекции зрения"
 slug: plohoe-zrenie-vblizi-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/plohoe-zrenie-vblizi-posle-lazernoj-korrekczii-zreniya/
 description: "Плохо видите вблизи после лазерной коррекции? Причины ухудшения ближнего зрения после ЛКЗ."
 date: 2025-04-02
 keywords:

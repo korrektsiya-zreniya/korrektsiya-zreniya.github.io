@@ -1,6 +1,8 @@
 ---
 title: "Боль после лазерной коррекции зрения: причины и что делать"
 slug: bol-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/bol-posle-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Боль в глазах после лазерной коррекции — нормально ли это? Невралгия роговицы, сухость, жжение. Причины хронической боли и методы лечения."

@@ -1,6 +1,8 @@
 ---
 title: Кастомизированные склеральные линзы с коррекцией аберраций пациентам после ЛКЗ
 slug: kastomizirovannye-skleralnye-linzy-s-korrekcziej-aberraczij-paczientam-posle-lkz
+aliases:
+  - /novosti/kastomizirovannye-skleralnye-linzy-s-korrekcziej-aberraczij-paczientam-posle-lkz/
 date: 2024-04-22
 
 type: post

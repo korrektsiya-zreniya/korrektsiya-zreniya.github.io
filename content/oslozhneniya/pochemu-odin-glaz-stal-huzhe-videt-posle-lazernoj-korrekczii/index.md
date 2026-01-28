@@ -1,6 +1,8 @@
 ---
 title: "Почему один глаз стал хуже видеть после лазерной коррекции?"
 slug: pochemu-odin-glaz-stal-huzhe-videt-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/pochemu-odin-glaz-stal-huzhe-videt-posle-lazernoj-korrekczii/
 description: "Один глаз видит хуже после лазерной коррекции — частая проблема. Причины асимметрии зрения и что делать, если глаза видят по-разному."
 date: 2025-12-28
 keywords:

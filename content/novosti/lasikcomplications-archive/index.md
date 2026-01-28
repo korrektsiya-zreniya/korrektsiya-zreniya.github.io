@@ -1,6 +1,8 @@
 ---
 title: "LASIK Complications — архив переведённого англоязычного сайта"
 slug: lasikcomplications
+aliases:
+  - /novosti/lasikcomplications/
 description: "Полный перевод англоязычного сайта LasikComplications.com на русский язык. Осложнения после лазерной коррекции зрения: сухость глаз, гало-эффект, эктазия роговицы, депрессия и суицид."
 date: 2023-10-01
 type: post

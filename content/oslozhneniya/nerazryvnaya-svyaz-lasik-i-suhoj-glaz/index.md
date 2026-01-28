@@ -1,6 +1,8 @@
 ---
 title: "Неразрывная связь: LASIK, повреждение нервов и хроническая сухость глаз"
 slug: nerazryvnaya-svyaz-lasik-i-suhoj-glaz
+aliases:
+  - /oslozhneniya/nerazryvnaya-svyaz-lasik-i-suhoj-glaz/
 description: "Почему 50% пациентов страдают от сухости глаз после LASIK? Обзор исследований о повреждении и (не)восстановлении роговичных нервов."
 date: 2024-11-20
 keywords:

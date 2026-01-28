@@ -1,6 +1,8 @@
 ---
 title: Ночные глазные мази после лазерной коррекции зрения
 slug: nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/nochnye-glaznye-mazi-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

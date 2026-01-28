@@ -1,6 +1,8 @@
 ---
 title: "Белые буквы двоятся на черном фоне: почему после LASIK возникает двоение (Ghosting)?"
 slug: belye-bukvy-dvoyatsya-ghosting-posle-lasik
+aliases:
+  - /pobochnye-effekty/belye-bukvy-dvoyatsya-ghosting-posle-lasik/
 type: post
 date: 2026-01-28
 description: "Видите тени от букв или двоение текста после коррекции зрения? Это Ghosting. Разбираем причины: аберрации высшего порядка, кома и иррегулярный астигматизм."

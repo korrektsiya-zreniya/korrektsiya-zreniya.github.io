@@ -1,6 +1,8 @@
 ---
 title: "Осложнения, связанные с лоскутом (флэпом) при LASIK"
 slug: oslozhneniya-loskuta-lasik-issledovaniya
+aliases:
+  - /oslozhneniya/oslozhneniya-loskuta-lasik-issledovaniya/
 description: "Дырки в лоскуте, поломка микрокератома и риск потери зрения. Обзор научных исследований о проблемах с формированием лоскута."
 date: 2024-11-20
 keywords:

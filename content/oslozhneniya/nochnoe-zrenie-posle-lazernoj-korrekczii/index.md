@@ -1,6 +1,8 @@
 ---
 title: "Ночное зрение после лазерной коррекции: почему возникают гало, звёзды и блики?"
 slug: nochnoe-zrenie-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/nochnoe-zrenie-posle-lazernoj-korrekczii/
 type: post
 date: 2025-12-19
 description: "До 46% пациентов жалуются на нарушения ночного зрения после LASIK и SMILE. Разбираемся, почему возникают гало (halos), звёздные вспышки (starbursts) и можно ли это исправить."

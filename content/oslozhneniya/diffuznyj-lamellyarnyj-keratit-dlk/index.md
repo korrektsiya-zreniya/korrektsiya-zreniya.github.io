@@ -1,6 +1,8 @@
 ---
 title: "Диффузный ламеллярный кератит (ДЛК) после LASIK"
 slug: diffuznyj-lamellyarnyj-keratit-dlk
+aliases:
+  - /oslozhneniya/diffuznyj-lamellyarnyj-keratit-dlk/
 type: post
 date: 2025-12-19
 description: "Синдром песков Сахары — воспаление под лоскутом LASIK. Причины, симптомы и лечение ДЛК."

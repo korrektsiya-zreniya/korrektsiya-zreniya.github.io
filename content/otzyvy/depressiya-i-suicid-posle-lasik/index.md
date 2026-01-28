@@ -1,6 +1,9 @@
 ---
 title: "Депрессия и суицид после LASIK: скрытая эпидемия"
 slug: depressiya-i-suicid-posle-lasik
+aliases:
+  - /otzyvy/depressiya-i-suicid-posle-lasik/
+  - /depressiya-i-suicid-posle-lasik/
 type: post
 date: 2025-12-19
 description: "Трагические истории Макса Кронина и Колина Дорриана. Почему пациенты с осложнениями LASIK идут на крайние меры и почему хирурги не видят проблемы."

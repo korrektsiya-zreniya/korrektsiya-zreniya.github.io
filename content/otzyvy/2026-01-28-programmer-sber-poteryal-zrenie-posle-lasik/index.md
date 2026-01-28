@@ -1,6 +1,9 @@
 ---
 title: "Программист Сбера: «Я потерял карьеру из-за лазерной коррекции зрения». Личный опыт"
 slug: programmer-sber-poteryal-zrenie-posle-lasik
+aliases:
+  - /otzyvy/programmer-sber-poteryal-zrenie-posle-lasik/
+  - /programmer-sber-poteryal-zrenie-posle-lasik/
 type: post
 date: 2026-01-28
 description: "История разработчика, который хотел избавиться от очков, а в итоге не смог смотреть в монитор. Сухость глаз, гало-эффекты и крах карьеры."

@@ -1,6 +1,8 @@
 ---
 title: "Размер зрачка и лазерная коррекция зрения: скрытый фактор риска"
 slug: razmer-zrachka-i-lazernaya-korrekcziya-zreniya
+aliases:
+  - /riski-i-posledstviya/razmer-zrachka-i-lazernaya-korrekcziya-zreniya/
 type: post
 date: 2025-12-19
 description: "Большие зрачки — противопоказание к лазерной коррекции. Почему размер зрачка влияет на ночное зрение и почему клиники это игнорируют."

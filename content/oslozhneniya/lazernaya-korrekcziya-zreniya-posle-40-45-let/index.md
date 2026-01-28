@@ -1,6 +1,8 @@
 ---
 title: "Лазерная коррекция зрения после 40-45 лет: стоит ли делать?"
 slug: lazernaya-korrekcziya-zreniya-posle-40-45-let
+aliases:
+  - /oslozhneniya/lazernaya-korrekcziya-zreniya-posle-40-45-let/
 type: post
 date: 2025-12-19
 description: "Стоит ли делать лазерную коррекцию зрения после 40-45 лет? Пресбиопия, возрастные изменения, риски и альтернативы. Почему операция не спасёт от очков для чтения."

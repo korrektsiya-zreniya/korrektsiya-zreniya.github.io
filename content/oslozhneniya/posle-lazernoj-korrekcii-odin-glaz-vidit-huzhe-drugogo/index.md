@@ -1,6 +1,8 @@
 ---
 title: "После лазерной коррекции зрения один глаз видит хуже другого: причины и решения"
 slug: posle-lazernoj-korrekcii-odin-glaz-vidit-huzhe-drugogo
+aliases:
+  - /oslozhneniya/posle-lazernoj-korrekcii-odin-glaz-vidit-huzhe-drugogo/
 type: post
 date: 2025-12-19
 description: "Почему после лазерной коррекции зрения один глаз видит хуже другого? Анизометропия, асимметричное заживление, недокоррекция. Что делать и когда обращаться к врачу."

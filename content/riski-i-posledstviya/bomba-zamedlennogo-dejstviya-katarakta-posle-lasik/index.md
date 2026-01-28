@@ -1,6 +1,8 @@
 ---
 title: "«Бомба замедленного действия»: Катаракта и слепота после LASIK в старости"
 slug: bomba-zamedlennogo-dejstviya-katarakta-posle-lasik
+aliases:
+  - /riski-i-posledstviya/bomba-zamedlennogo-dejstviya-katarakta-posle-lasik/
 type: post
 date: 2026-01-28
 description: "После лазерной коррекции зрения в старости вас ждет сюрприз: хирург не сможет правильно рассчитать хрусталик при катаракте. Риск остаться слабовидящим навсегда."

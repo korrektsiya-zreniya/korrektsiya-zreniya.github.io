@@ -1,6 +1,8 @@
 ---
 title: "Большие зрачки и LASIK: Предупреждение о потере ночного зрения"
 slug: bolshie-zrachki-i-fda
+aliases:
+  - /riski-i-posledstviya/bolshie-zrachki-i-fda/
 description: "Если у вас широкие зрачки, лазерная коррекция может навсегда лишить вас возможности водить машину ночью. Что говорит FDA и исследования о рисках гало и ослепления."
 date: 2024-11-20
 keywords:

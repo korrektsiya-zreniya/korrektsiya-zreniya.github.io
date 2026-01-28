@@ -1,6 +1,8 @@
 ---
 title: "Инфекции после лазерной коррекции зрения"
 slug: infekczii-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/infekczii-posle-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Лоскут LASIK создаёт постоянный портал для инфекций. Бактериальный и грибковый кератит могут развиться даже через годы после операции."

@@ -1,6 +1,8 @@
 ---
 title: Пациентов, решившимся на лазерную коррекцию зрения, следует предупреждать о возможных осложнениях, говорится в проекте документа FDA
 slug: paczientov-reshivshimsya-na-lazernuyu-korrekcziyu-zreniya-sleduet-preduprezhdat-o-vozmozhnyh-oslozhneniyah-govoritsya-v-proekte-dokumenta-fda
+aliases:
+  - /novosti/paczientov-reshivshimsya-na-lazernuyu-korrekcziyu-zreniya-sleduet-preduprezhdat-o-vozmozhnyh-oslozhneniyah-govoritsya-v-proekte-dokumenta-fda/
 date: 2022-12-06
 
 type: post

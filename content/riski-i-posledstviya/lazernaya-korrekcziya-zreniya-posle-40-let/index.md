@@ -1,6 +1,8 @@
 ---
 title: Лазерная коррекция зрения после 40 лет
 slug: lazernaya-korrekcziya-zreniya-posle-40-let
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekcziya-zreniya-posle-40-let/
 
 
 type: post

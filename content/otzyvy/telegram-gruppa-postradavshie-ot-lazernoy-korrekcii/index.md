@@ -1,6 +1,9 @@
 ---
 title: "«Пострадавшие от лазерной коррекции»: феномен закрытых чатов, где пациенты ищут правду"
 slug: telegram-gruppa-postradavshie-ot-lazernoy-korrekcii
+aliases:
+  - /otzyvy/telegram-gruppa-postradavshie-ot-lazernoy-korrekcii/
+  - /telegram-gruppa-postradavshie-ot-lazernoy-korrekcii/
 type: post
 date: 2026-01-28
 description: "О чем молчат в клиниках, но громко говорят в Telegram? Как сообщество пациентов стало единственным источником реальной информации об осложнениях после LASIK и SMILE."

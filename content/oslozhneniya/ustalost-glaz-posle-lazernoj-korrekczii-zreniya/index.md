@@ -1,6 +1,8 @@
 ---
 title: Усталость глаз после лазерной коррекции зрения
 slug: ustalost-glaz-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/ustalost-glaz-posle-lazernoj-korrekczii-zreniya/
 
 
 type: post

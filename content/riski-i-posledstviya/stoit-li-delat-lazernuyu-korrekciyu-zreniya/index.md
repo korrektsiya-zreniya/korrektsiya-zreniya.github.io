@@ -1,6 +1,8 @@
 ---
 title: "Стоит ли делать лазерную коррекцию зрения? Честный ответ"
 slug: stoit-li-delat-lazernuyu-korrekciyu-zreniya
+aliases:
+  - /riski-i-posledstviya/stoit-li-delat-lazernuyu-korrekciyu-zreniya/
 type: post
 date: 2025-12-19
 description: "Стоит ли делать LASIK, SMILE или ФРК? Разбираем реальные риски, статистику осложнений и мнения независимых врачей. Вся правда о лазерной коррекции."

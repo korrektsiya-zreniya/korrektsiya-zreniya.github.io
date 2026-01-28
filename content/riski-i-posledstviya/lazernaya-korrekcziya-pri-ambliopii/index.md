@@ -1,6 +1,8 @@
 ---
 title: "Лазерная коррекция зрения при амблиопии («ленивом глазе»)"
 slug: lazernaya-korrekcziya-pri-ambliopii
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekcziya-pri-ambliopii/
 description: "Можно ли делать лазерную коррекцию при амблиопии? Поможет ли операция вылечить «ленивый глаз»? Реалистичные прогнозы и скрытые риски."
 date: 2025-01-01
 keywords:

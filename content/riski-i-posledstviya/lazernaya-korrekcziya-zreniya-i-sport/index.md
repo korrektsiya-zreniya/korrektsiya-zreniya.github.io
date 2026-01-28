@@ -1,6 +1,8 @@
 ---
 title: "Лазерная коррекция зрения и спорт: вечная угроза травмы"
 slug: lazernaya-korrekcziya-zreniya-i-sport
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekcziya-zreniya-i-sport/
 type: post
 date: 2025-12-19
 description: "Почему спортсменам категически нельзя делать LASIK? Риск потери лоскута (флэпа) даже через 10 лет после операции. Реальные истории травм."

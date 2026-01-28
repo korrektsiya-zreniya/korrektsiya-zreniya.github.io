@@ -3,6 +3,8 @@ title: "Women’s Health опубликовал большую статью о �
 date: 2025-08-22
 
 slug: 2025-08-22-womens-health-opublikoval-statyu-o-riskah-lasik
+aliases:
+  - /novosti/2025-08-22-womens-health-opublikoval-statyu-o-riskah-lasik/
 type: post
 description: "Women's Health о рисках лазерной коррекции зрения: сухость глаз, хроническая боль, регресс зрения. Реальные истории пострадавших и статистика осложнений."
 keywords:

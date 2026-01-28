@@ -1,6 +1,8 @@
 ---
 title: "Роговичная невралгия: Фантомная боль после LASIK"
 slug: rogovichnaya-nevralgiya-posle-lasik
+aliases:
+  - /oslozhneniya/rogovichnaya-nevralgiya-posle-lasik/
 description: "Сильная боль в глазах без видимых причин. Почему врачи ставят диагноз «сухой глаз», когда на самом деле это повреждение нервов."
 date: 2024-11-20
 keywords:

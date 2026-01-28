@@ -2,6 +2,7 @@
 title: Глэр эффект после лазерной коррекции зрения
 slug: gler-posle-lazernoj-korrekcii-zreniya
 aliases:
+  - /pobochnye-effekty/gler-posle-lazernoj-korrekcii-zreniya/
   - /gler-posle-lazernoj-korrekcii-zreniya/
 
 type: post

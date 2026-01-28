@@ -1,6 +1,8 @@
 ---
 title: "Смещение лоскута после лазерной коррекции зрения: лоскут никогда не заживает"
 slug: smeshhenie-loskuta-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/smeshhenie-loskuta-posle-lazernoj-korrekczii-zreniya/
 type: post
 date: 2025-12-19
 description: "Научные исследования доказывают, что лоскут LASIK никогда полностью не заживает и не срастается с роговицей. Пациенты подвержены пожизненному риску смещения. Симптомы смещения, реальные случаи, предупреждения врачей."

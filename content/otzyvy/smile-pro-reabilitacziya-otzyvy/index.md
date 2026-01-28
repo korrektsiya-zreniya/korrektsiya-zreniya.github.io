@@ -1,6 +1,9 @@
 ---
 title: "Реабилитация после SMILE Pro: реальные отзывы, туман и «вау-эффект»"
 slug: smile-pro-reabilitacziya-otzyvy
+aliases:
+  - /otzyvy/smile-pro-reabilitacziya-otzyvy/
+  - /smile-pro-reabilitacziya-otzyvy/
 type: post
 date: 2025-06-20
 description: "Реальные отзывы о реабилитации после SMILE Pro (VisuMax 800). Почему зрение долго восстанавливается, откуда берется туман и эффект целлофанового пакета. Сравнение с LASIK."

@@ -1,10 +1,12 @@
 ---
 title: "LASIK Complications — архив переведённого англоязычного сайта"
-slug: lasikcomplications
+slug: lasikcomplications-archive-ru
 aliases:
   - /novosti/lasikcomplications/
+  - /lasikcomplications/
 description: "Полный перевод англоязычного сайта LasikComplications.com на русский язык. Осложнения после лазерной коррекции зрения: сухость глаз, гало-эффект, эктазия роговицы, депрессия и суицид."
 date: 2023-10-01
+thumbnail: /lasikcomplications-archive-ru/lasik-complications-banner.webp
 type: post
 keywords:
   - lasik complications перевод
@@ -17,7 +19,7 @@ keywords:
 
 ## О сайте LASIK Complications
 
-**[LASIK Complications](/lasikcomplications/)** — это полный перевод известного англоязычного сайта [LasikComplications.com](https://lasikcomplications.com), который существует с начала 2000-х годов и является **одним из старейших независимых ресурсов**, предупреждающих о рисках лазерной коррекции зрения.
+**[LASIK Complications](https://lasikcomplications.com)** — это полный перевод известного англоязычного сайта [LasikComplications.com](https://lasikcomplications.com), который существует с начала 2000-х годов и является **одним из старейших независимых ресурсов**, предупреждающих о рисках лазерной коррекции зрения.
 
 Сайт содержит сотни страниц документации об осложнениях LASIK, PRK и других рефракционных операций, включая:
 

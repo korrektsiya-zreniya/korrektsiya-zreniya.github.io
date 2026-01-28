@@ -40,10 +40,13 @@ enableRobotsTXT = true
 
 [permalinks]
   [permalinks.page]
+    novosti = "/:slug/"
     riski-i-posledstviya = "/:slug/"
-    oslozhneniya = "/:slug/"
     pobochnye-effekty = "/:slug/"
+    oslozhneniya = "/:slug/"
+    otzyvy = "/:slug/"
     sudebnye-dela = "/:slug/"
+    
 [markup]
   [markup.goldmark.renderer]
     unsafe = true

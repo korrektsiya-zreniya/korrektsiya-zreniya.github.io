@@ -14,8 +14,11 @@ keywords:
   - ирина ларькова орск
   - осложнения лазерной коррекции зрения
   - суд с клиникой зрения
+aliases:
+  - /orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
 ---
-{{< img src="larkova-poteryala-glaz-3-1024x580.webp" alt="" >}} 
+
+{{< img src="larkova-poteryala-glaz-3-1024x580.webp" alt="" >}}
 
 О том, что лазерная коррекция зрения может привести к потере глаза, орчанка Ирина Ларькова даже подумать не могла.
 
@@ -65,4 +68,4 @@ keywords:
 
 Источник: [Орчанка потеряла глаз после лазерной коррекции зрения][1]
 
- [1]: https://orskayagazeta.ru/intervyu/orchanka-poteryala-glaz-posle-lazernoj-korrektsii-zreniya/
+[1]: https://orskayagazeta.ru/intervyu/orchanka-poteryala-glaz-posle-lazernoj-korrektsii-zreniya/

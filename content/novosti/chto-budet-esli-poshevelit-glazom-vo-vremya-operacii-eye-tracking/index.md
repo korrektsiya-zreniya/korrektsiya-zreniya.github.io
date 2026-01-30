@@ -2,7 +2,7 @@
 title: "Что будет, если пошевелить глазом во время операции? Почему лазеры с eye-tracking не делают операцию «идеальной»"
 date: 2026-01-30
 slug: chto-budet-esli-poshevelit-glazom-vo-vremya-operacii-eye-tracking
-thumbnail: /novosti/chto-budet-esli-poshevelit-glazom-vo-vremya-operacii-eye-tracking/eye-tracking.webp
+thumbnail: /chto-budet-esli-poshevelit-glazom-vo-vremya-operacii-eye-tracking/eye-tracking.webp
 type: post
 description: "Маркетинг обещает идеальную точность благодаря eye-tracking (1000 Гц). Но физика и исследования говорят об обратном: микродвижения глаза неизбежно влияют на результат лазерной коррекции."
 keywords:

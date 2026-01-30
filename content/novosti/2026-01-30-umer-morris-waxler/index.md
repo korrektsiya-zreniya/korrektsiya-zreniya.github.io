@@ -2,7 +2,7 @@
 title: "Умер Моррис Уокслер (Morris Waxler, PhD) — сотрудник FDA, признавший, что одобрение лазерной коррекции зрения было ошибкой"
 date: 2026-01-30
 slug: 2026-01-30-umer-morris-waxler
-thumbnail: /2026-01-30-umer-morris-waxler/morris-waxler.png
+thumbnail: /2026-01-30-umer-morris-waxler/morris-waxler.webp
 type: post
 description: "Моррис Уокслер, бывший глава подразделения FDA, одобрившего лазерную коррекцию зрения, скончался 2 января 2026 года. Он посвятил последние годы жизни борьбе за признание рисков операции."
 keywords:

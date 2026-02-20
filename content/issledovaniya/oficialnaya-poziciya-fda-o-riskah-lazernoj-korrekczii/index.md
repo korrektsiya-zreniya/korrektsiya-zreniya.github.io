@@ -5,7 +5,7 @@ type: post
 date: 2025-12-19
 description: "Что говорит FDA о рисках лазерной коррекции? Официальные предупреждения, противопоказания и признанные осложнения."
 tags:
-  - FDA
+  - fda
   - oficialnaya-poziciya
   - riski
 keywords:

@@ -10,7 +10,7 @@ keywords:
   - деструкция стекловидного тела
   - осложнения ЛКЗ
 tags:
-  - мушки в глазах
+  - mushki-v-glazah
   - plavayushhie-pomutneniya
   - oslozhneniya
   - steklovidnoe-telo

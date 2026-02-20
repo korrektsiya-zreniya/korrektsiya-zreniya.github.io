@@ -16,7 +16,7 @@ keywords:
 tags:
   - otzyvy
   - istorii-paczientov
-  - LASIK
+  - lasik
   - negativnyj-opyt
 ---
 

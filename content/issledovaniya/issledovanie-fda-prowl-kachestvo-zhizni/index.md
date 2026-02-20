@@ -11,7 +11,7 @@ keywords:
   - отчет fda о лазерной коррекции
   - новые симптомы после операции
 tags:
-  - FDA
+  - fda
   - issledovaniya
   - kachestvo-zhizni
 ---

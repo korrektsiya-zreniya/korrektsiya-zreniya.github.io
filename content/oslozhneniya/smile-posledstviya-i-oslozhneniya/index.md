@@ -7,8 +7,8 @@ type: post
 date: 2025-12-19
 description: "Правда о методе SMILE (ReLEx): почему это не «безлоскутная» операция, риск потери вакуума, сложности докоррекции и трагические случаи. Исследования 2019 года."
 tags:
-  - SMILE
-  - ReLEx SMILE
+  - smile
+  - relex-smile
   - oslozhneniya
   - posledstviya
   - ektaziya

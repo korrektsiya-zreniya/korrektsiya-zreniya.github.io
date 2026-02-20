@@ -20,7 +20,7 @@ keywords:
   - lasik smile
   - лазерная коррекция зрения relex smile
 tags:
-  - smile pro
+  - smile-pro
 ---
 
 **Почему коррекция зрения SMILE PRO небезопасна: отзывы пациентов, о которых молчат клиники**

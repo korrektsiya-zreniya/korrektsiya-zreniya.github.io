@@ -5,7 +5,7 @@
 {{- $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
 
 {{- if gt $paginator.TotalPages 1 }}
-<div class="pagination">
+<div class="pagination" style="display: flex; justify-content: center; width: 100%;">
 	{{- if $paginator.HasPrev }}
 	<a class="pagination__item pagination__item--prev btn" href="{{ $paginator.Prev.URL }}">«</a>
 	{{- end }}

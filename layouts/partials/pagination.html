@@ -1,18 +1,45 @@
 {{- $paginator := .Paginator }}
-{{- if or ($paginator.HasPrev) ($paginator.HasNext) }}
+{{- $adjacent_links := 2 }}
+{{- $max_links := (add (mul $adjacent_links 2) 1) }}
+{{- $lower_limit := (add $adjacent_links 1) }}
+{{- $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+
+{{- if gt $paginator.TotalPages 1 }}
 <div class="pagination">
 	{{- if $paginator.HasPrev }}
 	<a class="pagination__item pagination__item--prev btn" href="{{ $paginator.Prev.URL }}">«</a>
 	{{- end }}
-	
+
 	{{- range $paginator.Pagers }}
-	{{- if eq . $paginator }}
-	<span class="pagination__item pagination__item--current">{{ .PageNumber }}</span>
-	{{- else }}
-	<a class="pagination__item btn" href="{{ .URL }}">{{ .PageNumber }}</a>
+		{{- $page_number_flag := false }}
+
+		{{- if gt $paginator.TotalPages $max_links }}
+			{{- if le $paginator.PageNumber $lower_limit }}
+				{{- if le .PageNumber $max_links }}
+					{{- $page_number_flag = true }}
+				{{- end }}
+			{{- else if ge $paginator.PageNumber $upper_limit }}
+				{{- if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+					{{- $page_number_flag = true }}
+				{{- end }}
+			{{- else }}
+				{{- if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+					{{- $page_number_flag = true }}
+				{{- end }}
+			{{- end }}
+		{{- else }}
+			{{- $page_number_flag = true }}
+		{{- end }}
+
+		{{- if eq $page_number_flag true }}
+			{{- if eq . $paginator }}
+			<span class="pagination__item pagination__item--current">{{ .PageNumber }}</span>
+			{{- else }}
+			<a class="pagination__item btn" href="{{ .URL }}">{{ .PageNumber }}</a>
+			{{- end }}
+		{{- end }}
 	{{- end }}
-	{{- end }}
-	
+
 	{{- if $paginator.HasNext }}
 	<a class="pagination__item pagination__item--next btn" href="{{ $paginator.Next.URL }}">»</a>
 	{{- end }}

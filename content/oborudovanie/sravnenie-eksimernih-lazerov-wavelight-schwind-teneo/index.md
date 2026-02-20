@@ -1,4 +1,5 @@
 ---
+
 title: "Сравнение эксимерных лазеров: Wavelight EX500, Schwind Amaris и Teneo. Маркетинг или реальная разница?"
 description: "Какой лазер лучше для коррекции зрения? Разбираем частоту (Гц), eye-tracker и маркетинговые уловки клиник вокруг Wavelight EX500, Schwind Amaris 1050RS и Bausch+Lomb Teneo 317."
 date: 2026-02-20T00:00:00
@@ -12,6 +13,7 @@ keywords:
   - "sсhwind atos или ex500"
   - "wavelight ex500 и teneo 317/3 что лучше"
   - "amaris ш atos"
+slug: sravnenie-eksimernih-lazerov-wavelight-schwind-teneo
 ---
 
 Когда пациент решает сделать лазерную коррекцию зрения (LASIK, Femto-LASIK, ФРК), он неизбежно сталкивается с агрессивным маркетингом клиник. Каждая клиника утверждает, что их лазер — "самый современный", "самый быстрый" и "самый безопасный".

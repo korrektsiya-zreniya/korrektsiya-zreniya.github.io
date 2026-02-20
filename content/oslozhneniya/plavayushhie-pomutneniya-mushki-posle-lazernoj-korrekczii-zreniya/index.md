@@ -6,12 +6,12 @@ aliases:
 description: "Мушки (плавающие помутнения) после лазерной коррекции. Почему возникают, связь с вакуумным кольцом, можно ли убрать."
 keywords:
   - мушки после лазерной коррекции
-  - plavayushhie-pomutneniya
+  - plavayushie-pomutneniya
   - деструкция стекловидного тела
   - осложнения ЛКЗ
 tags:
   - mushki-v-glazah
-  - plavayushhie-pomutneniya
+  - plavayushie-pomutneniya
   - oslozhneniya
   - steklovidnoe-telo
 type: post

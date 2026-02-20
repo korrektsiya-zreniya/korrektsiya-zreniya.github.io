@@ -1,4 +1,5 @@
 ---
+
 title: "Schwind ATOS (SmartSight) или Zeiss SMILE (VisuMax): Какой микрорез выбрать, чтобы не ослепнуть"
 description: "Новая технология SmartSight от Schwind на лазере ATOS пришла на смену SMILE от Zeiss? Что лучше, обзор отличий, отзывы хирургов и пациентов про SmartSight, стоит ли переплачивать за микрорез."
 date: 2026-02-20T00:00:00
@@ -7,13 +8,14 @@ tags:
   - smile
   - marketing
   - obman
-  - oficzialnaya-pozicziya
+  - oficialnaya-poziciya
 keywords:
   - "schwind atos отзывы"
   - "schwind smitight или smile"
   - "что лучше смайл или смартсайт"
   - "микрорез лазерная коррекция"
   - "visumax atos сравнение"
+slug: schwind-atos-smartsight-vs-zeiss-smile
 ---
 
 Когда патент Zeiss на технологию SMILE (удаление лентикулы через [микрорез](/riski-i-posledstviya/chto-budet-esli-dernut-glazom-vo-vremya-lasik/)) закончился, на рынок лазерной коррекции хлынули аналоги от других производителей.

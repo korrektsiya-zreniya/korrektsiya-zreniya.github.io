@@ -1,11 +1,12 @@
 ---
+
 title: "Колин Дорриан: Трагедия, которая заставила США заговорить о жертвах LASIK"
 description: "История Колина Дорриана — студента-медика, чья смерть после неудачной лазерной коррекции зрения в корне изменила отношение FDA к безопасности LASIK в США."
 date: 2026-02-20T00:00:00
 image: "/img/articles/colin-dorrian-tragediya-lasik.webp"
 tags:
   - otzyvy-postradavshih
-  - suiczid-posle-lazernoj-korrekczii
+  - suiczid
   - fda-investigation
 keywords:
   - "колин дорриан"
@@ -13,6 +14,7 @@ keywords:
   - "самоубийство после лазерной коррекции"
   - "colin dorrian lasik suicide"
   - "депрессия после лазерной коррекции"
+slug: colin-dorrian-tragediya-lasik
 ---
 
 В индустрии лазерной коррекции зрения (LASIK, SMILE, ФРК) принято показывать только счастливые лица пациентов, выбросивших очки. Хирурги любят повторять мантру про "99% успешных операций" и "безопасность".

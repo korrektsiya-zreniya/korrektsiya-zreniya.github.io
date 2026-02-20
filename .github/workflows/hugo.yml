@@ -57,7 +57,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://korrektsiya-zreniya.net/"
-          mv public/lasikcomplications/index.htm public/lasikcomplications/index.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

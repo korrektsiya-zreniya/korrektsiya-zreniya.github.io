@@ -2,10 +2,9 @@
 title = "Смайл или Смайл Про: отзывы, минусы и разница"
 description = "В чем разница между лазерной коррекцией зрения Smile и Smile Pro? Разбираем реальные негативные отзывы пациентов, последствия, риски и цены 2026 года в разных клиниках."
 date = 2026-02-20T00:00:00
-author = "Эдуард Кондратьев"
 image = "/img/articles/smile-pro-otzyvy-negativ.webp"
 categories = ["Отзывы"]
-tags = ["SMILE", "SMILE Pro", "Отзывы", "Осложнения", "Цена"]
+tags = ["smile", "smile-pro", "riski", "otzyvy", "negativnyj-opyt"]
 keywords = [
   "смайл или смайл про",
   "отзывы врачей смайл про",

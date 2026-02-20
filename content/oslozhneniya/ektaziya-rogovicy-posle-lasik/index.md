@@ -7,7 +7,7 @@ image: "/img/articles/ektaziya-rogovicy-posle-lasik.webp"
 tags:
   - oslozhneniya
   - metodi-diagnostiki
-  - keratoconus
+  - keratokonus
 keywords:
   - "эктазия роговицы после ласик"
   - "эктатия"

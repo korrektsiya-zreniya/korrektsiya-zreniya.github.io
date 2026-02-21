@@ -13,6 +13,7 @@ keywords:
   - "очки или линзы или операция"
   - "почему врачи не делают себе лазерную коррекцию зрения"
 aliases:
+  - "/почему-умные-люди-выбирают-очки-вскрываем-правду-о-лазерной-коррекции/"
   - /voprosy-i-otvety/pochemu-lyudi-otkazyvayutsya-ot-lazernoj-korrekcii/
 slug: pochemu-lyudi-otkazyvayutsya-ot-lazernoj-korrekcii
 ---

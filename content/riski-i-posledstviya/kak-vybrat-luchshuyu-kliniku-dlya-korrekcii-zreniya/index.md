@@ -13,6 +13,7 @@ keywords:
   - "рейтинг клиник микрохирургии глаза"
   - "дорогая лазерная коррекция отзывы"
 aliases:
+  - "/иллюзия-лучшей-клиники-почему-имя-хирурга-не-спасет-от-осложнений/"
   - /voprosy-i-otvety/kak-vybrat-luchshuyu-kliniku-dlya-korrekcii-zreniya/
 slug: kak-vybrat-luchshuyu-kliniku-dlya-korrekcii-zreniya
 ---

@@ -14,6 +14,7 @@ keywords:
   - "замена хрусталика или лазерная коррекция отзывы"
   - "бесполезность лазерной коррекции в старости"
 aliases:
+  - "/лазерная-коррекция-зрения-после-50-лет-почему-это-плохая-инвестиция/"
   - /metody-lecheniya/pochemu-posle-50-let-ne-rekomenduetsya-lkz/
 slug: pochemu-posle-50-let-ne-rekomenduetsya-lkz
 ---

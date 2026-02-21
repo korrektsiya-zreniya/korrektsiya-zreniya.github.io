@@ -13,6 +13,7 @@ keywords:
   - "неудачный фемтоласик последствия"
   - "фемтоласик или обычный ласик что хуже"
 aliases:
+  - "/фемто-ласик-femto-lasik-вся-правда-о-золотом-стандарте/"
   - /metody-lecheniya/femto-lasik-kak-prohodit-operaciya-i-oshibki/
 slug: femto-lasik-kak-prohodit-operaciya-i-oshibki
 ---

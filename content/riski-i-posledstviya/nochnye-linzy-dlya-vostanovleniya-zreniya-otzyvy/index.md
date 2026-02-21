@@ -13,6 +13,7 @@ keywords:
   - "риск инфекции при ортокератологии"
   - "негативные отзывы о ночных линзах"
 aliases:
+  - "/ночные-линзы-ортокератология-скрытые-угрозы-и-реальный-риск-инфекций/"
   - /metody-lecheniya/nochnye-linzy-dlya-vostanovleniya-zreniya-otzyvy/
 slug: nochnye-linzy-dlya-vostanovleniya-zreniya-otzyvy
 ---

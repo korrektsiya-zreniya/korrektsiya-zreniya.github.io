@@ -15,6 +15,8 @@ keywords:
   - "оторвалось кольцо во время операции на глаза"
   - "потеря вакуума при фемто ласик"
   - "остановка операции ласик"
+aliases:
+  - "/потеря-вакуума-suction-loss-катастрофа-во-время-операции-smile-и-femto-lasik/"
 slug: poterya-vakuuma-suction-loss-pri-smile
 ---
 

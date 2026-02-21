@@ -13,6 +13,7 @@ keywords:
   - "можно ли делать коррекцию зрения после 35 лет"
   - "очки для чтения после лазерной коррекции"
 aliases:
+  - "/возрастной-предел-почему-делать-лазерную-коррекцию-после-35-лет-бессмысленно/"
   - /voprosy-i-otvety/do-kakogo-vozrasta-delayut-lazernuyu-korrekciyu/
 slug: do-kakogo-vozrasta-delayut-lazernuyu-korrekciyu
 ---

@@ -14,6 +14,7 @@ keywords:
   - "лазерная дисцизия задней капсулы хрусталика что это такое"
   - "катаракта после лазерной коррекции зрения"
 aliases:
+  - "/замена-хрусталика-катаракта-после-лазерной-коррекции-в-чем-подвох/"
   - /metody-lecheniya/zamena-hrustalika-posle-lazernoj-korrekcii/
 slug: zamena-hrustalika-posle-lazernoj-korrekcii
 ---

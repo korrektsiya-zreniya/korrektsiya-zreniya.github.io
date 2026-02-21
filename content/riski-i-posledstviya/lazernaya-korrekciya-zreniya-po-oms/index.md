@@ -13,6 +13,7 @@ keywords:
   - "бесплатная диагностика зрения перед операцией"
   - "в каких случаях делают коррекцию зрения бесплатно"
 aliases:
+  - "/лазерная-коррекция-зрения-по-омс-бесплатно-миф-или-реальный-шанс/"
   - /voprosy-i-otvety/lazernaya-korrekciya-zreniya-po-oms/
 slug: lazernaya-korrekciya-zreniya-po-oms
 ---

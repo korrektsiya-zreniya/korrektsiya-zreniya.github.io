@@ -13,6 +13,7 @@ keywords:
   - "герпес и лазерная коррекция зрения"
   - "можно ли делать операцию если заболел"
 aliases:
+  - "/лазерная-коррекция-зрения-при-температуре-37-2-и-простуде-можно-ли-делать/"
   - /voprosy-i-otvety/lazernaya-korrekciya-pri-temperature/
 slug: lazernaya-korrekciya-pri-temperature
 ---

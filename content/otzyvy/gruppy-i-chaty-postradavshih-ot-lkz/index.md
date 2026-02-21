@@ -15,6 +15,8 @@ keywords:
   - "осложнения после ласик форум"
   - "негативные отзывы лазерная коррекция форум"
   - "lasik complications support group"
+aliases:
+  - "/группы-и-чаты-пострадавших-от-лазерной-коррекции-зрения/"
 slug: gruppy-i-chaty-postradavshih-ot-lkz
 ---
 

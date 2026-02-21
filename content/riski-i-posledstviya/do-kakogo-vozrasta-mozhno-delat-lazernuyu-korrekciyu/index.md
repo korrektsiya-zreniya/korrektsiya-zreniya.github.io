@@ -12,6 +12,7 @@ keywords:
   - "потеря зрения после операции в 50 лет"
   - "возрастные ограничения для лазерной коррекции отзывы"
 aliases:
+  - "/до-какого-возраста-можно-делать-лазерную-коррекцию-горькая-правда/"
   - /voprosy-i-otvety/do-kakogo-vozrasta-mozhno-delat-lazernuyu-korrekciyu/
 slug: do-kakogo-vozrasta-mozhno-delat-lazernuyu-korrekciyu
 ---

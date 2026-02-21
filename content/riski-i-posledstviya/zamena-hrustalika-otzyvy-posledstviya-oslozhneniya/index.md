@@ -13,6 +13,7 @@ keywords:
   - "риск отслойки сетчатки после замены хрусталика"
   - "стоит ли менять хрусталик при близорукости"
 aliases:
+  - "/замена-хрусталика-рлэ-полостная-операция-с-серьезными-последствиями/"
   - /metody-lecheniya/zamena-hrustalika-otzyvy-posledstviya-oslozhneniya/
 slug: zamena-hrustalika-otzyvy-posledstviya-oslozhneniya
 ---

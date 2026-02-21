@@ -13,6 +13,7 @@ keywords:
   - "осложнения после коррекции зрения в старости"
   - "можно ли делать лазерную коррекцию при катаракте"
 aliases:
+  - "/лазерная-коррекция-и-помутнение-хрусталика-путь-к-ранней-катаракте/"
   - /voprosy-i-otvety/lazernaya-korrekciya-i-pomutnenie-hrustalika/
 slug: lazernaya-korrekciya-i-pomutnenie-hrustalika
 ---

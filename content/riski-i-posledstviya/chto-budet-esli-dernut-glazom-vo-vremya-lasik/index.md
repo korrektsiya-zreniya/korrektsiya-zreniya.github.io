@@ -15,6 +15,8 @@ keywords:
   - "eye tracker лазерная коррекция"
   - "что делать если случайно моргнул на ласик"
   - "eye tracking system мифы"
+aliases:
+  - "/что-будет-если-дернуть-глазом-во-время-лазерной-коррекции-lasik-миф-об-eye-tracker/"
 slug: chto-budet-esli-dernut-glazom-vo-vremya-lasik
 ---
 

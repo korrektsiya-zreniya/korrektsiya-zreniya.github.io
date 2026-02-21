@@ -17,6 +17,7 @@ keywords:
   - "можно ли делать коррекцию зрения при косоглазии"
   - "лазерную коррекцию делают при косоглазии"
 aliases:
+  - "/косоглазие-и-лазерная-коррекция-исправляет-ли-операция-положение-глаз/"
   - /metody-lecheniya/kosoglazie-i-lazernaya-korrekciya-zreniya-otzyvy/
 slug: kosoglazie-i-lazernaya-korrekciya-zreniya-otzyvy
 ---

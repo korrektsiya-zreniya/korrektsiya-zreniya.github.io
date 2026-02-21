@@ -11,6 +11,8 @@ tags:
   - kachestvo-zhizni
 keywords:
   - "Слепота"
+aliases:
+  - "/негативные-отзывы-о-лазерной-коррекции-зрения-о-чем-молчат-клиники/"
 slug: negativnye-otzyvy-posle-lazernoy-korrektsii-zreniya
 ---
 

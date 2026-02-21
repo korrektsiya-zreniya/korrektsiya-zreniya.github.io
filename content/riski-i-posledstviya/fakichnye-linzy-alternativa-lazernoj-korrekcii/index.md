@@ -13,6 +13,7 @@ keywords:
   - "отзывы пациентов установивших факичные линзы"
   - "осложнения после установки факичных линз icl"
 aliases:
+  - "/факичные-линзы-фиол-спасение-для-тех-кому-отказали-в-лазерной-коррекции/"
   - /metody-lecheniya/fakichnye-linzy-alternativa-lazernoj-korrekcii/
 slug: fakichnye-linzy-alternativa-lazernoj-korrekcii
 ---

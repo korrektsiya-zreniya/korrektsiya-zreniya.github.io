@@ -13,6 +13,7 @@ keywords:
   - "работа в мчс со зрением после операции"
   - "медкомиссия на водительское удостоверение после лазерной коррекции"
 aliases:
+  - "/лазерная-коррекция-зрения-и-работа-мчс-спасатели-и-служба-в-армии/"
   - /voprosy-i-otvety/lazernaya-korrekciya-mchs-armiya-prava/
 slug: lazernaya-korrekciya-mchs-armiya-prava
 ---

@@ -14,6 +14,8 @@ keywords:
   - "самоубийство после лазерной коррекции"
   - "colin dorrian lasik suicide"
   - "депрессия после лазерной коррекции"
+aliases:
+  - "/колин-дорриан-трагедия-которая-заставила-сша-заговорить-о-жертвах-lasik/"
 slug: colin-dorrian-tragediya-lasik
 ---
 

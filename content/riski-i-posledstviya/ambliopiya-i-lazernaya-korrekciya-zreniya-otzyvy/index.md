@@ -14,6 +14,7 @@ keywords:
   - "поддается ли лазерной коррекции амблиопия у взрослых при дальнозоркости"
   - "лазерная коррекция зрения при амблиопия у подростков"
 aliases:
+  - "/амблиопия-ленивый-глаз-и-лазерная-коррекция-почему-лазер-не-лечит-мозг/"
   - /metody-lecheniya/ambliopiya-i-lazernaya-korrekciya-zreniya-otzyvy/
 slug: ambliopiya-i-lazernaya-korrekciya-zreniya-otzyvy
 ---

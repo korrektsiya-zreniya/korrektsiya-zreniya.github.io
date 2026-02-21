@@ -14,6 +14,8 @@ keywords:
   - "хейс после фэк"
   - "хейз роговицы лечение"
   - "мутность после transprk"
+aliases:
+  - "/хейз-haze-после-фрк-и-transprk-мутная-пелена-которая-не-уходит/"
 slug: heyz-haze-posle-frk-prk
 ---
 

@@ -15,6 +15,8 @@ keywords:
   - "что лучше смайл или смартсайт"
   - "микрорез лазерная коррекция"
   - "visumax atos сравнение"
+aliases:
+  - "/schwind-atos-smartsight-или-zeiss-smile-visumax-какой-микрорез-выбрать-чтобы-не-ослепнуть/"
 slug: schwind-atos-smartsight-vs-zeiss-smile
 ---
 

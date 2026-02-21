@@ -14,6 +14,7 @@ keywords:
   - "лазерная коррекция зрения при инвалидности"
   - "бесплатная операция на глаза при близорукости"
 aliases:
+  - "/бесплатная-лазерная-коррекция-зрения-по-омс-реальность-или-миф/"
   - /voprosy-i-otvety/besplatnaya-lazernaya-korrekciya-zreniya-invalidnost-oms/
 slug: besplatnaya-lazernaya-korrekciya-zreniya-invalidnost-oms
 ---

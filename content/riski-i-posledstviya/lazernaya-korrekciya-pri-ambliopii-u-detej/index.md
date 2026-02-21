@@ -14,6 +14,7 @@ keywords:
   - "лечение амблиопии у взрослых лазером"
   - "результаты лазерной коррекции при амблиопии"
 aliases:
+  - "/амблиопия-ленивый-глаз-и-лазерная-коррекция-зрения-можно-ли-вылечить-лазером/"
   - /metody-lecheniya/lazernaya-korrekciya-pri-ambliopii-u-detej/
 slug: lazernaya-korrekciya-pri-ambliopii-u-detej
 ---

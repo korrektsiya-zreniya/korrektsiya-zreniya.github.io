@@ -13,6 +13,7 @@ keywords:
   - "болезненность лазерной коррекции"
   - "мифы о быстроте ласика"
 aliases:
+  - "/10-минут-операции-против-всей-жизни-скорость-как-главный-маркетинговый-трюк/"
   - /voprosy-i-otvety/skolko-dlitsya-operaciya-lasik-pravda/
 slug: skolko-dlitsya-operaciya-lasik-pravda
 ---

@@ -13,6 +13,7 @@ keywords:
   - "транексам перед операцией на глаза"
   - "влияние месячных на результат лазерной коррекции"
 aliases:
+  - "/месячные-транексам-и-лазерная-коррекция-зрения-можно-ли-делать-операцию/"
   - /voprosy-i-otvety/traneksam-mesyachnye-v-den-lazernoj-korrekcii/
 slug: traneksam-mesyachnye-v-den-lazernoj-korrekcii
 ---

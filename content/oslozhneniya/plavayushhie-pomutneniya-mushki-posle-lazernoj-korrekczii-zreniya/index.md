@@ -2,6 +2,7 @@
 title: Плавающие помутнения (мушки) после лазерной коррекции зрения
 slug: plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya
 aliases:
+  - "/плавающие-помутнения-мушки-после-лазерной-коррекции-зрения/"
   - /oslozhneniya/plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya/
 description: "Мушки (плавающие помутнения) после лазерной коррекции. Почему возникают, связь с вакуумным кольцом, можно ли убрать."
 keywords:

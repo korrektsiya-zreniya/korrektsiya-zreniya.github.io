@@ -15,6 +15,7 @@ keywords:
   - "дешевая лазерная коррекция зрения отзывы"
   - "последствия дешевой операции на глаза"
 aliases:
+  - "/ошибки-и-дешевая-коррекция-зрения-почему-экономия-на-глазах-это-ловушка/"
   - /voprosy-i-otvety/oshibki-pri-lazernoj-korrekcii-zreniya-deshevle/
 slug: oshibki-pri-lazernoj-korrekcii-zreniya-deshevle
 ---

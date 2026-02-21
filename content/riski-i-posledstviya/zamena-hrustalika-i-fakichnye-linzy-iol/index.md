@@ -18,6 +18,7 @@ keywords:
   - "мультифокальное иол последствия"
   - "имплантация факичных линз минусы"
 aliases:
+  - "/замена-хрусталика-иол-и-факичные-линзы-при-близорукости-жестокая-альтернатива-лкз/"
   - /metody-lecheniya/zamena-hrustalika-i-fakichnye-linzy-iol/
 slug: zamena-hrustalika-i-fakichnye-linzy-iol
 ---

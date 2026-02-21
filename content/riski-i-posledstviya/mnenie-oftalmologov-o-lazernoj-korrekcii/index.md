@@ -13,6 +13,7 @@ keywords:
   - "почему окулисты носят очки"
   - "опасности лазерной коррекции мнение медицины"
 aliases:
+  - "/молчаливое-нет-офтальмологов-взгляд-врачей-на-лкз/"
   - /voprosy-i-otvety/mnenie-oftalmologov-o-lazernoj-korrekcii/
 slug: mnenie-oftalmologov-o-lazernoj-korrekcii
 ---

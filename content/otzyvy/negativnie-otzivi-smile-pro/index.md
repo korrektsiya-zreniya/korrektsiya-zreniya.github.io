@@ -16,6 +16,8 @@ keywords:
   - "минусы смайл про отзывы"
   - "потеря вакуума во время smile"
   - "suction loss smile pro"
+aliases:
+  - "/правда-о-smile-pro-отзывы-пострадавших-потеря-вакуума-и-недокоррекция/"
 slug: negativnie-otzivi-smile-pro
 ---
 

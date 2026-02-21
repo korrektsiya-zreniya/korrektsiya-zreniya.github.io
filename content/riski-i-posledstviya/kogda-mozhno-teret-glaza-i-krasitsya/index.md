@@ -14,6 +14,7 @@ keywords:
   - "можно ли наращивать ресницы после коррекции зрения"
   - "баня и бассейн после лазерной коррекции сроки"
 aliases:
+  - "/когда-можно-тереть-глаза-и-краситься-после-лазерной-коррекции-зрения/"
   - /voprosy-i-otvety/kogda-mozhno-teret-glaza-i-krasitsya/
 slug: kogda-mozhno-teret-glaza-i-krasitsya
 ---

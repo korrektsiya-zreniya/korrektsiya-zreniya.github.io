@@ -13,6 +13,8 @@ keywords:
   - "sсhwind atos или ex500"
   - "wavelight ex500 и teneo 317/3 что лучше"
   - "amaris ш atos"
+aliases:
+  - "/сравнение-эксимерных-лазеров-wavelight-ex500-schwind-amaris-и-teneo-маркетинг-или-реальная-разница/"
 slug: sravnenie-eksimernih-lazerov-wavelight-schwind-teneo
 ---
 

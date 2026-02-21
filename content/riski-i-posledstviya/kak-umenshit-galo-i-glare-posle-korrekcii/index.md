@@ -17,6 +17,7 @@ keywords:
   - "mirvaso гало эффект"
   - "не проходит гало после коррекции"
 aliases:
+  - "/как-уменьшить-гало-после-лазерной-коррекции-правда-о-чудо-каплях/"
   - /metody-lecheniya/kak-umenshit-galo-i-glare-posle-korrekcii/
 slug: kak-umenshit-galo-i-glare-posle-korrekcii
 ---

@@ -16,6 +16,7 @@ keywords:
   - "фрк правдивые отзывы"
   - "как восстанавливается зрение после фрк отзывы"
 aliases:
+  - "/фрк-prk-или-ласик-почему-старый-метод-безопаснее-но-клиники-молчат-про-адскую-боль/"
   - /metody-lecheniya/frk-prk-lazernaya-korrekciya-zreniya-otzyvy/
 slug: frk-prk-lazernaya-korrekciya-zreniya-otzyvy
 ---

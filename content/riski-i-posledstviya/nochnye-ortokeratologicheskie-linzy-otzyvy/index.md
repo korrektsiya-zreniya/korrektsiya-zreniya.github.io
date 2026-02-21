@@ -15,6 +15,7 @@ keywords:
   - "ночные линзы за и против отзывы"
   - "линзы ночные для коррекции зрения для детей"
 aliases:
+  - "/ночные-линзы-ортокератология-безопасная-альтернатива-лазеру/"
   - /metody-lecheniya/nochnye-ortokeratologicheskie-linzy-otzyvy/
 slug: nochnye-ortokeratologicheskie-linzy-otzyvy
 ---

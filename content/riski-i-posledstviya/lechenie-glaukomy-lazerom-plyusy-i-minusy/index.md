@@ -13,6 +13,7 @@ keywords:
   - "можно ли вылечить глаукому лазером навсегда"
   - "осложнения после лазера при глаукоме"
 aliases:
+  - "/лазерное-лечение-глаукомы-слт-трабекулопластика-и-отзывы-пациентов/"
   - /metody-lecheniya/lechenie-glaukomy-lazerom-plyusy-i-minusy/
 slug: lechenie-glaukomy-lazerom-plyusy-i-minusy
 ---

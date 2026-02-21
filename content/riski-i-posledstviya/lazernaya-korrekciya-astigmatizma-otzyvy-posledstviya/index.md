@@ -12,6 +12,7 @@ keywords:
   - "двоение букв после операции на астигматизм"
   - "почему лазер не лечит астигматизм полностью"
 aliases:
+  - "/лазерная-коррекция-при-астигматизме-опасность-непредсказуемых-результатов/"
   - /metody-lecheniya/lazernaya-korrekciya-astigmatizma-otzyvy-posledstviya/
 slug: lazernaya-korrekciya-astigmatizma-otzyvy-posledstviya
 ---

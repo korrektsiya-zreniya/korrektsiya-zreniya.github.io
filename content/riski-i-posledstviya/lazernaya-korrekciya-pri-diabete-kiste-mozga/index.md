@@ -13,6 +13,7 @@ keywords:
   - "противопоказания к лазерной коррекции зрения список"
   - "почему нельзя делать ласик при эпилепсии"
 aliases:
+  - "/сложные-диагнозы-можно-ли-делать-лазерную-коррекцию-при-диабете-и-кистах-мозга/"
   - /voprosy-i-otvety/lazernaya-korrekciya-pri-diabete-kiste-mozga/
 slug: lazernaya-korrekciya-pri-diabete-kiste-mozga
 ---

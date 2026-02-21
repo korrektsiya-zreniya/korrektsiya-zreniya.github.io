@@ -13,6 +13,8 @@ keywords:
   - "интерфейс чистый на 13 ч маленький участок врастания эпителия"
   - "lasik докоррекция осложнения врастания"
   - "epithelial ingrowth lasik"
+aliases:
+  - "/врастание-эпителия-невидимая-угроза-после-lasik-и-докоррекции/"
 slug: vrastanie-epiteliya-pod-loskut-posle-lasik
 ---
 

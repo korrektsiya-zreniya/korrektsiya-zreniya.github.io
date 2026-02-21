@@ -11,3 +11,8 @@ scripts/scan_missing_seo.py
 .ai/korrektsiya-zreniya.net_55ca3e0a624dfef346caf9fa.csv
 .ai/2025-02-20_2026-02-20_searchquery.csv
 .ai/google_queries_plan_3.md
+.ai/google_queries_plan_4.md
+.ai/nch_plan.md
+.ai/nch_seo_plan.md
+analyze_queries.js
+generate_lf_plan.js

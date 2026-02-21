@@ -78,7 +78,7 @@ keywords:
 > “Мы фактически игнорировали данные о искажениях зрения, которые сохранялись на протяжении долгих лет”, — сказал Моррис Уэкслер, бывший консультант FDA, который проголосовал за одобрение LASIK. Сейчас он признает, что этот голос был ошибкой.
 
 <center>
-<iframe loading="lazy" src="https://dzen.ru/embed/oVEYTg_cIAAA?from_block=partner&amp;from=zen&amp;mute=0&amp;autoplay=0&amp;tv=0" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-testid="embed-iframe"></iframe>
+<iframe title="Broken Eyes 2024 Документальный фильм Сломанные глаза (Лазерная коррекция зрения — медицинский обман века)" loading="lazy" src="https://dzen.ru/embed/oVEYTg_cIAAA?from_block=partner&amp;from=zen&amp;mute=0&amp;autoplay=0&amp;tv=0" width="480" height="270" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-testid="embed-iframe"></iframe>
 </center>
 <br>
 

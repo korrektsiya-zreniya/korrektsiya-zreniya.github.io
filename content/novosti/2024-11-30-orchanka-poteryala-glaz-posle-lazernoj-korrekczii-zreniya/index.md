@@ -19,7 +19,7 @@ aliases:
   - /orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
 ---
 
-{{< img src="larkova-poteryala-glaz-3-1024x580.webp" alt="" >}}
+{{< img src="larkova-poteryala-glaz-3-1024x580.webp" alt="Медицинский документ орчанки, потерявшей глаз после лазерной коррекции" >}}
 
 О том, что лазерная коррекция зрения может привести к потере глаза, орчанка Ирина Ларькова даже подумать не могла.
 

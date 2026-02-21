@@ -27,7 +27,7 @@ keywords:
 - Разбор технологий: **[LASIK, FemtoLASIK, SMILE, SMILE PRO, ФРК](/oborudovanie/)**.
 
 <center>
-  <p style="color:#09b500;font-size:20px;"><strong>ЖИЗНЬ ДО ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
+  <p style="color:#008000;font-size:20px;"><strong>ЖИЗНЬ ДО ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
 
   <svg viewBox="0 0 1280 640" width="175" height="85">
     <g transform="translate(0,640) scale(.1,-.1)" >
@@ -38,7 +38,7 @@ keywords:
   <p>Очки</p>
   <div style="width: 50px; margin: 0 auto; border-top: 1px solid #000;"></div>
 <br>
-  <p style="color:#e22d30;font-size:20px;"><strong>ВОЗМОЖНЫЕ ПОСЛЕДСТВИЯ ПОСЛЕ ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
+  <p style="color:#bd1e21;font-size:20px;"><strong>ВОЗМОЖНЫЕ ПОСЛЕДСТВИЯ ПОСЛЕ ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
 </center>
 
 {{< include-page "homepage-sections/intro.md" >}}

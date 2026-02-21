@@ -1,6 +1,6 @@
 ---
 title: "Калькулятор риска лазерной коррекции зрения: Узнайте, можно ли вам делать операцию"
-slug: kalkulyator-lazernoy-korrekcii-zreniya
+slug: calculator-riska-lazernoy-korrekcii-zreniya
 description: "Онлайн-калькулятор оценки рисков перед лазерной коррекцией: рассчитайте PTA, остаточную толщину стромы (RSB), визуализируйте профиль абляции и узнайте, какой метод (LASIK, SMILE или ФРК) вам подходит."
 date: 2026-02-21T00:15:00
 tags:

@@ -1,0 +1,240 @@
+{{ $css := resources.Get "css/calculator.css" | minify | fingerprint }}
+{{ if $css }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}
+
+{{ $js := resources.Get "js/refractive-calculator.js" | minify | fingerprint }}
+{{ if $js }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{ end }}
+
+<div class="refractive-calculator-wrapper">
+    <div class="calc-header">
+        <svg fill="#fff" height="32" viewBox="0 0 24 24" width="32"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+        Калькулятор риска лазерной коррекции зрения
+    </div>
+
+    <form id="refractive-form">
+        <!-- PATIENT INFO (shared) -->
+        <div class="calc-section">
+            <h3 class="calc-section-title">Пациент</h3>
+            <div class="calc-grid" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
+                <div class="calc-form-group">
+                    <label>Возраст (полных лет)</label>
+                    <input type="number" id="calc-age" class="calc-input" min="10" max="100" value="25">
+                </div>
+                <div class="calc-form-group">
+                    <label>Метод операции</label>
+                    <select id="calc-procedure" class="calc-select">
+                        <option value="lasik">LASIK / Femto-LASIK</option>
+                        <option value="smile">SMILE / CLEAR / SmartSight</option>
+                        <option value="prk">ФРК / TransPRK (Стримлайт)</option>
+                    </select>
+                </div>
+                <div class="calc-form-group">
+                    <label>Лазерная платформа (Опц.)</label>
+                    <select id="calc-platform" class="calc-select">
+                        <option value="1.15">Универсальная (1.15)</option>
+                        <option value="1.10">EX500/Allegretto</option>
+                        <option value="1.20">NIDEK</option>
+                        <option value="1.05">SCHWIND</option>
+                        <option value="1.15">VISX</option>
+                        <option value="1.15">Other</option>
+                    </select>
+                </div>
+            </div>
+            <div style="font-size:11px; margin-top:4px; color:#555;">
+                * При SMILE роль лоскута играет лентикул/кэп (~120 мкм). При ФРК «лоскут» = толщина эпителия (~50 мкм).
+            </div>
+        </div>
+
+        <!-- TWO COLUMNS: OD / OS -->
+        <div class="calc-grid">
+            <!-- ========== OD (Right Eye) ========== -->
+            <div>
+                <div class="calc-section" style="border-top:3px solid #46796c;">
+                    <h3 class="calc-section-title">Правый глаз (OD)</h3>
+                    <div class="calc-form-group">
+                        <label>Сфера (Sph)</label>
+                        <input type="number" id="calc-sph-od" class="calc-input eye-input" data-eye="od" step="0.25" value="-3.00">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Цилиндр (Cyl)</label>
+                        <input type="number" id="calc-cyl-od" class="calc-input eye-input" data-eye="od" step="0.25" value="-1.00">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Ось (Axis, 0–180°)</label>
+                        <input type="number" id="calc-axis-od" class="calc-input eye-input" data-eye="od" step="1" min="0" max="180" value="0">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Пахиметрия (мкм)</label>
+                        <input type="number" id="calc-pach-od" class="calc-input eye-input" data-eye="od" min="300" max="800" value="520">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Топография</label>
+                        <select id="calc-topo-od" class="calc-select eye-input" data-eye="od">
+                            <option value="0">Норма (круг, овал, симм. бабочка)</option>
+                            <option value="1">Асимм. бабочка (Asymmetric Bowtie)</option>
+                            <option value="3">Нижнее укручение (Inferior Steep.)</option>
+                            <option value="4">Аномалия (Кератоконус / Forme Fruste)</option>
+                        </select>
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Диаметр зрачка (мм) <span class="help-text">В темноте</span></label>
+                        <input type="number" id="calc-pupil-od" class="calc-input eye-input" data-eye="od" step="0.1" min="3.0" max="10.0" value="6.0">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>ОП (Оптическая зона, мм)</label>
+                        <input type="number" id="calc-oz-od" class="calc-input eye-input" data-eye="od" step="0.1" min="4.0" max="9.0" value="6.5">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Лоскут / Кэп (мкм) <span class="help-text">LASIK: 90-120, SMILE: 120, ФРК: 50</span></label>
+                        <input type="number" id="calc-flap-od" class="calc-input eye-input" data-eye="od" min="0" max="180" value="100">
+                    </div>
+                </div>
+
+                <!-- OD ABLATION PROFILE -->
+                <div class="calc-section" style="margin-top:12px; text-align:center;">
+                    <h3 class="calc-section-title">Профиль абляции (OD)</h3>
+                    <canvas id="ablation-canvas-od" width="320" height="320" style="max-width:100%; border:1px solid #ddd; border-radius:8px; background:#f5f5f5;"></canvas>
+                    <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:6px;">
+                        <span style="font-size:11px; color:#555;">0</span>
+                        <canvas id="legend-od" width="200" height="14" style="border:1px solid #ccc; border-radius:2px;"></canvas>
+                        <span id="legend-max-od" style="font-size:11px; color:#555;">0 мкм</span>
+                    </div>
+                </div>
+
+                <!-- OD RESULTS -->
+                <div class="calc-results">
+                    <div class="calc-results-header">Результаты (OD)</div>
+                    <div id="warn-pupil-od" style="display:none; color:#c62828; background:#ffcdd2; font-size:12px; font-weight:bold; padding:8px; border-radius:4px; margin-bottom:8px;">
+                        ⚠️ ОЗ меньше зрачка! Высок риск гало-эффектов в темноте.
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">MRSE</div>
+                        <div class="calc-result-value" id="res-mrse-od">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">Абляция</div>
+                        <div class="calc-result-value" id="res-ad-od">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">RSB
+                            <div class="rsb-bar-container"><div class="rsb-bar" id="bar-rsb-od"></div></div>
+                        </div>
+                        <div class="calc-result-value" id="res-rsb-od">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">PTA
+                            <div class="pta-bar-container"><div class="pta-bar" id="bar-pta-od"></div></div>
+                        </div>
+                        <div class="calc-result-value" id="res-pta-od">-</div>
+                    </div>
+                    <div class="calc-result-row" style="background:#fffcf0; border-top:2px solid #ccc;">
+                        <div class="calc-result-label" style="font-weight:bold;">Шкала Эктазии</div>
+                        <div class="calc-result-value" id="res-score-od" style="font-size:18px;">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label" style="font-weight:bold;">Рекомендация</div>
+                        <div class="calc-result-value" id="res-rec-od">-</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ========== OS (Left Eye) ========== -->
+            <div>
+                <div class="calc-section" style="border-top:3px solid #46796c;">
+                    <h3 class="calc-section-title">Левый глаз (OS)</h3>
+                    <div class="calc-form-group">
+                        <label>Сфера (Sph)</label>
+                        <input type="number" id="calc-sph-os" class="calc-input eye-input" data-eye="os" step="0.25" value="-3.00">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Цилиндр (Cyl)</label>
+                        <input type="number" id="calc-cyl-os" class="calc-input eye-input" data-eye="os" step="0.25" value="-1.00">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Ось (Axis, 0–180°)</label>
+                        <input type="number" id="calc-axis-os" class="calc-input eye-input" data-eye="os" step="1" min="0" max="180" value="0">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Пахиметрия (мкм)</label>
+                        <input type="number" id="calc-pach-os" class="calc-input eye-input" data-eye="os" min="300" max="800" value="520">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Топография</label>
+                        <select id="calc-topo-os" class="calc-select eye-input" data-eye="os">
+                            <option value="0">Норма (круг, овал, симм. бабочка)</option>
+                            <option value="1">Асимм. бабочка (Asymmetric Bowtie)</option>
+                            <option value="3">Нижнее укручение (Inferior Steep.)</option>
+                            <option value="4">Аномалия (Кератоконус / Forme Fruste)</option>
+                        </select>
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Диаметр зрачка (мм) <span class="help-text">В темноте</span></label>
+                        <input type="number" id="calc-pupil-os" class="calc-input eye-input" data-eye="os" step="0.1" min="3.0" max="10.0" value="6.0">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>ОП (Оптическая зона, мм)</label>
+                        <input type="number" id="calc-oz-os" class="calc-input eye-input" data-eye="os" step="0.1" min="4.0" max="9.0" value="6.5">
+                    </div>
+                    <div class="calc-form-group">
+                        <label>Лоскут / Кэп (мкм) <span class="help-text">LASIK: 90-120, SMILE: 120, ФРК: 50</span></label>
+                        <input type="number" id="calc-flap-os" class="calc-input eye-input" data-eye="os" min="0" max="180" value="100">
+                    </div>
+                </div>
+
+                <!-- OS ABLATION PROFILE -->
+                <div class="calc-section" style="margin-top:12px; text-align:center;">
+                    <h3 class="calc-section-title">Профиль абляции (OS)</h3>
+                    <canvas id="ablation-canvas-os" width="320" height="320" style="max-width:100%; border:1px solid #ddd; border-radius:8px; background:#f5f5f5;"></canvas>
+                    <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:6px;">
+                        <span style="font-size:11px; color:#555;">0</span>
+                        <canvas id="legend-os" width="200" height="14" style="border:1px solid #ccc; border-radius:2px;"></canvas>
+                        <span id="legend-max-os" style="font-size:11px; color:#555;">0 мкм</span>
+                    </div>
+                </div>
+
+                <!-- OS RESULTS -->
+                <div class="calc-results">
+                    <div class="calc-results-header">Результаты (OS)</div>
+                    <div id="warn-pupil-os" style="display:none; color:#c62828; background:#ffcdd2; font-size:12px; font-weight:bold; padding:8px; border-radius:4px; margin-bottom:8px;">
+                        ⚠️ ОЗ меньше зрачка! Высок риск гало-эффектов в темноте.
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">MRSE</div>
+                        <div class="calc-result-value" id="res-mrse-os">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">Абляция</div>
+                        <div class="calc-result-value" id="res-ad-os">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">RSB
+                            <div class="rsb-bar-container"><div class="rsb-bar" id="bar-rsb-os"></div></div>
+                        </div>
+                        <div class="calc-result-value" id="res-rsb-os">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label">PTA
+                            <div class="pta-bar-container"><div class="pta-bar" id="bar-pta-os"></div></div>
+                        </div>
+                        <div class="calc-result-value" id="res-pta-os">-</div>
+                    </div>
+                    <div class="calc-result-row" style="background:#fffcf0; border-top:2px solid #ccc;">
+                        <div class="calc-result-label" style="font-weight:bold;">Шкала Эктазии</div>
+                        <div class="calc-result-value" id="res-score-os" style="font-size:18px;">-</div>
+                    </div>
+                    <div class="calc-result-row">
+                        <div class="calc-result-label" style="font-weight:bold;">Рекомендация</div>
+                        <div class="calc-result-value" id="res-rec-os">-</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <div style="font-size:11px; color:#888; text-align:justify; margin-top:20px; line-height:1.4;">
+        <b>DISCLAIMER:</b> Калькулятор создан для предоперационной оценки риска кератоэктазии (Randleman Ectasia Risk Score System). Результаты носят информационно-вспомогательный характер и НЕ заменяют клиническое заключение хирурга.
+    </div>
+</div>

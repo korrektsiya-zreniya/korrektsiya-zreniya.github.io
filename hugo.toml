@@ -145,11 +145,7 @@ name = "Судебные дела"
 url = "/sudebnye-dela/"
 weight = 70
 
-[[menu.footer]]
 
-#name = "Благодарности и идея"
-#url = "http://lasikcomplications.com"
-#weight = 100
 
 [imaging]
   anchor = 'Smart'

@@ -151,17 +151,17 @@ document.addEventListener('DOMContentLoaded', function() {
         e.barRsb.style.width = Math.min((rsb / 500) * 100, 100) + '%';
         e.barRsb.style.backgroundColor = rsb > 300 ? '#4caf50' : rsb >= 280 ? '#ff9800' : '#f44336';
 
-        // Recommendation
+        // Risk assessment verdict
         var rec = '';
         if (rsb < 250) {
-            rec = '<span class="risk-badge risk-high">Противопоказано (RSB < 250)</span>';
+            rec = '<span class="risk-badge risk-high">⛔ Противопоказано (RSB < 250 мкм)</span>';
         } else if (score <= 2) {
-            if (pta > 40) rec = '<span class="risk-badge risk-moderate">ФРК предпочтительнее (PTA > 40%, LASIK/SMILE нежелательны)</span>';
-            else rec = '<span class="risk-badge risk-low">Низкий риск (LASIK, SMILE или ФРК)</span>';
+            if (pta > 40) rec = '<span class="risk-badge risk-moderate">⚠️ Повышенный PTA > 40% — лоскутные методы (LASIK, SMILE) особенно опасны</span>';
+            else rec = '<span class="risk-badge risk-low">Формально низкий риск эктазии по шкале Рендлмана</span>';
         } else if (score === 3) {
-            rec = '<span class="risk-badge risk-moderate">Умеренный риск (ФРК предпочтительна)</span>';
+            rec = '<span class="risk-badge risk-moderate">⚠️ Умеренный риск эктазии — операция сомнительна</span>';
         } else {
-            rec = '<span class="risk-badge risk-high">Высокий риск (LASIK и SMILE противопоказаны)</span>';
+            rec = '<span class="risk-badge risk-high">⛔ Высокий риск эктазии — операция противопоказана</span>';
         }
         e.resRec.innerHTML = rec;
 

@@ -243,51 +243,41 @@ document.addEventListener('DOMContentLoaded', function() {
         var imgData = ctx.createImageData(w, h);
         var data = imgData.data;
         var axisRad = (axis * Math.PI) / 180;
+        var T_sph_max = (oz * oz * Math.abs(sph)) / 3;
+        var T_cyl_max = (oz * oz * Math.abs(cyl)) / 3;
+        var T_total_max = T_sph_max + T_cyl_max; // Max amplitude matching the calculateAblationDepth output
 
-        // Bitoric Paraboloid Ablation Profile (True optical topography change)
-        // Cornea reshaping removing a paraboloid representing the power difference.
-        // P_x: power along cylinder axis (Sph)
-        // P_y: power perpendicular to cylinder axis (Sph + Cyl)
-        var P_x = sph; 
-        var P_y = sph + cyl;
-
-        // Determine min and max sag on normalized optical zone (rNorm <= 1)
-        // Sag function: Sag(x_norm, y_norm) = P_x * x_norm² + P_y * y_norm²
-        // To remove tissue, minimum depth must be 0. Shape = Sag - minSag.
-        var minSag = Math.min(0, P_x, P_y);
-        var maxSag = Math.max(0, P_x, P_y);
-        var maxShape = maxSag - minSag; // Total amplitude of topography change
+        // Scale factor: maxAd already accounts for platform multiplier
+        var scaleFactor = T_total_max > 0 ? (maxAd / T_total_max) : 0;
 
         for (var py = 0; py < h; py++) {
             for (var px = 0; px < w; px++) {
                 var xMm = (px - cx) / scale;
                 var yMm = (py - cy) / scale;
                 var r = Math.sqrt(xMm * xMm + yMm * yMm);
-                var angle = Math.atan2(yMm, xMm);
+                var ophthalAngle = Math.atan2(-yMm, xMm); // Y is inverted in canvas vs mathematical standard TABO
 
                 var depth = 0;
                 var rNorm = r / ozR; // normalized radius (0=center, 1=OZ edge)
 
                 if (rNorm <= 1) {
                     // Inside Optical Zone
-                    var x_norm = rNorm * Math.cos(angle - axisRad);
-                    var y_norm = rNorm * Math.sin(angle - axisRad);
-                    
-                    var sag = P_x * x_norm * x_norm + P_y * y_norm * y_norm;
-                    var shape = sag - minSag;
-                    
-                    var normalizedDepth = maxShape !== 0 ? (shape / maxShape) : 0;
-                    depth = normalizedDepth * maxAd;
+                    // For myopic correction: tissue removed maximally at CENTER
+                    var radialProfile = 1 - rNorm * rNorm; 
+
+                    var T_sph = T_sph_max * radialProfile;
+                    // Cylinder component (sin² angular dependency)
+                    var T_cyl = T_cyl_max * radialProfile * Math.pow(Math.sin(ophthalAngle - axisRad), 2);
+
+                    depth = (T_sph + T_cyl) * scaleFactor;
                 } else if (r <= ozR + tzBlend) {
-                    // Transition Zone: smooth cubic falloff from edge
-                    // Calculate depth exactly at the edge of the OZ for THIS angle
-                    var x_edge = 1.0 * Math.cos(angle - axisRad);
-                    var y_edge = 1.0 * Math.sin(angle - axisRad);
-                    var edgeSag = P_x * x_edge * x_edge + P_y * y_edge * y_edge;
-                    var edgeShape = edgeSag - minSag;
-                    
-                    var normalizedEdgeDepth = maxShape !== 0 ? (edgeShape / maxShape) : 0;
-                    var edgeDepth = normalizedEdgeDepth * maxAd;
+                    // Transition Zone: smooth cubic falloff
+                    // Because radialProfile=0 at OZ edge, we normally have 0 depth.
+                    // But to create a visibly smooth TZ boundary, we use a small residual.
+                    var radialEdge = 0.05; 
+                    var T_sph_edge = T_sph_max * radialEdge;
+                    var T_cyl_edge = T_cyl_max * radialEdge * Math.pow(Math.sin(ophthalAngle - axisRad), 2);
+                    var edgeDepth = (T_sph_edge + T_cyl_edge) * scaleFactor;
                     
                     var blendT = (r - ozR) / tzBlend;
                     var blend = (1 - blendT);

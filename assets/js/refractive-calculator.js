@@ -296,8 +296,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 depth = Math.max(0, depth);
 
-                // Color mapping
-                var colorT = maxAd > 0 ? depth / maxAd : 0;
+                // Color mapping (Fixed absolute scale so -1D and -10D look different)
+                var ABSOLUTE_MAX_DEPTH = 140.0;
+                var colorT = depth / ABSOLUTE_MAX_DEPTH;
+                if (colorT > 1) colorT = 1;
                 var c = depthToColor(colorT);
 
                 // Only color inside the cornea circle (radiusMm)
@@ -359,7 +361,7 @@ document.addEventListener('DOMContentLoaded', function() {
             lctx.fillStyle = 'rgb(' + cc[0] + ',' + cc[1] + ',' + cc[2] + ')';
             lctx.fillRect(x, 0, 1, lh);
         }
-        legendMaxEl.innerText = maxAd.toFixed(1) + ' мкм';
+        legendMaxEl.innerText = '140 мкм+'; // Fixed scale maximum
     }
 
     // Initialize both eyes

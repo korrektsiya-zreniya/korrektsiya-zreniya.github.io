@@ -156,12 +156,12 @@ document.addEventListener('DOMContentLoaded', function() {
         if (rsb < 250) {
             rec = '<span class="risk-badge risk-high">Противопоказано (RSB < 250)</span>';
         } else if (score <= 2) {
-            if (pta > 40) rec = '<span class="risk-badge risk-moderate">ФРК предпочтительнее (PTA > 40%)</span>';
-            else rec = '<span class="risk-badge risk-low">Низкий риск (LASIK или ФРК)</span>';
+            if (pta > 40) rec = '<span class="risk-badge risk-moderate">ФРК предпочтительнее (PTA > 40%, LASIK/SMILE нежелательны)</span>';
+            else rec = '<span class="risk-badge risk-low">Низкий риск (LASIK, SMILE или ФРК)</span>';
         } else if (score === 3) {
-            rec = '<span class="risk-badge risk-moderate">Умеренный риск (ФРК)</span>';
+            rec = '<span class="risk-badge risk-moderate">Умеренный риск (ФРК предпочтительна)</span>';
         } else {
-            rec = '<span class="risk-badge risk-high">Высокий риск (LASIK запрещён)</span>';
+            rec = '<span class="risk-badge risk-high">Высокий риск (LASIK и SMILE противопоказаны)</span>';
         }
         e.resRec.innerHTML = rec;
 

@@ -244,27 +244,19 @@ document.addEventListener('DOMContentLoaded', function() {
         var data = imgData.data;
         var axisRad = (axis * Math.PI) / 180;
 
-        // Decomposed Munnerlyn ablation profile (Sph + Cyl separately)
-        // Reference: Munnerlyn 1988, Seiler 1993
-        //
-        // T_sph_max = D² × |S| / 3  (maximum spherical ablation, μm)
-        // T_cyl_max = D² × |C| / 3  (maximum cylindrical ablation, μm)
-        //
-        // For MYOPIC correction (S < 0): tissue removed maximally at CENTER
-        //   T_sph(r) = T_sph_max × (1 - (r/R_opt)²)
-        //
-        // For cylindrical correction (C < 0):
-        //   T_cyl(r, θ) = T_cyl_max × (1 - (r/R_opt)²) × sin²(θ - axis)
-        //   Maximum removal perpendicular to axis, zero along axis
-        //
-        // Combined: T_total(r, θ) = T_sph(r) + T_cyl(r, θ)
+        // Bitoric Paraboloid Ablation Profile (True optical topography change)
+        // Cornea reshaping removing a paraboloid representing the power difference.
+        // P_x: power along cylinder axis (Sph)
+        // P_y: power perpendicular to cylinder axis (Sph + Cyl)
+        var P_x = sph; 
+        var P_y = sph + cyl;
 
-        var T_sph_max = (oz * oz * Math.abs(sph)) / 3; // using OZ diameter
-        var T_cyl_max = (oz * oz * Math.abs(cyl)) / 3;
-        var T_total_max = T_sph_max + T_cyl_max; // max possible depth (at center, perp to axis)
-
-        // Scale factor: maxAd already accounts for platform multiplier
-        var scaleFactor = T_total_max > 0 ? (maxAd / T_total_max) : 0;
+        // Determine min and max sag on normalized optical zone (rNorm <= 1)
+        // Sag function: Sag(x_norm, y_norm) = P_x * x_norm² + P_y * y_norm²
+        // To remove tissue, minimum depth must be 0. Shape = Sag - minSag.
+        var minSag = Math.min(0, P_x, P_y);
+        var maxSag = Math.max(0, P_x, P_y);
+        var maxShape = maxSag - minSag; // Total amplitude of topography change
 
         for (var py = 0; py < h; py++) {
             for (var px = 0; px < w; px++) {
@@ -278,21 +270,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 if (rNorm <= 1) {
                     // Inside Optical Zone
-                    var radialProfile = 1 - rNorm * rNorm; // parabolic: max at center for myopia
-
-                    // Sphere component
-                    var T_sph = T_sph_max * radialProfile;
-
-                    // Cylinder component (sin² angular dependency)
-                    var T_cyl = T_cyl_max * radialProfile * Math.pow(Math.sin(angle - axisRad), 2);
-
-                    depth = (T_sph + T_cyl) * scaleFactor;
+                    var x_norm = rNorm * Math.cos(angle - axisRad);
+                    var y_norm = rNorm * Math.sin(angle - axisRad);
+                    
+                    var sag = P_x * x_norm * x_norm + P_y * y_norm * y_norm;
+                    var shape = sag - minSag;
+                    
+                    var normalizedDepth = maxShape !== 0 ? (shape / maxShape) : 0;
+                    depth = normalizedDepth * maxAd;
                 } else if (r <= ozR + tzBlend) {
-                    // Transition Zone: smooth cubic falloff
-                    var radialEdge = 0.05; // small residual at OZ edge for visual smoothness
-                    var T_sph_edge = T_sph_max * radialEdge;
-                    var T_cyl_edge = T_cyl_max * radialEdge * Math.pow(Math.sin(angle - axisRad), 2);
-                    var edgeDepth = (T_sph_edge + T_cyl_edge) * scaleFactor;
+                    // Transition Zone: smooth cubic falloff from edge
+                    // Calculate depth exactly at the edge of the OZ for THIS angle
+                    var x_edge = 1.0 * Math.cos(angle - axisRad);
+                    var y_edge = 1.0 * Math.sin(angle - axisRad);
+                    var edgeSag = P_x * x_edge * x_edge + P_y * y_edge * y_edge;
+                    var edgeShape = edgeSag - minSag;
+                    
+                    var normalizedEdgeDepth = maxShape !== 0 ? (edgeShape / maxShape) : 0;
+                    var edgeDepth = normalizedEdgeDepth * maxAd;
                     
                     var blendT = (r - ozR) / tzBlend;
                     var blend = (1 - blendT);

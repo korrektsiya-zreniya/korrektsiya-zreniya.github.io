@@ -77,14 +77,27 @@ document.addEventListener('DOMContentLoaded', function() {
             e.warnPupil.style.display = 'none';
         }
 
-        // MRSE
+        // MRSE (for ectasia risk scoring)
         var mrse = sph + (cyl / 2);
         e.resMrse.innerText = mrse.toFixed(2) + ' D';
 
-        var ad = (Math.pow(oz, 2) * Math.abs(mrse)) / 3;
+        // Ablation depth by Munnerlyn formula
+        // For toric ablation, max depth is determined by the steepest meridian
+        var powerAtAxis = Math.abs(sph);        // power along cylinder axis
+        var powerPerpAxis = Math.abs(sph + cyl); // power perpendicular to axis
+        var maxPower = Math.max(powerAtAxis, powerPerpAxis);
+        var ad = (Math.pow(oz, 2) * maxPower) / 3;
         ad = ad * platformMult; // platform-specific transition zone multiplier
         if (ad === 0) { e.resAd.innerText = '-'; }
-        else { e.resAd.innerText = ad.toFixed(1) + ' мкм (Маннерлин)'; }
+        else {
+            if (Math.abs(cyl) > 0.25) {
+                var minPower = Math.min(powerAtAxis, powerPerpAxis);
+                var minAd = ((Math.pow(oz, 2) * minPower) / 3) * platformMult;
+                e.resAd.innerText = minAd.toFixed(1) + '–' + ad.toFixed(1) + ' мкм (Маннерлин)';
+            } else {
+                e.resAd.innerText = ad.toFixed(1) + ' мкм (Маннерлин)';
+            }
+        }
 
         if (ad === 0 || pach === 0) {
             e.resRsb.innerText = '-'; e.resPta.innerText = '-';
@@ -231,11 +244,27 @@ document.addEventListener('DOMContentLoaded', function() {
         var data = imgData.data;
         var axisRad = (axis * Math.PI) / 180;
 
-        var pMin = sph + Math.min(0, cyl);
-        var pMax = sph + Math.max(0, cyl);
-        var dCenter = Math.max(0, -pMin);
-        var dMax = Math.max(dCenter, dCenter + pMax);
-        var depthScale = dMax > 0 ? (maxAd / dMax) : 0;
+        // Decomposed Munnerlyn ablation profile (Sph + Cyl separately)
+        // Reference: Munnerlyn 1988, Seiler 1993
+        //
+        // T_sph_max = D² × |S| / 3  (maximum spherical ablation, μm)
+        // T_cyl_max = D² × |C| / 3  (maximum cylindrical ablation, μm)
+        //
+        // For MYOPIC correction (S < 0): tissue removed maximally at CENTER
+        //   T_sph(r) = T_sph_max × (1 - (r/R_opt)²)
+        //
+        // For cylindrical correction (C < 0):
+        //   T_cyl(r, θ) = T_cyl_max × (1 - (r/R_opt)²) × sin²(θ - axis)
+        //   Maximum removal perpendicular to axis, zero along axis
+        //
+        // Combined: T_total(r, θ) = T_sph(r) + T_cyl(r, θ)
+
+        var T_sph_max = (oz * oz * Math.abs(sph)) / 3; // using OZ diameter
+        var T_cyl_max = (oz * oz * Math.abs(cyl)) / 3;
+        var T_total_max = T_sph_max + T_cyl_max; // max possible depth (at center, perp to axis)
+
+        // Scale factor: maxAd already accounts for platform multiplier
+        var scaleFactor = T_total_max > 0 ? (maxAd / T_total_max) : 0;
 
         for (var py = 0; py < h; py++) {
             for (var px = 0; px < w; px++) {
@@ -245,27 +274,37 @@ document.addEventListener('DOMContentLoaded', function() {
                 var angle = Math.atan2(yMm, xMm);
 
                 var depth = 0;
-                var t = r / ozR;
+                var rNorm = r / ozR; // normalized radius (0=center, 1=OZ edge)
 
-                if (t <= 1) {
-                    // Inside Optical Zone: unified power mapping
-                    var pAngle = sph + cyl * Math.pow(Math.sin(angle - axisRad), 2);
-                    depth = (dCenter + pAngle * t * t) * depthScale;
+                if (rNorm <= 1) {
+                    // Inside Optical Zone
+                    var radialProfile = 1 - rNorm * rNorm; // parabolic: max at center for myopia
+
+                    // Sphere component
+                    var T_sph = T_sph_max * radialProfile;
+
+                    // Cylinder component (sin² angular dependency)
+                    var T_cyl = T_cyl_max * radialProfile * Math.pow(Math.sin(angle - axisRad), 2);
+
+                    depth = (T_sph + T_cyl) * scaleFactor;
                 } else if (r <= ozR + tzBlend) {
-                    // Transition Zone: smooth falloff from the edge depth
-                    var pAngle = sph + cyl * Math.pow(Math.sin(angle - axisRad), 2);
-                    var edgeDepth = Math.max(0, (dCenter + pAngle) * depthScale);
+                    // Transition Zone: smooth cubic falloff
+                    var radialEdge = 0.05; // small residual at OZ edge for visual smoothness
+                    var T_sph_edge = T_sph_max * radialEdge;
+                    var T_cyl_edge = T_cyl_max * radialEdge * Math.pow(Math.sin(angle - axisRad), 2);
+                    var edgeDepth = (T_sph_edge + T_cyl_edge) * scaleFactor;
                     
-                    var blend = 1 - ((r - ozR) / tzBlend);
-                    blend = blend * blend; // quadratic falloff
+                    var blendT = (r - ozR) / tzBlend;
+                    var blend = (1 - blendT);
+                    blend = blend * blend * blend; // cubic falloff
                     depth = edgeDepth * blend;
                 }
 
                 depth = Math.max(0, depth);
 
-                // Color
-                var t = maxAd > 0 ? depth / maxAd : 0;
-                var c = depthToColor(t);
+                // Color mapping
+                var colorT = maxAd > 0 ? depth / maxAd : 0;
+                var c = depthToColor(colorT);
 
                 // Only color inside the cornea circle (radiusMm)
                 if (r <= radiusMm) {
@@ -291,6 +330,25 @@ document.addEventListener('DOMContentLoaded', function() {
         ctx.arc(cx, cy, ozR * scale, 0, Math.PI * 2);
         ctx.stroke();
         ctx.setLineDash([]);
+
+        // Draw axis indicator lines (show cylinder axis orientation)
+        if (Math.abs(cyl) > 0.25) {
+            ctx.strokeStyle = 'rgba(255,255,255,0.6)';
+            ctx.lineWidth = 1;
+            ctx.setLineDash([2, 3]);
+            var axisLen = ozR * scale + 15;
+            ctx.beginPath();
+            ctx.moveTo(cx - Math.cos(axisRad) * axisLen, cy - Math.sin(axisRad) * axisLen);
+            ctx.lineTo(cx + Math.cos(axisRad) * axisLen, cy + Math.sin(axisRad) * axisLen);
+            ctx.stroke();
+            ctx.setLineDash([]);
+            // Label the axis
+            ctx.fillStyle = 'rgba(255,255,255,0.8)';
+            ctx.font = '9px sans-serif';
+            ctx.textAlign = 'center';
+            var labelR = ozR * scale + 22;
+            ctx.fillText(axis + '°', cx + Math.cos(axisRad) * labelR, cy + Math.sin(axisRad) * labelR + 3);
+        }
 
         // Center dot
         ctx.fillStyle = '#fff';

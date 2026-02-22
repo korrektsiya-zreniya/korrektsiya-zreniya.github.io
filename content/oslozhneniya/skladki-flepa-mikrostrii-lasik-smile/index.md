@@ -1,8 +1,8 @@
 ---
 title: "Складки флэпа и кэпа (микрострии) после LASIK и SMILE: причины и лечение"
-url: /skladki-flepa-mikrostrii-lasik-smile/
+slug: skladki-flepa-mikrostrii-lasik-smile
 description: "Что такое микрострии и макрострии лоскута после ЛАСИК и ФемтоЛАСИК? Почему провисает кэп после SMILE? Симптомы складок, методы диагностики, реальные фото и способы лечения."
-date: 2026-02-22T20:00:00
+date: 2026-02-21T00:00:00
 tags:
   - oslozhneniya
 keywords:

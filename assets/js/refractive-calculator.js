@@ -77,6 +77,15 @@ document.addEventListener('DOMContentLoaded', function() {
             e.warnPupil.style.display = 'none';
         }
 
+        // Lock axis when cyl=0
+        if (Math.abs(cyl) < 0.25) {
+            e.axis.disabled = true;
+            e.axis.style.opacity = '0.4';
+        } else {
+            e.axis.disabled = false;
+            e.axis.style.opacity = '1';
+        }
+
         // MRSE (for ectasia risk scoring)
         var mrse = sph + (cyl / 2);
         e.resMrse.innerText = mrse.toFixed(2) + ' D';

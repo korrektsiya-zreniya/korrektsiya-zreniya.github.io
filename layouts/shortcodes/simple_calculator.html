@@ -1,0 +1,117 @@
+{{ $css := resources.Get "css/calculator.css" | minify | fingerprint }}
+{{ if $css }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ end }}
+
+{{ $js := resources.Get "js/simple-calculator.js" | minify | fingerprint }}
+{{ if $js }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{ end }}
+
+<div class="refractive-calculator-wrapper">
+    <div class="calc-header">
+        <svg fill="#fff" height="32" viewBox="0 0 24 24" width="32"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+        Сравнение методов лазерной коррекции
+    </div>
+
+    <form id="simple-calc-form">
+        <div class="calc-section">
+            <h3 class="calc-section-title">Данные глаза</h3>
+            <div class="calc-grid" style="grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));">
+                <div class="calc-form-group">
+                    <label>Сфера (Sph)</label>
+                    <input type="number" id="sc-sph" class="calc-input" step="0.25" value="0">
+                </div>
+                <div class="calc-form-group">
+                    <label>Цилиндр (Cyl)</label>
+                    <input type="number" id="sc-cyl" class="calc-input" step="0.25" value="0">
+                </div>
+                <div class="calc-form-group">
+                    <label>Ось (Axis, 0–180°)</label>
+                    <input type="number" id="sc-axis" class="calc-input" step="1" min="0" max="180" value="0" disabled style="opacity:0.4;">
+                </div>
+                <div class="calc-form-group">
+                    <label>Пахиметрия (мкм)</label>
+                    <input type="number" id="sc-pach" class="calc-input" min="300" max="800" value="520">
+                </div>
+                <div class="calc-form-group">
+                    <label>Возраст (лет)</label>
+                    <input type="number" id="sc-age" class="calc-input" min="10" max="100" value="25">
+                </div>
+            </div>
+            <div style="font-size:11px; margin-top:4px; color:#555;">
+                * Данные берутся из выписки после диагностики зрения. Если вы не знаете пахиметрию, оставьте 520 мкм (среднее значение).
+            </div>
+        </div>
+
+        <!-- COMPARISON TABLE -->
+        <div class="calc-section" style="margin-top:12px;">
+            <h3 class="calc-section-title">Сравнение методов</h3>
+            <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:13px;">
+                    <thead>
+                        <tr style="background:#46796c; color:#fff;">
+                            <th style="padding:8px; text-align:left;">Параметр</th>
+                            <th style="padding:8px; text-align:center;">LASIK</th>
+                            <th style="padding:8px; text-align:center;">SMILE</th>
+                            <th style="padding:8px; text-align:center;">ФРК</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr style="background:#f9f9f9;">
+                            <td style="padding:8px; font-weight:bold;">Лоскут / Кэп</td>
+                            <td style="padding:8px; text-align:center;" id="sc-flap-lasik">100 мкм</td>
+                            <td style="padding:8px; text-align:center;" id="sc-flap-smile">120 мкм</td>
+                            <td style="padding:8px; text-align:center;" id="sc-flap-prk">50 мкм</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:8px; font-weight:bold;">Абляция</td>
+                            <td style="padding:8px; text-align:center;" id="sc-ad-lasik">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-ad-smile">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-ad-prk">-</td>
+                        </tr>
+                        <tr style="background:#f9f9f9;">
+                            <td style="padding:8px; font-weight:bold;">RSB <span style="font-weight:normal; color:#888;">(остаток стромы)</span></td>
+                            <td style="padding:8px; text-align:center;" id="sc-rsb-lasik">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-rsb-smile">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-rsb-prk">-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:8px; font-weight:bold;">PTA <span style="font-weight:normal; color:#888;">(% измен. ткани)</span></td>
+                            <td style="padding:8px; text-align:center;" id="sc-pta-lasik">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-pta-smile">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-pta-prk">-</td>
+                        </tr>
+                        <tr style="background:#f9f9f9;">
+                            <td style="padding:8px; font-weight:bold;">Балл риска <span style="font-weight:normal; color:#888;">(Рендлман)</span></td>
+                            <td style="padding:8px; text-align:center;" id="sc-score-lasik">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-score-smile">-</td>
+                            <td style="padding:8px; text-align:center;" id="sc-score-prk">-</td>
+                        </tr>
+                        <tr style="border-top:2px solid #ccc; background:#fffcf0;">
+                            <td style="padding:10px; font-weight:bold; font-size:14px;">Оценка</td>
+                            <td style="padding:10px; text-align:center; font-size:14px;" id="sc-verdict-lasik">-</td>
+                            <td style="padding:10px; text-align:center; font-size:14px;" id="sc-verdict-smile">-</td>
+                            <td style="padding:10px; text-align:center; font-size:14px;" id="sc-verdict-prk">-</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- ABLATION PROFILE -->
+        <div class="calc-section" style="margin-top:12px; text-align:center;">
+            <h3 class="calc-section-title">Профиль абляции</h3>
+            <canvas id="sc-ablation-canvas" width="320" height="320" style="max-width:100%; border:1px solid #ddd; border-radius:8px; background:#f5f5f5;"></canvas>
+            <div style="display:flex; align-items:center; justify-content:center; gap:6px; margin-top:6px;">
+                <span style="font-size:11px; color:#555;">0</span>
+                <canvas id="sc-legend" width="200" height="14" style="border:1px solid #ccc; border-radius:2px;"></canvas>
+                <span id="sc-legend-max" style="font-size:11px; color:#555;">0 мкм</span>
+            </div>
+        </div>
+    </form>
+
+    <div style="font-size:11px; color:#888; text-align:justify; margin-top:20px; line-height:1.4;">
+        <b>DISCLAIMER:</b> Калькулятор создан для предварительной оценки. Результаты носят информационный характер и НЕ заменяют полноценную диагностику и клиническое заключение хирурга. Для точной оценки используйте <a href="/protivopokazaniya-k-lazernoj-korrekcii-zreniya/">расширенный калькулятор противопоказаний</a>.
+    </div>
+</div>

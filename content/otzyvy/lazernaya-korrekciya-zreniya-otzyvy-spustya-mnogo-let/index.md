@@ -92,6 +92,8 @@ tags:
 
 **Читайте также:**
 
+- [Почему после операции нельзя носить линзы](/oslozhneniya/pochemu-posle-lazernoj-korrekcii-nelzya-nosit-linzy/)
 - [Почему офтальмологи не делают лазерную коррекцию себе](/pochemu-oftalmologi-ne-delayut-lazernuyu-korrekciyu-sebe/)
+
 - [Реальные отзывы о реабилитации SMILE Pro](/smile-pro-reabilitacziya-otzyvy/)
 - [Мушки в глазах после операции](/mushki-v-glazah-posle-lazernoj-korrekczii/)

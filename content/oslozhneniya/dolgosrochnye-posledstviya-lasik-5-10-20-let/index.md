@@ -6,6 +6,12 @@ aliases:
   - /oslozhneniya/dolgosrochnye-posledstviya-lasik-5-10-20-let/
 
 type: post
+tags:
+  - otzyvy-spustya-mnogo-let
+  - posledstviya
+  - oslozhneniya
+  - lasik
+
 date: 2025-01-01
 description: "Обзор научных данных о том, как меняется зрение и состояние роговицы спустя 5, 10 и 20 лет после LASIK."
 keywords:

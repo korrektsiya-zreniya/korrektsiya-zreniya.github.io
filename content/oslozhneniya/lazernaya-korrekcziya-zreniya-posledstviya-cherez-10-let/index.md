@@ -4,6 +4,11 @@ slug: lazernaya-korrekcziya-zreniya-posledstviya-cherez-10-let
 aliases:
   - /oslozhneniya/lazernaya-korrekcziya-zreniya-posledstviya-cherez-10-let/
 type: post
+tags:
+  - otzyvy-spustya-mnogo-let
+  - posledstviya
+  - oslozhneniya
+
 date: 2025-12-19
 description: "Что происходит с глазами через 10 лет после лазерной коррекции? Регресс, сухость, катаракта — долгосрочные последствия операции."
 keywords:

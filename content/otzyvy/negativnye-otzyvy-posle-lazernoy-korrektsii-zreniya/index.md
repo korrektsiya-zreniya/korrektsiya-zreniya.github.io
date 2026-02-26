@@ -1,5 +1,4 @@
 ---
-
 title: "Негативные отзывы о лазерной коррекции зрения: о чем молчат клиники"
 description: "Собрали негативные отзывы о последствиях LASIK, ФРК и SMILE спустя много лет. Почему пациенты жалеют об операции и сталкиваются с потерей качества жизни."
 date: 2026-02-19T00:00:00
@@ -9,6 +8,8 @@ tags:
   - negativnyj-opyt
   - oslozhneniya
   - kachestvo-zhizni
+  - otzyvy-spustya-mnogo-let
+
 keywords:
   - "Слепота"
 aliases:

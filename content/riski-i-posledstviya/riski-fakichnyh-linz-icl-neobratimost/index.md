@@ -1,12 +1,15 @@
 ---
 title: "Риски факичных линз (ICL): почему «обратимость» — это маркетинговый миф"
+slug: "riski-fakichnyh-linz-icl-neobratimost"
 date: 2026-02-27T22:30:00+03:00
-lastmod: 2026-02-27T22:30:00+03:00
-slug: riski-fakichnyh-linz-icl-neobratimost
+draft: false
+tags:
+  - oslozhneniya
+  - marketing
+  - riski
+  - hrustalik
 description: "Узнайте правду о факичных линзах (ICL). Почему маркетинг об их обратимости скрывает риски хронического воспаления, пигментной глаукомы и ранней катаракты."
-tags: ["oslozhneniya", "icl-risks"]
-categories: ["Риски и последствия"]
-thumbnail: "riski-fakichnyh-linz-icl-neobratimost/marketing-scam-100-percent.jpg"
+image: "riski-fakichnyh-linz-icl-neobratimost/marketing-scam-100-percent.jpg"
 ---
 
 Когда пациенту говорят, что лазерная коррекция ему не подходит (из-за тонкой роговицы или высокого минуса), клиники часто предлагают «премиальную» альтернативу — имплантацию факичных линз (ICL). Главный козырь маркетологов: **«Эта операция полностью обратима — если что-то пойдет не так, линзу можно просто достать»**.

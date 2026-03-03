@@ -1,7 +1,7 @@
 ---
 title: "Миф о безопасности SMILE: почему «безлоскутная» операция может быть опаснее LASIK?"
-slug: "mif-o-bezopasnosti-smile"
-date: 2026-03-02T16:10:00+03:00
+slug: mif-o-bezopasnosti-smile
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

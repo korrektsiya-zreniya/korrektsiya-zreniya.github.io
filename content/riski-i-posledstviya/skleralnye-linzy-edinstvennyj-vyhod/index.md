@@ -1,7 +1,7 @@
 ---
 title: "Склеральные линзы — единственный выход для тех, кому лазер испортил роговицу"
-slug: "skleralnye-linzy-edinstvennyj-vyhod"
-date: 2026-03-02T16:20:00+03:00
+slug: skleralnye-linzy-edinstvennyj-vyhod
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

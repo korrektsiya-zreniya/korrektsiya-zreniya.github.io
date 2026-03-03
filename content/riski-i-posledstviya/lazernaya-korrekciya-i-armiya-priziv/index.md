@@ -1,7 +1,7 @@
 ---
 title: "Если сделать лазерную коррекцию зрения, заберут ли в армию?"
-slug: "lazernaya-korrekciya-i-armiya-priziv"
-date: 2026-03-02T15:20:00+03:00
+slug: lazernaya-korrekciya-i-armiya-priziv
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

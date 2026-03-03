@@ -1,7 +1,7 @@
 ---
 title: "Как проверить клинику на честность за 5 минут?"
-slug: "kak-proverit-kliniku-na-chestnost"
-date: 2026-03-02T16:30:00+03:00
+slug: kak-proverit-kliniku-na-chestnost
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

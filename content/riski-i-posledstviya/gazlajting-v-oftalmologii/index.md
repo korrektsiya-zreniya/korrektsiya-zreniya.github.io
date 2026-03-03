@@ -1,7 +1,7 @@
 ---
 title: "Газлайтинг в офтальмологии: «У вас всё хорошо, это ваши нервы»"
-slug: "gazlajting-v-oftalmologii"
-date: 2026-03-02T16:00:00+03:00
+slug: gazlajting-v-oftalmologii
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

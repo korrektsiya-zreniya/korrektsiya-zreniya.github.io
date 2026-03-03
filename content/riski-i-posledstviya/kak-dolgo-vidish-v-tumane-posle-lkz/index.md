@@ -1,7 +1,7 @@
 ---
 title: "Как долго видишь как за туманом после лазерной коррекции зрения?"
-slug: "kak-dolgo-vidish-v-tumane-posle-lkz"
-date: 2026-03-02T15:00:00+03:00
+slug: kak-dolgo-vidish-v-tumane-posle-lkz
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

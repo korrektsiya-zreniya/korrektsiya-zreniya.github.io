@@ -1,7 +1,7 @@
 ---
 title: "Есть ли смысл делать лазерную коррекцию зрения, если ты программист?"
-slug: "lazernaya-korrekciya-dlya-programmista-smysl"
-date: 2026-03-02T15:10:00+03:00
+slug: lazernaya-korrekciya-dlya-programmista-smysl
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

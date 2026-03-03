@@ -1,7 +1,7 @@
 ---
 title: "Децентрация оптической зоны: что это и почему это почти невозможно исправить?"
-slug: "decentraciya-opticheskoj-zony"
-date: 2026-03-02T17:10:00+03:00
+slug: decentraciya-opticheskoj-zony
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Почему страховка не покроет ваши осложнения после лазерной коррекции?"
-slug: "pochemu-strahovka-ne-pokroet-oslozhneniya"
-date: 2026-03-02T16:40:00+03:00
+slug: pochemu-strahovka-ne-pokroet-oslozhneniya
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

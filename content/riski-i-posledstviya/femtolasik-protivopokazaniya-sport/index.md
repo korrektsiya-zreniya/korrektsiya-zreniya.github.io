@@ -1,7 +1,7 @@
 ---
 title: "Фемто-Лазик и спорт: почему это противопоказано профессионалам?"
-slug: "femtolasik-protivopokazaniya-sport"
-date: 2026-03-02T17:00:00+03:00
+slug: femtolasik-protivopokazaniya-sport
+date: 2026-03-01T10:00:00+03:00
 draft: false
 type: post
 tags:

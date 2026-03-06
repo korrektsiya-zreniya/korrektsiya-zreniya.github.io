@@ -2,8 +2,7 @@
 title: "Профпригодность после ЛКЗ: Можно ли работать машинистом, пилотом или в полиции?"
 slug: profprigodnost-posle-lkz-mashinisty-piloty
 description: "Разбор ограничений по здоровью для машинистов поездов, пилотов гражданской авиации и сотрудников силовых структур. Проходит ли лазерная коррекция зрения по ВЛЭК и другим комиссиям?"
-date: 2026-03-06
-thumbnail: "/profprigodnost-posle-lkz-mashinisty-piloty/pilot-train-driver-eyesight.webp"
+date: 2026-03-06T19:10:00+03:00
 keywords:
   - ВЛЭК
   - машинист поезда после коррекции

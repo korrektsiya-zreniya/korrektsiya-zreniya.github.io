@@ -2,7 +2,7 @@
 title: "Лучи от фонарей и вертикальное двоение: что такое Starburst и Кома?"
 slug: starburst-i-vertikalnoe-dvoenie
 description: "Разбираемся в причинах появления лучей (starburst), ореолов и вертикального двоения (кома) после лазерной коррекции зрения. Почему это происходит и можно ли это исправить?"
-date: 2026-03-06
+date: 2026-03-06T19:00:00+03:00
 thumbnail: "/starburst-i-vertikalnoe-dvoenie/starburst-coma-effect.webp"
 keywords:
   - starburst

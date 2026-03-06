@@ -2,7 +2,7 @@
 title: "Лазер IntraLase FS150: Почему клиники всё еще его используют?"
 slug: intralase-fs150-obzor-tekhnologii
 description: "Обзор фемтосекундного лазера IntraLase FS150. Является ли он до сих пор актуальным стандартом или это устаревшая технология, увеличивающая риски?"
-date: 2026-03-06
+date: 2026-03-06T19:05:00+03:00
 thumbnail: "/intralase-fs150-obzor-tekhnologii/intralase-fs150-laser.webp"
 keywords:
   - IntraLase FS150

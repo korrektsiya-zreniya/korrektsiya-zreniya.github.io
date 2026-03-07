@@ -46,6 +46,7 @@ enableRobotsTXT = true
     otzyvy = "/:slug/"
     sudebnye-dela = "/:slug/"
     oborudovanie = "/:slug/"
+    kliniki = "/:slug/"
     
 [markup]
   [markup.goldmark.renderer]

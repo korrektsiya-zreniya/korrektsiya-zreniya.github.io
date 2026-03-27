@@ -1,11 +1,21 @@
 ---
 title: Лазерная коррекция зрения должна быть запрещена, говорит бывший консультант FDA
 slug: lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda
+aliases:
+  - /riski-i-posledstviya/lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda/
+  - /lazernaya-korrekcziya-zreniya-dolzhna-byt-zapreshhena-govorit-byvshij-konsultant-fda/
 
 
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "Моррис Вакслер (Morris Waxler), бывший консультант FDA, признает ошибки одобрения LASIK и призывает запретить процедуру."
+keywords:
+  - моррис вакслер ласик
+  - запрет лазерной коррекции
+  - fda против ласик
+  - morris waxler lasik
+  - петиция против lasik
+  - abraham rutner история
 ---
 <p style="text-align: center;">
   <p class="" data-start="154" data-end="423">

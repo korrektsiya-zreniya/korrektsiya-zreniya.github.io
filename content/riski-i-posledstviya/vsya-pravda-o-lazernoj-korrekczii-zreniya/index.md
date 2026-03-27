@@ -1,12 +1,21 @@
 ---
 title: "Вся правда о лазерной коррекции зрения"
 slug: vsya-pravda-o-lazernoj-korrekczii-zreniya
+aliases:
+  - /vsya-pravda-o-lazernoj-korrekczii-zreniya/
+  - /riski-i-posledstviya/vsya-pravda-o-lazernoj-korrekczii-zreniya/
 description: "Вся правда о лазерной коррекции зрения: риски, осложнения, последствия, о которых не говорят в клиниках."
 date: 2025-04-07
 type: post
 tags:
-  - Риски
-  - Последствия
+  - riski
+  - posledstviya
+keywords:
+  - вся правда о лазерной коррекции зрения
+  - что скрывают клиники лазерной коррекции
+  - статистика осложнений lasik
+  - моррис уокслер fda
+  - риски рефракционной хирургии
 ---
 
 ## Что вам не расскажут в клинике

@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
-	<link rel="canonical" href="{{ .Permalink }}">
+	<link rel="canonical" href="https://korrektsiya-zreniya.net{{ .RelPermalink }}">
 	<script>(function (d, e) { d[e] = d[e].replace("no-js", "js"); })(document.documentElement, "className");</script>
 	<meta name="description"
 		content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Params.Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}{{ end }}">
@@ -19,21 +19,27 @@
 	{{ template "_internal/twitter_cards.html" . }}
 	{{- end }}
 
-	<!-- Preload local fonts -->
-	<link rel="preload" href="/fonts/open-sans-v44-cyrillic_latin-regular.woff2" as="font" type="font/woff2" crossorigin>
-	<link rel="preload" href="/fonts/open-sans-v44-cyrillic_latin-700.woff2" as="font" type="font/woff2" crossorigin>
-
 	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
 	{{ $custom := resources.Get "css/custom.css" -}}
 	{{ $bundledCSS := slice $style $custom | resources.Concat "css/bundle.css" | minify -}}
 	<link rel="stylesheet" href="{{ $bundledCSS.RelPermalink }}">
+
+
+
+	<!-- Preload local fonts -->
+	<!-- <link rel="preload" href="/fonts/open-sans-v44-cyrillic_latin-regular.woff2" as="font" type="font/woff2"
+		crossorigin>
+	<link rel="preload" href="/fonts/open-sans-v44-cyrillic_latin-700.woff2" as="font" type="font/woff2" crossorigin> -->
+	<!-- <link rel="preload" href="/images/header_lazkor.webp" as="image"> -->
 
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `
 	<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 
-	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
 	{{- $server := "" }}
 	{{- if gt (int (index (split hugo.Version ".") 1)) "120" }}
 	{{ $server = hugo.IsServer }}
@@ -43,6 +49,7 @@
 	{{- if not $server }}
 	{{ template "_internal/google_analytics.html" . }}
 	{{- end }}
+
 </head>
 
 <body class="body">
@@ -62,11 +69,13 @@
 		</div>
 		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 	</div>
-	<script>!function(d){var a='menu__list--',b=d.querySelector('.menu__btn'),m=d.querySelector('.'+a.slice(0,-2));b&&m&&(b.onclick=function(){m.classList.toggle(a+'active');m.classList.toggle(a+'transition');b.classList.toggle('menu__btn--active');b.setAttribute('aria-expanded',b.getAttribute('aria-expanded')!='true')},m.ontransitionend=function(){m.classList.remove(a+'transition')})}(document)</script>
+	<script>!function (d) { var a = 'menu__list--', b = d.querySelector('.menu__btn'), m = d.querySelector('.' + a.slice(0, -2)); b && m && (b.onclick = function () { m.classList.toggle(a + 'active'); m.classList.toggle(a + 'transition'); b.classList.toggle('menu__btn--active'); b.setAttribute('aria-expanded', b.getAttribute('aria-expanded') != 'true') }, m.ontransitionend = function () { m.classList.remove(a + 'transition') }) }(document)</script>
 	{{ range .Site.Params.customJS -}}
 	<script src="{{ . | relURL }}"></script>
 	{{- end }}
 	{{- partial "mathjax.html" . -}}
+
+
 </body>
 
 </html>

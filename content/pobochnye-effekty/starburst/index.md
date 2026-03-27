@@ -1,11 +1,20 @@
 ---
 title: Эффект звёздочек (Starburst) после лазерной коррекции зрения
 slug: starburst
+aliases:
+  - /pobochnye-effekty/starburst/
+  - /effekt-zvyozdochek-svetovye-bliki-starbursts/
 description: Эффект звёздочек (starburst) — лучи света, расходящиеся от источников освещения. Причины, симптомы и последствия после лазерной коррекции зрения.
 thumbnail: /images/starburst.webp
 
 type: post
 date: 2025-01-01
+keywords:
+  - эффект звездочек в глазах
+  - starburst после лазерной коррекции
+  - лучи от фонарей ночью
+  - искажение света после операции
+  - зрение как звезда
 ---
 
 ## Что такое эффект звёздочек (Starburst)?

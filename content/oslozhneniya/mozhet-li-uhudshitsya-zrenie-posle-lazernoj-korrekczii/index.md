@@ -1,11 +1,16 @@
 ---
 title: "Может ли ухудшиться зрение после лазерной коррекции?"
 slug: mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii
+aliases:
+  - /oslozhneniya/mozhet-li-uhudshitsya-zrenie-posle-lazernoj-korrekczii/
 description: "Может ли ухудшиться зрение после лазерной коррекции? Да. Узнайте причины, факторы риска и что делать."
-date: 2025-04-02
-tags:
-  - Осложнения
-  - Риски
+date: 2024-01-01
+keywords:
+  - может ли ухудшиться зрение после операции
+  - риски лазерной коррекции зрения
+  - регрессия зрения после ласик
+  - эктазия роговицы симптомы
+  - зрение упало после коррекции
 
 type: post
 ---

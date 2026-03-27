@@ -1,11 +1,19 @@
 ---
 title: Как долго восстанавливается зрение после лазерной коррекции
 slug: kak-dolgo-vosstanavlivaetsya-zrenie-posle-lazernoy-korrekcii
+aliases:
+  - /riski-i-posledstviya/kak-dolgo-vosstanavlivaetsya-zrenie-posle-lazernoy-korrekcii/
 
 
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "Сколько времени восстанавливается зрение после LASIK? Реальные сроки: дни, недели, месяцы, годы. Почему восстановление может не произойти."
+keywords:
+  - восстановление зрения после лазерной коррекции
+  - как долго заживают глаза после ласик
+  - реабилитация после коррекции зрения
+  - зрение скачет после операции
+  - почему зрение не восстанавливается
 ---
 <p class="" data-start="0" data-end="93">
   <strong data-start="0" data-end="93">Как долго восстанавливается зрение после лазерной коррекции? Реальные риски и последствия</strong>

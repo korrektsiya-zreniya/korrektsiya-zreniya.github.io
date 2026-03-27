@@ -1,10 +1,22 @@
 ---
 title: Плавающие помутнения (мушки) после лазерной коррекции зрения
 slug: plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya
-
+aliases:
+  - "/плавающие-помутнения-мушки-после-лазерной-коррекции-зрения/"
+  - /oslozhneniya/plavayushhie-pomutneniya-mushki-posle-lazernoj-korrekczii-zreniya/
+description: "Мушки (плавающие помутнения) после лазерной коррекции. Почему возникают, связь с вакуумным кольцом, можно ли убрать."
+keywords:
+  - мушки после лазерной коррекции
+  - plavayushie-pomutneniya
+  - деструкция стекловидного тела
+  - осложнения ЛКЗ
+tags:
+  - mushki-v-glazah
+  - plavayushie-pomutneniya
+  - oslozhneniya
+  - steklovidnoe-telo
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
 ---
 ## Плавающие помутнения (мушки) после лазерной коррекции зрения: неожиданный спутник
 

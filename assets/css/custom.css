@@ -1,5 +1,5 @@
 /* Local Open Sans fonts - from Google Webfonts Helper */
-@font-face {
+/* @font-face {
   font-family: 'Open Sans';
   font-display: swap;
   font-style: normal;
@@ -13,15 +13,94 @@
   font-style: normal;
   font-weight: 700;
   src: url(/fonts/open-sans-v44-cyrillic_latin-700.woff2) format('woff2');
+} */
+
+/* 
+   NYPost Typography Override 
+   Targeting main article content + homepage summaries
+*/
+/* 
+   Global Typography Override (Habr Style)
+   Applied to body to cascade everywhere.
+*/
+/* 
+   Global Typography Override (Habr Style)
+   Font-family is set in hugo.toml (fontFamilyPrimary)
+   Size and color overrides here:
+*/
+/* 
+   Global Typography Override (Habr Style)
+   Forcing system fonts and specific sizes globally.
+*/
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  color: #333333 !important;
 }
 
+/* Override menu font size back to something smaller/standard */
+.menu__link {
+  font-size: 14px !important;
+  /* line-height: normal !important; */
+}
+
+/* Habr-style Headings */
+h1, .post__title {
+  /* font-size: 32px !important; */
+  /* line-height: 40px !important; */
+  color: #333 !important;
+}
+
+h2 {
+  font-size: 20px !important;
+  line-height: 32px !important;
+  color: #333 !important;
+}
+
+h3, h4, h5, h6, 
+.list__title, 
+.list__title a {
+  color: #333 !important;
+  transition: color 0.2s ease;
+}
+
+.list__title a:hover {
+  color: #e22d30 !important;
+}
+
+/* Specific fix for homepage article titles if needed, but user asked for 'text' usually implies body */
+/* If user wants titles larger too, we can add .list__title a */
+
 .container.container--outer {
-  max-width: 977px;
+  max-width: 1004px;
 }
 
 .logo {
-  background: #e22d30 !important;
+  background: #000 !important;
   /* padding: 20px !important; */
+  position: relative;
+  overflow: hidden;
+}
+
+.logo::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/images/header_lazkor.webp'), url('data:image/webp;base64,UklGRmACAABXRUJQVlA4IFQCAADwEACdASqWABwAPtFYpUyoJSOiKzJOIQAaCWUAzoX/6n7uB2hv3Bu06qY9fJhUHXfPdAcNIb+7HQNrOy1wUKG3g5BYvNV37WDJRj7/9cs3e8/VtMv95qcy084yaWdecNdFls4JbRbHMpXNfM5ddSAFcbDbFBvQK98/6gELxxrba/dQqN3dbKXroU7O3P+hRAAA/vsQSs33RsVLbddEBz6efveQBCJbakLMlcxOWOOS5yyRS0n3S2bDzVXWuS4mzQ705vaKqtYhAJu39IiMdZbU1yeileeuTEt0TZGcfbae+Nl5QY0u7f8bjT8Pc8zr8IuN5BQNlA4tVrlXgzjbaBsozw1/qaEuS8uvtasOgsBQtlH+XAFVGv7UM/PI1O9DKrH1Z5FLBxJq18aVGblhNOgP0+T5Z1/wlroZvEjamQEyL/kGzz5SXM+jCzhj9FUjrNLTWaZQMJEfZPyoEXtXKmwqV9Hn5vU4KWYo53MeHPUOz8DTI64HUiyvmPJdB3L274vMwrJuwBj8GUksIgx34CqIbvso4pw+jPfYX94Ul5xISWb0nheaQfiN4kCR/iAlMQ5v25LwKXh1CyhKRoyLCvwhGz9281I2lsJo3GgiEIj+WuhppvqG72tfb2Q1DF8HoX+yuZ7ReeE8Fs29ch9IIkCxda2GrGfmvrkXclFyVPF3wPN4MBmRjI+zCwOwIC1T0sX9iN71rlODVUIiYe5BvklKOfkZCbqq5m7rGF24zIgwj4/B2sPcdFerKmAhUDt0uwQ5cRZuxdOblTGMBKobAmAAAAAAAA==');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* opacity: 0.25; */
+  pointer-events: none;
+}
+
+.logo__link {
+  position: relative;
+  z-index: 1;
 }
 
 .logo__title {

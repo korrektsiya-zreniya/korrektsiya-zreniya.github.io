@@ -1,11 +1,21 @@
 ---
 title: Десять причин не делать лазерную коррекцию зрения
 slug: desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya
+aliases:
+  - /desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/
+  - /riski-i-posledstviya/desyat-prichin-ne-delat-lazernuyu-korrekciyu-zreniya/
 
 
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "10 причин не делать лазерную коррекцию зрения: риски сухого глаза, ночные нарушения, необратимость операции и долгосрочные последствия. Узнайте правду."
+keywords:
+  - 10 причин не делать лазерную коррекцию
+  - почему не стоит делать лазерную коррекцию
+  - риски lasik
+  - сухой глаз после операции
+  - ночное зрение после коррекции
+  - осложнения лазерной коррекции
 ---
 <ol data-start="65" data-end="1808">
   <li class="" data-start="65" data-end="834">

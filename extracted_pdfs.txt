@@ -1,0 +1,392 @@
+
+--- static/data/Eyedea Refractive.pdf ---
+EYEDEAREFRACTIVE-EVALUATION
+Patient DateofBirth Age
+Doctor EvaluationDate
+Diopter(OD) Diopter(OS)
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Keratometry(OD) Keratometry(OS)
+Flatter
+-
+FlatAxis
+-
+Steeper
+-
+Flatter
+-
+FlatAxis
+-
+Steeper
+-
+Procedure(OD) Pupil(OD) Procedure(OS) Pupil(OS)
+Pachymetry
+-
+O.Z.
+-
+Flap
+-
+Diameter
+-
+Pachymetry
+-
+O.Z.
+-
+Flap
+-
+Diameter
+-
+ValueafterNomogram(OD) ValueafterNomogram(OS)
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Spheric
+-
+Cylinder
+-
+Axis
+-
+ForPRKwithmitomycinC0,02%,considerlowering10%
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Procedure(OD) Procedure(OS)
+CentralAblation - CentralAblation -
+MaximumAblation - MaximumAblation -
+ResidualStromalBed - ResidualStromalBed -
+Perc.TissueAlt - Perc.TissueAlt -
+Perc.StromalTissueAlt - Perc.StromalTissueAlt -
+Mito0.02%
+-
+Mito0.02%
+-
+AblationProfile(OD) AblationProfile(OS)
+1/2
+EYEDEAREFRACTIVE-EVALUATION
+Patient DateofBirth Age
+Doctor EvaluationDate
+FinalKT(OD)
+-
+FinalKT(OS)
+-
+Flatter
+-
+Steeper
+-
+Flatter
+-
+Steeper
+-
+Recommendations(OD) Recommendations(OS)
+EctasiaRiskScoreSystem(OD) EctasiaRiskScoreSystem(OD)
+Topography - - Topography - -
+ResidualBed - - ResidualBed - -
+Age - - Age - -
+Pachymetry - - Pachymetry - -
+MRSE(-) - - MRSE(-) - -
+TotalScore - TotalScore -
+Score RelativeRisk Recommendation Score RelativeRisk Recommendation
+0-2 Low LasikorPRK 0-2 Low LasikorPRK
+3 Moderate PreferPRK 3 Moderate PreferPRK
+4+ High PRKriskuncertain 4+ High PRKriskuncertain
+Observations(OD) Observations(OS)
+DISCLAIMER
+Thisrefractivesurgerycalculatorwascreatedtofacilitatethepre-operativeevaluationforLasikandPRK,basedonwidelyacceptedpractices
+fromcurrentmedicalliterature.Theresultsofthiscalculationshouldbeusedasadjuvantinjudgingtheindicationorcontraindicationof
+refractivesurgery,alwayscorrelatingwiththeclinicalevaluation,whichisparamount.EyedeaGroupprovidesthistableasaclinical
+judgmentsupportservice,butdisclaimsliabilityforitsmisuse.
+2/2
+
+--- static/data/Eyedea Refractive2.pdf ---
+EYEDEAREFRACTIVE-EVALUATION
+Patient
+vasa
+DateofBirth
+12/February/2008
+Age
+18
+Doctor EvaluationDate
+21/February/2026
+Diopter(OD) Diopter(OS)
+Spheric
++2.00
+Cylinder
++4.00
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Keratometry(OD) Keratometry(OS)
+Flatter
+40.00
+FlatAxis
+N/I
+Steeper
+45.00
+Flatter
+-
+FlatAxis
+-
+Steeper
+-
+ProcedureLASIK(OD) Pupil(OD) Procedure(OS) Pupil(OS)
+Pachymetry
+500
+O.Z.
+5.0
+Flap
+96
+Diameter
+N/I
+Pachymetry
+-
+O.Z.
+-
+Flap
+-
+Diameter
+-
+ValueafterNomogramVISX(OD) ValueafterNomogram(OS)
+Spheric
++2.00
+Cylinder
++4.00
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+ForPRKwithmitomycinC0,02%,considerlowering10%
+Spheric
+N/A
+Cylinder
+N/A
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+ProcedureLASIK(OD) Procedure(OS)
+CentralAblation 19.43 CentralAblation -
+MaximumAblation 35.34 MaximumAblation -
+ResidualStromalBed 384.57 ResidualStromalBed -
+Perc.TissueAlt
+(thereisnoknownacceptablePTAvalueforcorneas
+classifiedashavingasymmetrygreaterthan0.5D,asin
+thecaseunderevaluation)
+23.09% Perc.TissueAlt -
+Perc.StromalTissueAlt 14.54% Perc.StromalTissueAlt -
+Mito0.02%
+N/A
+Mito0.02%
+-
+AblationProfile(OD) AblationProfile(OS)
+1/2
+EYEDEAREFRACTIVE-EVALUATION
+Patient
+vasa
+DateofBirth
+12/February/2008
+Age
+18
+Doctor EvaluationDate
+21/February/2026
+FinalKT(OD)
+CompoundHyperopicAstigmatism
+FinalKT(OS)
+-
+Flatter
+46.60
+Steeper
+47.20
+Flatter
+-
+Steeper
+-
+Recommendations(OD) Recommendations(OS)
+EctasiaRiskScoreSystem(OD) EctasiaRiskScoreSystem(OD)
+Topography AsymmetricBowTie 1 Topography - -
+ResidualBed >300 0 ResidualBed - -
+Age 18-21 3 Age - -
+Pachymetry 481to510 2 Pachymetry - -
+MRSE(4.00) -8orless 0 MRSE(-) - -
+TotalScore 6 TotalScore -
+Score RelativeRisk Recommendation Score RelativeRisk Recommendation
+0-2 Low LasikorPRK 0-2 Low LasikorPRK
+3 Moderate PreferPRK 3 Moderate PreferPRK
+4+ High PRKriskuncertain 4+ High PRKriskuncertain
+Observations(OD) Observations(OS)
+DISCLAIMER
+Thisrefractivesurgerycalculatorwascreatedtofacilitatethepre-operativeevaluationforLasikandPRK,basedonwidelyacceptedpractices
+fromcurrentmedicalliterature.Theresultsofthiscalculationshouldbeusedasadjuvantinjudgingtheindicationorcontraindicationof
+refractivesurgery,alwayscorrelatingwiththeclinicalevaluation,whichisparamount.EyedeaGroupprovidesthistableasaclinical
+judgmentsupportservice,butdisclaimsliabilityforitsmisuse.
+2/2
+
+--- static/data/Eyedea_Report_vasa.pdf ---
+EYEDEA REFRACTIVE - EVALUATION
+Patient
+vasa
+Date of Birth
+12/February/2008
+Age
+18
+Doctor Evaluation Date
+21/February/2026
+Diopter (OD) Diopter (OS)
+Spheric
++2.00
+Cylinder
++4.00
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Keratometry (OD) Keratometry (OS)
+Flatter
+40.00
+Flat Axis
+N/I
+Steeper
+45.00
+Flatter
+-
+Flat Axis
+-
+Steeper
+-
+Procedure LASIK (OD) Pupil (OD) Procedure (OS) Pupil (OS)
+Pachymetry
+500
+O.Z.
+5.0
+Flap
+96
+Diameter
+N/I
+Pachymetry
+-
+O.Z.
+-
+Flap
+-
+Diameter
+-
+Value after Nomogram VISX (OD) Value after Nomogram (OS)
+Spheric
++2.00
+Cylinder
++4.00
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+For PRK with mitomycin C 0,02%, consider lowering 10%
+Spheric
+N/A
+Cylinder
+N/A
+Axis
+50
+Spheric
+-
+Cylinder
+-
+Axis
+-
+Procedure LASIK (OD) Procedure (OS)
+Central Ablation 19.43 Central Ablation -
+Maximum Ablation 35.34 Maximum Ablation -
+Residual Stromal Bed 384.57 Residual Stromal Bed -
+Perc. Tissue Alt
+(there is no known acceptable PTA value for corneas
+classified as having asymmetry greater than 0.5D, as in
+the case under evaluation)
+23.09% Perc. Tissue Alt -
+Perc. Stromal Tissue Alt 14.54% Perc. Stromal Tissue Alt -
+Mito 0.02%
+N/A
+Mito 0.02%
+-
+Ablation Profile (OD) Ablation Profile (OS)
+1/2
+EYEDEA REFRACTIVE - EVALUATION
+Patient
+vasa
+Date of Birth
+12/February/2008
+Age
+18
+Doctor Evaluation Date
+21/February/2026
+Final KT (OD)
+Compound Hyperopic Astigmatism
+Final KT (OS)
+-
+Flatter
+46.60
+Steeper
+47.20
+Flatter
+-
+Steeper
+-
+Recommendations (OD) Recommendations (OS)
+Ectasia Risk Score System (OD) Ectasia Risk Score System (OD)
+Topography Asymmetric Bow Tie 1 Topography - -
+Residual Bed >300 0 Residual Bed - -
+Age 18-21 3 Age - -
+Pachymetry 481 to 510 2 Pachymetry - -
+MRSE(4.00) -8 or less 0 MRSE(-) - -
+Total Score 6 Total Score -
+Score Relative Risk Recommendation Score Relative Risk Recommendation
+0-2 Low Lasik or PRK 0-2 Low Lasik or PRK
+3 Moderate Prefer PRK 3 Moderate Prefer PRK
+4+ High PRK risk uncertain 4+ High PRK risk uncertain
+Observations (OD) Observations (OS)
+DISCLAIMER
+This refractive surgery calculator was created to facilitate the pre-operative evaluation for Lasik and PRK, based on widely accepted practices
+from current medical literature. The results of this calculation should be used as adjuvant in judging the indication or contraindication of
+refractive surgery, always correlating with the clinical evaluation, which is paramount. Eyedea Group provides this table as a clinical
+judgment support service, but disclaims liability for its misuse.
+2/2

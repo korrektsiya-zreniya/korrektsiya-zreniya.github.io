@@ -1,7 +1,5 @@
 {
   "projects": {
     "default": "korrektsiya-zreniya"
-  },
-  "targets": {},
-  "etags": {}
+  }
 }

@@ -1,14 +1,23 @@
 ---
 title: Канал – ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ | ВСЯ ПРАВДА
 slug: kanal-lazernaya-korrekcziya-zreniya-vsya-pravda
+aliases:
+  - /otzyvy/kanal-lazernaya-korrekcziya-zreniya-vsya-pravda/
+  - /kanal-lazernaya-korrekcziya-zreniya-vsya-pravda/
 date: 2025-04-08
 tags:
-  - видео
-  - отзывы
-  - осложнения
+  - video
+  - otzyvy
+  - oslozhneniya
 
 type: post
-description: Описание отсутствует.
+description: "Подборка видео с канала 'Вся правда о лазерной коррекции зрения'. Документальные расследования, мнения честных офтальмологов и истории пострадавших."
+keywords:
+  - канал вся правда о лазерной коррекции
+  - медицинский обман века
+  - офтальмолог кокин отзывы
+  - документальный фильм лазерная коррекция
+  - программист ослеп после коррекции
 ---
 
 ## Лазерная коррекция зрения — медицинский обман века

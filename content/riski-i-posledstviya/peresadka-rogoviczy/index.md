@@ -1,12 +1,20 @@
 ---
 title: Пересадка роговицы
 slug: peresadka-rogoviczy
+aliases:
+  - /riski-i-posledstviya/peresadka-rogoviczy/
 
-thumbnail: /wp-content/uploads/2025/04/corneal_transplant.jpg
+thumbnail: /wp-content/uploads/2025/04/corneal_transplant.webp
 
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "Пересадка роговицы (кератопластика) как крайняя мера после осложнений LASIK. Когда она необходима и какие риски несет."
+keywords:
+  - пересадка роговицы после лазерной коррекции
+  - кератопластика после ласик
+  - замена роговицы
+  - эктазия роговицы лечение
+  - сквозная кератопластика
 ---
 ## Пересадка роговицы: когда лазерная коррекция приводит к крайним мерам {.wp-block-heading}
 

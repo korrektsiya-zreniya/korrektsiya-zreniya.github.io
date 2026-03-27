@@ -1,11 +1,19 @@
 ---
 title: "После лазерной коррекции зрения ухудшается зрение"
 slug: posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie
+aliases:
+  - /oslozhneniya/posle-lazernoj-korrekczii-zreniya-uhudshaetsya-zrenie/
 description: "Почему ухудшается зрение после лазерной коррекции? Причины, когда это временно, а когда требует лечения."
 date: 2025-04-02
 tags:
-  - осложнения
-  - последствия
+  - oslozhneniya
+  - posledstviya
+keywords:
+  - ухудшение зрения после операции
+  - зрение падает после лазерной коррекции
+  - почему упало зрение через год
+  - регресс миопии после ласик
+  - помутнение роговицы после операции
 
 type: post
 ---

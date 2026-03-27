@@ -4,12 +4,22 @@ slug: orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya
 date: 2024-11-30
 #thumbnail: larkova-poteryala-glaz-3-e1744297483664.webp
 tags:
-  - депрессия
+  - depressiya
 
 type: post
-description: Описание отсутствует.
+description: "История Ирины Ларьковой из Орска, которая потеряла глаз после осложнений лазерной коррекции зрения. Реальный отзыв об операции и борьбе с клиникой."
+keywords:
+  - потеря глаза после ласик
+  - удалили глаз после операции
+  - ирина ларькова орск
+  - осложнения лазерной коррекции зрения
+  - суд с клиникой зрения
+aliases:
+  - /novosti/orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
+  - /orchanka-poteryala-glaz-posle-lazernoj-korrekczii-zreniya/
 ---
-{{< img src="larkova-poteryala-glaz-3-1024x580.jpg" alt="" >}} 
+
+{{< img src="larkova-poteryala-glaz-3-1024x580.webp" alt="Медицинский документ орчанки, потерявшей глаз после лазерной коррекции" >}}
 
 О том, что лазерная коррекция зрения может привести к потере глаза, орчанка Ирина Ларькова даже подумать не могла.
 
@@ -59,4 +69,4 @@ description: Описание отсутствует.
 
 Источник: [Орчанка потеряла глаз после лазерной коррекции зрения][1]
 
- [1]: https://orskayagazeta.ru/intervyu/orchanka-poteryala-glaz-posle-lazernoj-korrektsii-zreniya/
+[1]: https://orskayagazeta.ru/intervyu/orchanka-poteryala-glaz-posle-lazernoj-korrektsii-zreniya/

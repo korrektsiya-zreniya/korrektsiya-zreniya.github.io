@@ -1,11 +1,19 @@
 ---
 title: "Гало-эффект после лазерной коррекции зрения"
 slug: galo-effekt-posle-lazernoy-korrekcii-zreniya
+aliases:
+  - /pobochnye-effekty/galo-effekt-posle-lazernoy-korrekcii-zreniya/
 description: "Гало-эффект после лазерной коррекции зрения: что это, почему появляется, когда исчезает и как с ним бороться."
 date: 2025-04-02
+keywords:
+  - гало эффект
+  - ночное зрение после lasik
+  - светящиеся круги перед глазами
+  - искажение зрения ночью
+  - восстановление после лазерной коррекции
 tags:
-  - ночное зрение
-  - осложнения
+  - nochnoe-zrenie
+  - oslozhneniya
 
 type: post
 ---

@@ -5,9 +5,15 @@ date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "katarakta-posle-lasik"
-image: "images/cataract-lasik.jpg"
+image: "images/cataract-lasik.webp"
+keywords:
+  - катаракта после лазерной коррекции
+  - расчет хрусталика после ласик
+  - факоэмульсификация после рефракционной операции
+  - иол после ласик
+  - раннее развитие катаракты
 tags:
-  - осложнения
+  - oslozhneniya
 categories: ["Осложнения", "Долгосрочные последствия"]
 
 type: post

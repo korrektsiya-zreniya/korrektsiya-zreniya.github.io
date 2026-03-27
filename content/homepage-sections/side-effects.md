@@ -5,7 +5,12 @@ title: side-effects
 slug: homepage-sections/side-effects
 type: post
 date: 2025-01-01
-description: Описание отсутствует.
+description: "Блок с визуальными примерами побочных эффектов: гало, глэр, двоение, звездные вспышки."
+keywords:
+  - гало эффект
+  - двоение в глазах
+  - старберст
+  - глэр эффект
 ---
 ## Побочные эффекты
 
@@ -15,7 +20,7 @@ description: Описание отсутствует.
   img_before="/images/halo_before.webp"
   img_after="/images/halo_after.webp"
   text="Гало эффект"
-  link="/halo-effect">}}
+  link="/galo-effekt-posle-lazernoy-korrekcii-zreniya">}}
 
   {{< card-split
   img_before="/images/glare_before.webp"
@@ -27,7 +32,7 @@ description: Описание отсутствует.
   img_before="/images/night-vision-before-lasik.webp"
   img_after="/images/night-vision-after-lasik.webp"
   text="Вождение автомобиля"
-  link="/starburst">}}
+  link="/pobochnye-effekty/starburst">}}
 
   {{< card-split
   img_before="/images/ghosting_before.webp"

@@ -1,10 +1,16 @@
 ---
 title: "Плохое зрение вблизи после лазерной коррекции зрения"
 slug: plohoe-zrenie-vblizi-posle-lazernoj-korrekczii-zreniya
+aliases:
+  - /oslozhneniya/plohoe-zrenie-vblizi-posle-lazernoj-korrekczii-zreniya/
 description: "Плохо видите вблизи после лазерной коррекции? Причины ухудшения ближнего зрения после ЛКЗ."
 date: 2025-04-02
-tags:
-  - Осложнения
+keywords:
+  - плохое зрение вблизи после операции
+  - дальнозоркость после лазерной коррекции
+  - не вижу мелкий шрифт после ласик
+  - очки для чтения после коррекции
+  - проблемы с телефоном после операции
 
 type: post
 ---

@@ -1,2 +1,11 @@
 User-agent: *
+
+# Block old WordPress garbage URLs
+Disallow: /wp-content/
+Disallow: /icons/
+Disallow: /bez-rubriki/
+Disallow: /wptelegram/
+Disallow: /265/
+Disallow: /269/
+
 Sitemap: {{ .Site.BaseURL }}sitemap.xml

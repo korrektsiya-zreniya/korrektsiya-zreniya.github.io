@@ -1,0 +1,103 @@
+# TODO: korrektsiya-zreniya.net
+
+## ✅ Выполнено (сессия 07.12.2025)
+
+### Расширение контента
+- [x] Расширена статья "Starburst" (5 → 65 строк)
+- [x] Расширена статья "LASIK и большие зрачки: история 1"
+- [x] Расширена статья "LASIK и большие зрачки: история 2"
+- [x] Расширена статья "Программист из Сбера"
+- [x] Расширена статья "Broken Eyes"
+
+### Новые страницы (созданы с нуля)
+- [x] О проекте (100+ строк)
+- [x] FAQ (150+ строк)
+- [x] Контакты (70+ строк)
+
+### Перенос с WordPress (14 новых статей)
+- [x] После коррекции зрения один глаз видит хуже
+- [x] Гало-эффект после лазерной коррекции
+- [x] После ЛКЗ ухудшается зрение
+- [x] Может ли ухудшиться зрение после ЛКЗ
+- [x] Пациенты, которые сожалеют о ЛКЗ
+- [x] Вся правда о лазерной коррекции
+- [x] Почему после коррекции вблизи плохо видно
+- [x] Плохое зрение вблизи после ЛКЗ
+- [x] Минусы и последствия ЛКЗ, которые скрывают врачи
+- [x] Сколько заживает лоскут после фемто ЛАСИК
+- [x] Почему не стоит делать ЛКЗ: размер зрачка
+- [x] Почему не стоит делать ЛКЗ: сухой глаз
+- [x] Почему не стоит делать ЛКЗ: выжигают очки
+
+### Технические улучшения
+- [x] Замена LASIK на "лазерная коррекция" в новых статьях
+- [x] Добавлены страницы в меню (FAQ, О проекте, Контакты)
+- [x] Скачано 1 изображение с WordPress (corneal_neuralgia.jpg)
+- [x] Обновлены карточки на главной (Depression, Corneal Neuralgia)
+
+### Статистика сборки
+- **Было**: 98 страниц
+- **Стало**: 131 страница (+33 страницы!)
+- **Static files**: 49 (+7 файлов)
+
+---
+
+## 📝 Ещё нужно сделать
+
+### Статьи с WordPress (опционально)
+- [ ] Острота зрения как единственный показатель качества операции
+
+### 🖼️ Изображения
+- [x] Заменить `/images/photophobia.jpg` на уникальные для оставшихся карточек:
+  - [x] Мигрень
+  - [x] Невропатическая боль
+  - [x] Воспаление
+  - [x] Индуцированный астигматизм
+  - [x] Непереносимость контактных линз
+  - [x] Синдром визуального снега
+  - [x] Неестественная смерть
+  - [x] Ночные глазные мази
+  - [x] Непереносимость экранов
+  - [x] Проблемы с фокусировкой
+  - [x] Нестабильное зрение
+
+### 📝 Контент
+- [ ] Добавить больше судебных дел (сейчас 2)
+- [ ] Добавить новые отзывы пациентов
+
+### ♿ Accessibility
+- [ ] Добавить alt-текст для всех изображений
+
+### 🔧 Техническое
+- [ ] Конвертировать jpg → webp для оптимизации
+- [ ] Добавить Schema.org разметку для статей
+- [ ] Проверить meta-description на всех статьях
+
+## 📂 Миграция с LasikComplications.com
+
+### ✅ Перенесено
+| Имя файла (старый сайт) | Заголовок (Новая статья) | Путь (новый сайт) | Статус |
+| :--- | :--- | :--- | :--- |
+| TenThingsYourDocWontTellYou.html | 10 вещей, о которых молчат врачи | /content/riski-i-posledstviya/10-veshchej-o-kotoryh-molchat-vrachi/index.md | ✅ Перенесено |
+| FlapComplications.html | Осложнения лоскута (флэпа) | /content/oslozhneniya/oslozhneniya-loskuta-lasik-issledovaniya/index.md | ✅ Перенесено |
+| dryeye.htm | Сухость глаз и повреждение нервов | /content/oslozhneniya/nerazryvnaya-svyaz-lasik-i-suhoj-glaz/index.md | ✅ Перенесено |
+| largepupils.htm, nightvision.htm | Большие зрачки и потеря ночного зрения | /content/riski-i-posledstviya/bolshie-zrachki-i-fda/index.md | ✅ Перенесено |
+| ectasia-FDA-reports.htm | Эктазия: Истории из базы FDA | /content/riski-i-posledstviya/ectasia-fda-reports/index.md | ✅ Перенесено |
+| comanagement.htm | Co-management: Откаты и риски | /content/riski-i-posledstviya/comanagement-risks-kickbacks/index.md | ✅ Перенесено |
+| starbursting.htm | Звездные вспышки (Starbursts) | /content/pobochnye-effekty/starbursts-posle-lasik/index.md | ✅ Перенесено |
+| suicide.htm | Депрессия и суицид | /content/riski-i-posledstviya/depressiya-i-suicid-posle-lasik/index.md | ✅ Перенесено |
+| mythof2020.htm | Миф о 100% зрении (20/20) | /content/riski-i-posledstviya/mif-o-zrenii-100-procentov-20-20/index.md | ✅ Перенесено |
+| corneal_neuropathy.htm | Роговичная невралгия | /content/oslozhneniya/rogovichnaya-nevralgiya-posle-lasik/index.md | ✅ Перенесено |
+| regression.htm | Регресс зрения через годы | /content/riski-i-posledstviya/regress-zreniya-posle-lasik/index.md | ✅ Перенесено |
+| ghosting.htm | Двоение и «призраки» (Ghosting) | /content/pobochnye-effekty/ghosting-dvoenie-posle-lasik/index.md | ✅ Перенесено |
+| vitreoretinal_damage.htm | Отслойка сетчатки и ЗОСТ | /content/oslozhneniya/otsloenie-setchatki-posle-lazernoj-korrekczii/index.md | ✅ Существовало (Проверено) |
+| inducedcataract.htm | Катаракта после LASIK | /content/oslozhneniya/katarakta-posle-lasik/index.md | ✅ Существовало (Проверено) |
+| infection.htm | Инфекции после LASIK | /content/oslozhneniya/infekcii-posle-lasik/index.md | ✅ Существовало (Проверено) |
+| dlk.htm | Диффузный ламеллярный кератит | /content/oslozhneniya/diffuznyj-lamellyarnyj-keratit-dlk/index.md | ✅ Существовало (Проверено) |
+| interface-fluid.html | Синдром интерфейсной жидкости | /content/oslozhneniya/sindrom-interfejsnoj-zhidkosti-ifs/index.md | ✅ Проверено |
+
+### ⏳ В планах
+| Имя файла (старый сайт) | Заголовок (Новая статья) | Путь (новый сайт) |
+| :--- | :--- | :--- |
+| halos.htm | Гало (Ореолы) | /content/pobochnye-effekty/oreoly-i-galo/index.md |
+| blurryvision.htm | Размытое зрение | /content/pobochnye-effekty/razmytoe-zrenie-posle-lasik/index.md |

@@ -1,16 +1,22 @@
 ---
-title: "Осложнения ReLEx SMILE: Риски \"бес-лоскутной\" коррекции"
+title: "Осложнения ReLEx SMILE: Риски \"безлоскутной\" коррекции"
 description: "Правда о методе SMILE: разрывы лентикулы, потеря вакуума и почему \"без лоскута\" не значит \"без рисков\". Разбор осложнений и истории пациентов."
 date: 2025-06-11
 lastmod: 2025-06-11
 draft: false
 slug: "relex-smile-oslozhneniya-i-riski"
-image: "images/smile-complications.jpg"
+image: "images/smile-complications.webp"
 tags:
   - smile
-  - депрессия
-  - осложнения
-  - эктазия
+  - depressiya
+  - oslozhneniya
+  - ektaziya
+keywords:
+  - осложнения relex smile
+  - риски смайл коррекции
+  - разрыв лентикулы
+  - потеря вакуума smile
+  - джессика старр смайл
 categories: ["Осложнения", "Методы коррекции"]
 
 type: post

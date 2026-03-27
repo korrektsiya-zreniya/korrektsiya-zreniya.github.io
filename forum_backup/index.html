@@ -6,13 +6,13 @@
     <title>Форум - Коррекция Зрения</title>
     <link rel="stylesheet" href="/css/bundle.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="shortcut icon" href="/forum/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
     <style>
         /* Forum integration styles */
         body { background-color: #f5f5f5; font-family: 'Open Sans', sans-serif; }
         .forum-embedded-app {
             background: #fff;
-            min-height: 800px;
+            min-height: 600px;
         }
         .container--outer { margin-top: 0 !important; }
         /* Helper for the menu toggle */
@@ -37,15 +37,7 @@
         
         /* Sidebar board nav fix */
         .board-link.active { color: #e22d30 !important; font-weight: bold; }
-        
-        /* Full width for forum */
-        .main--forum {
-            width: 100% !important;
-            float: none !important;
-        }
     </style>
-  <script type="module" crossorigin src="/forum/assets/index-BB-jrVTL.js"></script>
-  <link rel="stylesheet" crossorigin href="/forum/assets/index-CJkyb2Yd.css">
 </head>
 <body class="body">
     <div class="container container--outer">
@@ -78,12 +70,22 @@
         </header>
 
         <div class="wrapper flex">
-            <div class="primary" style="width: 100%;">
-                <main class="main main--forum" role="main">
+            <div class="primary">
+                <main class="main" role="main">
                     <div id="app"></div>
                 </main>
             </div>
-            <!-- Sidebar removed per user request -->
+            
+            <aside class="sidebar">
+                <div class="widget-search widget">
+                    <form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+                        <input class="widget-search__field" type="search" placeholder="Поиск…" name="q" aria-label="Поиск…">
+                        <input class="widget-search__submit" type="submit" value="Search">
+                        <input type="hidden" name="sitesearch" value="https://korrektsiya-zreniya.net/">
+                    </form>
+                </div>
+                <!-- Svelte will mount widgets here if we want, but for now we keep Hugo's look -->
+            </aside>
         </div>
 
         <footer class="footer">
@@ -96,6 +98,7 @@
         </footer>
     </div>
 
+    <script type="module" src="/src/main.ts"></script>
     <script>
         // Menu toggle functionality
         (function(e) {

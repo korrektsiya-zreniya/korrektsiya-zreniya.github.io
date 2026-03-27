@@ -1,0 +1,125 @@
+/* Scoped Materialize-like styles for the forum integration */
+.forum-embedded-app {
+    --material-red: #D50000;
+    --material-grey: #212121;
+    --material-blue: #039BE5;
+    --material-border: #e0e0e0;
+}
+
+.forum-embedded-app .collection {
+    margin: 0.5rem 0 1rem 0;
+    border: 1px solid var(--material-border);
+    border-radius: 2px;
+    overflow: hidden;
+    position: relative;
+    padding: 0;
+    background-color: #fff;
+}
+
+.forum-embedded-app .collection .collection-item {
+    background-color: #fff;
+    line-height: 1.5rem;
+    padding: 10px 20px;
+    margin: 0;
+    border-bottom: 1px solid var(--material-border);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    transition: background-color 0.2s;
+}
+
+.forum-embedded-app .collection .collection-item:last-child {
+    border-bottom: none;
+}
+
+.forum-embedded-app .collection .collection-item.avatar {
+    min-height: 84px;
+    padding-left: 72px;
+    position: relative;
+}
+
+.forum-embedded-app .collection .collection-item.avatar i.circle {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    overflow: hidden;
+    left: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 42px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #999;
+}
+
+.forum-embedded-app .collection .collection-item:hover {
+    background-color: #ddd;
+}
+
+.forum-embedded-app .collection .collection-item.active {
+    background-color: var(--material-grey);
+    color: #fff;
+}
+
+.forum-embedded-app .collection .collection-item.active a {
+    color: #fff;
+}
+
+.forum-embedded-app a {
+    color: var(--material-blue);
+    text-decoration: none;
+}
+
+.forum-embedded-app a:hover {
+    text-decoration: underline;
+}
+
+.forum-embedded-app .badge {
+    min-width: 3rem;
+    padding: 0 6px;
+    margin-left: 14px;
+    text-align: center;
+    font-size: 0.8rem;
+    line-height: 22px;
+    height: 22px;
+    color: #757575;
+    float: right;
+    box-sizing: border-box;
+    background-color: #eee;
+    border-radius: 2px;
+}
+
+.forum-embedded-app .badge.new {
+    font-weight: 300;
+    font-size: 0.8rem;
+    color: #fff;
+    background-color: var(--material-grey);
+    border-radius: 2px;
+}
+
+.forum-embedded-app .forum-btn {
+    background-color: var(--material-red);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 500;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.forum-embedded-app .forum-btn:hover {
+    background-color: #b71c1c;
+}
+
+.forum-embedded-app .forum-title {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #424242;
+    margin: 1rem 0;
+}

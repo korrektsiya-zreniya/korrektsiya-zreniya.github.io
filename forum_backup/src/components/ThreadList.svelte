@@ -57,7 +57,7 @@
                         <a
                             class="thread-link"
                             on:click="{() => forumState.setSelectedThread(thread)}"
-                            href="#/{thread?.url}"
+                            href="/#/{thread?.url}"
                         >
                             {thread.title}
                         </a>

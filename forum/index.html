@@ -5,21 +5,43 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Форум - Коррекция Зрения</title>
     <link rel="stylesheet" href="/css/bundle.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="shortcut icon" href="/favicon.ico">
     <style>
-        /* Forum specific overrides to integrate with Mainroad */
-        body {
-            background-color: #f5f5f5;
-        }
-        .forum-app-container {
+        /* Forum integration styles */
+        body { background-color: #f5f5f5; font-family: 'Open Sans', sans-serif; }
+        .forum-embedded-app {
             background: #fff;
-            padding: 20px;
-            border-radius: 4px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            min-height: 800px;
         }
-        /* Fix for menu toggle in SPA */
-        .menu__list--active {
-            display: block !important;
+        .container--outer { margin-top: 0 !important; }
+        /* Helper for the menu toggle */
+        .menu__list--active { display: block !important; }
+        /* Materialize-like button fallback for Forum */
+        .forum-btn {
+            background-color: #e22d30;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 2px;
+            cursor: pointer;
+            text-transform: uppercase;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+        }
+        .forum-btn:hover { background-color: #c9282b; }
+        .forum-btn:disabled { background-color: #ccc; cursor: not-allowed; }
+        
+        /* Sidebar board nav fix */
+        .board-link.active { color: #e22d30 !important; font-weight: bold; }
+        
+        /* Full width for forum */
+        .main--forum {
+            width: 100% !important;
+            float: none !important;
         }
     </style>
 </head>
@@ -52,28 +74,18 @@
                 </nav>
             </div>
         </header>
+
         <div class="wrapper flex">
-            <div class="primary">
-                <main class="main" role="main">
+            <div class="primary" style="width: 100%;">
+                <main class="main main--forum" role="main">
                     <div id="app"></div>
                 </main>
             </div>
-            <aside class="sidebar">
-                <!-- We can inject sidebar widgets here if needed, or keep it empty for forum -->
-                <div class="widget-search widget">
-                    <form class="widget-search__form" role="search" method="get" action="https://google.com/search">
-                        <input class="widget-search__field" type="search" placeholder="Поиск…" name="q" aria-label="Поиск…">
-                        <input class="widget-search__submit" type="submit" value="Search">
-                        <input type="hidden" name="sitesearch" value="https://korrektsiya-zreniya.net/">
-                    </form>
-                </div>
-            </aside>
+            <!-- Sidebar removed per user request -->
         </div>
+
         <footer class="footer">
             <div class="container footer__container flex">
-                <div class="footer__links">
-                    <a class="footer__link" href="#"></a>
-                </div>
                 <div class="footer__copyright">
                     <a href="/soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda/">Независимый социальный проект «ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА»</a>
                     <p>Не является медицинской рекомендацией. Проконсультируйтесь с врачом.</p>
@@ -81,12 +93,20 @@
             </div>
         </footer>
     </div>
+
     <script type="module" src="/src/main.ts"></script>
     <script>
-        // Simple menu toggle for the SPA page
-        document.querySelector('.menu__btn').addEventListener('click', function() {
-            document.querySelector('.menu__list').classList.toggle('menu__list--active');
-        });
+        // Menu toggle functionality
+        (function(e) {
+            var s = "menu__list--",
+                t = e.querySelector(".menu__btn"),
+                n = e.querySelector("." + s.slice(0, -2));
+            t && n && (t.onclick = function() {
+                n.classList.toggle(s + "active"), n.classList.toggle(s + "transition"), t.classList.toggle("menu__btn--active"), t.setAttribute("aria-expanded", t.getAttribute("aria-expanded") != "true")
+            }, n.ontransitionend = function() {
+                n.classList.remove(s + "transition")
+            })
+        })(document);
     </script>
 </body>
 </html>

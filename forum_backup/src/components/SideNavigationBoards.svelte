@@ -13,7 +13,7 @@
             {#each boards as board}
                 <a
                     class="collection-item {setIsActive(board)}"
-                    href="#/{board.url}"
+                    href="/#/{board.url}"
                 >
                     {board.title}
                 </a>

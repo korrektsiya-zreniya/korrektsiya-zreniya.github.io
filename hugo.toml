@@ -119,6 +119,11 @@ url = "/otzyvy/"
 weight = 60
 
 [[menu.main]]
+name = "Форум"
+url = "/forum/"
+weight = 65
+
+[[menu.main]]
 name = "Судебные дела"
 url = "/sudebnye-dela/"
 weight = 70

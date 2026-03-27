@@ -1,0 +1,92 @@
+<!doctype html>
+<html class="no-js" lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Форум - Коррекция Зрения</title>
+    <link rel="stylesheet" href="/css/bundle.min.css">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <style>
+        /* Forum specific overrides to integrate with Mainroad */
+        body {
+            background-color: #f5f5f5;
+        }
+        .forum-app-container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        /* Fix for menu toggle in SPA */
+        .menu__list--active {
+            display: block !important;
+        }
+    </style>
+</head>
+<body class="body">
+    <div class="container container--outer">
+        <header class="header">
+            <div class="container header__container">
+                <div class="logo">
+                    <a class="logo__link" href="/" title="ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА" rel="home">
+                        <div class="logo__item logo__text">
+                            <div class="logo__title">ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА</div>
+                            <div class="logo__tagline">Независимый социальный проект</div>
+                        </div>
+                    </a>
+                </div>
+                <nav class="menu">
+                    <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+                        <span class="menu__btn-title" tabindex="-1">Меню</span>
+                    </button>
+                    <ul class="menu__list">
+                        <li class="menu__item"><a class="menu__link" href="/"><span class="menu__text">Главная</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/novosti/"><span class="menu__text">Новости</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/riski-i-posledstviya/"><span class="menu__text">Риски и последствия</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/pobochnye-effekty/"><span class="menu__text">Побочные эффекты</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/oslozhneniya/"><span class="menu__text">Осложнения</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/otzyvy/"><span class="menu__text">Отзывы</span></a></li>
+                        <li class="menu__item menu__item--active"><a class="menu__link" href="/forum/"><span class="menu__text">Форум</span></a></li>
+                        <li class="menu__item"><a class="menu__link" href="/sudebnye-dela/"><span class="menu__text">Судебные дела</span></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div class="wrapper flex">
+            <div class="primary">
+                <main class="main" role="main">
+                    <div id="app"></div>
+                </main>
+            </div>
+            <aside class="sidebar">
+                <!-- We can inject sidebar widgets here if needed, or keep it empty for forum -->
+                <div class="widget-search widget">
+                    <form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+                        <input class="widget-search__field" type="search" placeholder="Поиск…" name="q" aria-label="Поиск…">
+                        <input class="widget-search__submit" type="submit" value="Search">
+                        <input type="hidden" name="sitesearch" value="https://korrektsiya-zreniya.net/">
+                    </form>
+                </div>
+            </aside>
+        </div>
+        <footer class="footer">
+            <div class="container footer__container flex">
+                <div class="footer__links">
+                    <a class="footer__link" href="#"></a>
+                </div>
+                <div class="footer__copyright">
+                    <a href="/soczialnyj-proekt-lazernaya-korrekcziya-zreniya-vsya-pravda/">Независимый социальный проект «ЛАЗЕРНАЯ КОРРЕКЦИЯ ЗРЕНИЯ: ВСЯ ПРАВДА»</a>
+                    <p>Не является медицинской рекомендацией. Проконсультируйтесь с врачом.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+    <script>
+        // Simple menu toggle for the SPA page
+        document.querySelector('.menu__btn').addEventListener('click', function() {
+            document.querySelector('.menu__list').classList.toggle('menu__list--active');
+        });
+    </script>
+</body>
+</html>

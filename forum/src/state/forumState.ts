@@ -81,6 +81,35 @@ function createCustomStore() {
                     prevState.threads.concat(allThreads)
                 ),
             })),
+        addThreadLocally: (thread) =>
+            update((prevState) => ({
+                ...prevState,
+                threads: [thread, ...prevState.threads],
+                filteredThreads: filterThreads([thread, ...prevState.threads]),
+            })),
+        addCommentLocally: (comment) =>
+            update((prevState) => {
+                const newAllComments = [...prevState.allComments, comment];
+                // If the comment belongs to the currently selected thread, update it too
+                const newSelectedThread =
+                    prevState.selectedThread &&
+                    // @ts-ignore
+                    prevState.selectedThread.url === comment.threadURL
+                        ? {
+                              ...prevState.selectedThread,
+                              comments: [
+                                  ...(prevState.selectedThread.comments || []),
+                                  comment,
+                              ],
+                          }
+                        : prevState.selectedThread;
+
+                return {
+                    ...prevState,
+                    allComments: newAllComments,
+                    selectedThread: newSelectedThread,
+                };
+            }),
         reset: () => set(initialState),
     };
 }

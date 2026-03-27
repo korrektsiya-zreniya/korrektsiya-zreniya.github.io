@@ -39,8 +39,7 @@
 
         <ul class="collection">
             {#each $forumState?.selectedThread?.comments || [] as comment}
-                <li class="collection-item avatar hoverable">
-                    <i class="material-icons circle"></i>
+                <li class="collection-item hoverable">
                     <p>
                         {comment.user.displayName}
                         <small>{displayDate(comment.dateCreated)}</small>

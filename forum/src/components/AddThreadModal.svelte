@@ -1,6 +1,7 @@
 <script lang="ts">
     import { get } from "svelte/store";
     import { authState } from "@/state/authState";
+    import { forumState } from "@/state/forumState";
     import { strToURL } from "@/utils/dataUtils";
 
     export let listAllCategories = [];
@@ -8,6 +9,7 @@
     let showModal = false;
     let selectedCategory;
     let textInput = "";
+    let descriptionInput = "";
 
     const setCategory = (category) => {
         selectedCategory = category;
@@ -18,19 +20,47 @@
             const user = get(authState);
             if (!user?.user) return;
 
-            module.addThread({
+            const threadUrl = `${selectedCategory.url}/${strToURL(textInput)}`;
+
+            const threadData = {
                 board: selectedCategory.url,
                 title: textInput,
                 dateCreated: new Date(),
                 dateModified: new Date(),
-                url: `${selectedCategory.url}/${strToURL(textInput)}`,
+                url: threadUrl,
                 user: {
                     displayName: user.user.displayName,
                     uid: user.user.uid,
                 },
-            });
+            };
+
+            const firstPostData = {
+                board: selectedCategory.url,
+                text: descriptionInput,
+                threadURL: threadUrl,
+                dateCreated: new Date(),
+                dateModified: new Date(),
+                user: {
+                    displayName: user.user.displayName,
+                    uid: user.user.uid,
+                },
+            };
+
+            // 1. Instant local update
+            forumState.addThreadLocally(threadData);
+            forumState.addCommentLocally(firstPostData);
+
+            // 2. Redirect immediately for the best UX
+            window.location.hash = `#/thread/${threadUrl}`;
+
+            // Clean up UI
             showModal = false;
             textInput = "";
+            descriptionInput = "";
+
+            // 3. Background FireBase updates
+            module.addThread(threadData);
+            module.addComment(firstPostData);
         });
     };
 </script>
@@ -65,20 +95,31 @@
             </div>
 
             <div class="input-group">
-                <label for="thread-title">Название темы:</label>
+                <label for="thread-title">Заголовок темы:</label>
                 <input
                     type="text"
                     id="thread-title"
                     bind:value="{textInput}"
-                    placeholder="Введите название..."
+                    placeholder="Введите название темы..."
                 />
+            </div>
+
+            <div class="input-group">
+                <label for="thread-description">Текст сообщения:</label>
+                <textarea
+                    id="thread-description"
+                    bind:value="{descriptionInput}"
+                    placeholder="Опишите вашу тему подробнее..."
+                    rows="5"
+                    style="width: 100%; border-radius: 4px; border: 1px solid #ccc; padding: 0.5rem;"
+                ></textarea>
             </div>
 
             <div class="modal-actions">
                 <button class="btn" on:click="{() => showModal = false}">Отмена</button>
                 <button 
                     class="forum-btn" 
-                    disabled="{!textInput || !selectedCategory || !$authState?.user}"
+                    disabled="{!textInput || !descriptionInput || !selectedCategory || !$authState?.user}"
                     on:click="{handleAddThread}"
                 >
                     {$authState?.user ? "Создать" : "Войдите, чтобы создать"}

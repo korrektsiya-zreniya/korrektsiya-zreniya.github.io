@@ -1,6 +1,6 @@
 import { forumState } from "@/state/forumState";
 import { extractDataFromDocs } from "@/utils/dataUtils";
-import { addComment, addNewDocument, addThread } from "@/utils/forumHelpersAdd";
+import { addComment as fbAddComment, addNewDocument as fbAddNewDocument, addThread as fbAddThread } from "@/utils/forumHelpersAdd";
 import {
     collection,
     getDocs,
@@ -11,6 +11,18 @@ import {
 import { get } from "svelte/store";
 
 const globalFirestoreDB = getFirestore();
+
+function addThread(data, path = "") {
+    return fbAddThread(globalFirestoreDB, data, path);
+}
+
+function addComment(data, path = "") {
+    return fbAddComment(globalFirestoreDB, data, path);
+}
+
+function addNewDocument(collectionName, data, path = "") {
+    return fbAddNewDocument(globalFirestoreDB, collectionName, data, path);
+}
 
 async function getAllCollectionDocs(collectionName, orderByField = null) {
     let theQuery;

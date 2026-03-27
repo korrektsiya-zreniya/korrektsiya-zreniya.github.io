@@ -19,9 +19,10 @@
 
     onMount(() => {
         forumState.subscribe((response) => {
-            categories["general"] = filterBoard(response.boards, "General");
-            categories["support"] = filterBoard(response.boards, "Support");
-            categories["ideas"] = filterBoard(response.boards, "Ideas");
+            categories["main"] = filterBoard(response.boards, "Главное");
+            categories["methods"] = filterBoard(response.boards, "Методы коррекции");
+            categories["life"] = filterBoard(response.boards, "Жизнь после операции");
+            categories["legal"] = filterBoard(response.boards, "Юридическая помощь");
         });
 
         initRouter();
@@ -30,7 +31,7 @@
 </script>
 
 <div class="forum-embedded-app" transition:fade>
-    {#if !categories["general"]?.length}
+    {#if !categories["main"]?.length && !categories["methods"]?.length}
         <LoadingSpinner />
     {:else}
         <div class="main__content clearfix">

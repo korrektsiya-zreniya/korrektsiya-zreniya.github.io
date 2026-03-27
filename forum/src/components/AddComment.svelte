@@ -9,7 +9,7 @@
         import("@/utils/forumHelpers").then(async (module) => {
             const user = get(authState);
 
-            module.addComment({
+            const data = {
                 board: selectedThread.board,
                 text: textInput,
                 threadURL: selectedThread.url,
@@ -19,7 +19,16 @@
                     displayName: user.user.displayName,
                     uid: user.user.uid,
                 },
-            });
+            };
+
+            // Instant local update
+            forumState.addCommentLocally(data);
+            
+            // Clear input
+            textInput = "";
+
+            // Background FireBase update
+            module.addComment(data);
         });
     };
 </script>

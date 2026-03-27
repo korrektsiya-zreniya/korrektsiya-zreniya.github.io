@@ -8,10 +8,11 @@
     let listAllCategories = [];
 
     afterUpdate(() => {
-        if (categories["general"]?.length) {
-            listAllCategories = categories["general"]
-                .concat(categories["ideas"])
-                .concat(categories["support"]);
+        if (categories["main"]?.length) {
+            listAllCategories = categories["main"]
+                .concat(categories["methods"] || [])
+                .concat(categories["life"] || [])
+                .concat(categories["legal"] || []);
         }
     });
 </script>
@@ -19,7 +20,8 @@
 <aside>
     <AddThreadModal listAllCategories="{listAllCategories}" />
 
-    <SideNavigationBoards boards="{categories['general']}" />
-    <SideNavigationBoards boards="{categories['ideas']}" />
-    <SideNavigationBoards boards="{categories['support']}" />
+    <SideNavigationBoards boards="{categories['main']}" />
+    <SideNavigationBoards boards="{categories['methods']}" />
+    <SideNavigationBoards boards="{categories['life']}" />
+    <SideNavigationBoards boards="{categories['legal']}" />
 </aside>

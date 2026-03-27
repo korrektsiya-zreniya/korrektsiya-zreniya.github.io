@@ -3,18 +3,18 @@ service cloud.firestore {
   match /databases/{database}/documents {
 
     match /boards/{board} {
-      allow read: if true;
-      allow write: if request.auth != null;
+      allow get, list: if true;
+      allow create, update, delete: if request.auth != null;
     }
 
     match /threads/{thread} {
-      allow read: if true;
-      allow write: if request.auth != null;
+      allow get, list: if true;
+      allow create, update, delete: if request.auth != null;
     }
 
     match /comments/{comment} {
-      allow read: if true;
-      allow write: if request.auth != null;
+      allow get, list: if true;
+      allow create, update, delete: if request.auth != null;
     }
   }
 }

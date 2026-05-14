@@ -2,7 +2,7 @@
 title: "Ловушка ВВК для полиции и ФСБ: почему после ЛКЗ могут признать «не годным»"
 slug: "lovushka-vvk-mvd-fsb-posle-lkz"
 date: 2026-02-27T23:05:00+03:00
-draft: false
+draft: true
 tags:
   - riski
   - sudebnaya-praktika

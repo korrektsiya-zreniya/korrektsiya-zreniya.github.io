@@ -25,6 +25,8 @@ keywords:
 - **[Калькулятор противопоказаний](/protivopokazaniya-k-lazernoj-korrekcii-zreniya/)** — проверьте свои параметры (толщину роговицы, диоптрии) и узнайте, можно ли вам делать лазерную коррекцию.
 - **[Какой метод лазерной коррекции выбрать?](/kakoj-metod-lazernoj-korrekcii-vybrat/)** — сравните LASIK, SMILE и ФРК по безопасности для ваших глаз.
 - Разбор технологий: **[LASIK, FemtoLASIK, SMILE, SMILE PRO, ФРК](/oborudovanie/)**.
+- **[Где делают лазерную коррекцию?](/kliniki/)** — обзор клиник по городам России, их оборудование и реальные отзывы пациентов.
+- **[Лазерная коррекция по городам](/geografiya/)** — выберите город и узнайте, какие клиники в нём работают и что говорят пациенты.
 
 <center>
   <p style="color:#008000;font-size:20px;"><strong>ЖИЗНЬ ДО ЛАЗЕРНОЙ КОРРЕКЦИИ ЗРЕНИЯ</strong></p>
@@ -46,3 +48,16 @@ keywords:
 {{< include-page "homepage-sections/side-effects.md" >}}
 
 {{< include-page "homepage-sections/stories.md" >}}
+
+<br>
+
+<div style="display: flex; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+<a href="/kliniki/" style="flex: 1; min-width: 200px; padding: 20px; background: #f5f5f5; border-radius: 8px; text-decoration: none; color: inherit;">
+  <strong style="font-size: 1.2em; color: #e22d30;">🏥 Клиники</strong>
+  <p style="margin: 10px 0 0 0;">Обзор офтальмологических клиник по всей России: оборудование, методики и независимые отзывы пациентов.</p>
+</a>
+<a href="/geografiya/" style="flex: 1; min-width: 200px; padding: 20px; background: #f5f5f5; border-radius: 8px; text-decoration: none; color: inherit;">
+  <strong style="font-size: 1.2em; color: #e22d30;">📍 Города</strong>
+  <p style="margin: 10px 0 0 0;">Лазерная коррекция зрения по городам России: Москва, СПб, Казань, Новосибирск и ещё 60+ городов.</p>
+</a>
+</div>

@@ -4,6 +4,7 @@ date: 2026-03-07T12:50:00+02:00
 draft: false
 slug: "yourmed-otzyvy-lazernaya-korrekciya"
 description: "Технический обзор лазерной коррекции зрения в клинике YourMed. Оборудование (SMILE, CLEAR, FemtoLASIK) и особенности методов."
+city: "Москва"
 keywords:
   - клиника yourmed отзывы лазерная коррекция
   - юрмед операция на глаза отзывы

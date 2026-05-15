@@ -47,6 +47,14 @@ enableRobotsTXT = true
     sudebnye-dela = "/:slug/"
     oborudovanie = "/:slug/"
     kliniki = "/:slug/"
+    geografiya = "/geografiya/:slug/"
+    alternativy-lkz = "/alternativy-lkz/:slug/"
+    faq = "/faq/:slug/"
+    issledovaniya = "/issledovaniya/:slug/"
+    mify-o-lkz = "/mify-o-lkz/:slug/"
+    special = "/special/:slug/"
+    zamena-hrustalika = "/zamena-hrustalika/:slug/"
+    chto-delat-esli = "/chto-delat-esli/:slug/"
     
 [markup]
   [markup.goldmark.renderer]

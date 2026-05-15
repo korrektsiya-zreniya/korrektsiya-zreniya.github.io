@@ -4,6 +4,7 @@ date: 2026-03-07T12:30:00+02:00
 draft: false
 slug: "klinika-3z-otzyvy-lazernaya-korrekciya"
 description: "Технический обзор федеральной сети клиник 3Z. Оборудование (VisuMax 800, Amaris), методы коррекции зрения (SMILE Pro, Femto Super LASIK) и отзывы."
+city: "Москва"
 keywords:
   - клиника 3z отзывы лазерная коррекция
   - 3z офтальмология отзывы

@@ -55,6 +55,8 @@ enableRobotsTXT = true
     special = "/special/:slug/"
     zamena-hrustalika = "/zamena-hrustalika/:slug/"
     chto-delat-esli = "/chto-delat-esli/:slug/"
+    lazernaya-koagulyaciya = "/lazernaya-koagulyaciya/:slug/"
+    kakoj-metod-lazernoj-korrekcii-luchshe = "/kakoj-metod-lazernoj-korrekcii-luchshe/:slug/"
     
 [markup]
   [markup.goldmark.renderer]

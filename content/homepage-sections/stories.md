@@ -90,7 +90,7 @@ keywords:
 </center>
 <br>
 
-Прочитать книгу
+[Прочитать книгу](https://www.amazon.com/Unsightly-Truth-Laser-Vision-Correction/dp/B0DLY9TLSK)
 
 Книга «The Unsightly Truth of Laser Vision Correction» (2024) разоблачает правду о LASIK и других видах лазерной коррекции. Её автор — доктор Моррис Уэкслер, бывший руководитель LASIK-программы в FDA, который признал свою ошибку: он голосовал за одобрение LASIK, а теперь требует запрета этой процедуры.
 

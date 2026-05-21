@@ -15,6 +15,7 @@ tags:
   - kakoj-metod-luchshe
   - kliniki
   - marketing
+thumbnail: "/v-chem-raznica-korrekcii-zreniya-za-50-i-100-tysyach/cena-50-100.webp"
 type: post
 ---
 

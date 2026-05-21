@@ -15,6 +15,7 @@ tags:
   - pobochnye-effekty
   - riski
   - otzyvy
+thumbnail: "/suhost-glaz-posle-lazernoj-korrekcii-eto-navsegda/suhost-glaz-realnye-istorii.webp"
 type: post
 ---
 

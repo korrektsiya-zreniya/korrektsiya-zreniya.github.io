@@ -289,9 +289,7 @@ h3, h4, h5, h6,
 }
 
 /* Full-width pagination — breaks out of .wrapper container */
-.list .pagination,
-.taxonomy .pagination,
-.term .pagination {
+.pagination {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
@@ -303,9 +301,7 @@ h3, h4, h5, h6,
   box-sizing: border-box;
 }
 
-.list .pagination .pagination__item,
-.taxonomy .pagination .pagination__item,
-.term .pagination .pagination__item {
+.pagination .pagination__item {
   min-width: 42px;
   height: 42px;
   display: flex;
@@ -317,9 +313,7 @@ h3, h4, h5, h6,
   border-radius: 4px;
 }
 
-.list .pagination .pagination__item--current,
-.taxonomy .pagination .pagination__item--current,
-.term .pagination .pagination__item--current {
+.pagination .pagination__item--current {
   background: #2a7ae2;
   color: #fff;
   font-weight: 700;

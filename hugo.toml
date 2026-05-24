@@ -7,6 +7,11 @@ enableGitInfo = false
 theme = "mainroad"
 enableRobotsTXT = true
 
+[module]
+  [[module.mounts]]
+    source = "lasikcomplications"
+    target = "static/lasik"
+
 [minify]
   minifyOutput = true
 

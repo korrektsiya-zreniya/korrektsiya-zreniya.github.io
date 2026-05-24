@@ -15,7 +15,6 @@ keywords:
 tags:
   - sudebnye-dela
   - statistika
-"/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
 type: post
 ---
 

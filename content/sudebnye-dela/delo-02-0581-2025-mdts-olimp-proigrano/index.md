@@ -15,7 +15,6 @@ tags:
   - proigrano
   - lasik
   - moskva
-"/delo-02-0581-2025-mdts-olimp-proigrano/delo-olimp.webp"
 type: post
 ---
 

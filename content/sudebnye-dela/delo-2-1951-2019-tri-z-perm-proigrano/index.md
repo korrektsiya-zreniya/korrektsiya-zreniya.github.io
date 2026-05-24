@@ -10,7 +10,6 @@ keywords:
   - иск к глазной клинике отклонён
 tags:
   - sudebnye-dela
-"/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
 type: post
 ---
 

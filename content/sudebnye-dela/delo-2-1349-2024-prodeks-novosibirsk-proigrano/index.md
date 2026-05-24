@@ -10,7 +10,6 @@ keywords:
   - физиотерапевтический аппарат для глаз мошенничество
 tags:
   - sudebnye-dela
-"/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
 type: post
 ---
 

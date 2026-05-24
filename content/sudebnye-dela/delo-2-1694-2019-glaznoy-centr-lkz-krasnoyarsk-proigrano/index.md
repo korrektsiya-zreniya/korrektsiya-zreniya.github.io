@@ -10,7 +10,6 @@ keywords:
   - проигранный суд лазерная коррекция
 tags:
   - sudebnye-dela
-"/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
 type: post
 ---
 

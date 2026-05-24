@@ -288,11 +288,12 @@ h3, h4, h5, h6,
   }
 }
 
-/* Full-width pagination — breaks out of .wrapper container */
+/* Full-width pagination — centered via transform, works in any container */
 .pagination {
   width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
   padding: 1.5rem 2rem;
   background: #f4f4f4;
   justify-content: center !important;

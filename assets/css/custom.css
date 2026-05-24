@@ -287,3 +287,41 @@ h3, h4, h5, h6,
     /* Prevent images from being excessively tall on mobile */
   }
 }
+
+/* Full-width pagination — breaks out of .wrapper container */
+.list .pagination,
+.taxonomy .pagination,
+.term .pagination {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding: 1.5rem 2rem;
+  background: #f4f4f4;
+  justify-content: center !important;
+  flex-wrap: wrap;
+  gap: 4px;
+  box-sizing: border-box;
+}
+
+.list .pagination .pagination__item,
+.taxonomy .pagination .pagination__item,
+.term .pagination .pagination__item {
+  min-width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+  margin: 2px;
+  border-radius: 4px;
+}
+
+.list .pagination .pagination__item--current,
+.taxonomy .pagination .pagination__item--current,
+.term .pagination .pagination__item--current {
+  background: #2a7ae2;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 4px;
+}

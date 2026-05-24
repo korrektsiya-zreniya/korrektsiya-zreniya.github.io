@@ -44,7 +44,6 @@ enableRobotsTXT = true
     pobochnye-effekty = "/:slug/"
     oslozhneniya = "/:slug/"
     otzyvy = "/:slug/"
-    sudebnye-dela = "/:slug/"
     oborudovanie = "/:slug/"
     kliniki = "/:slug/"
     geografiya = "/geografiya/:slug/"

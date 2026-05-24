@@ -10,7 +10,7 @@ keywords:
   - ГКБ Граля Пермь иск
 tags:
   - sudebnye-dela
-thumbnail: "/sudebnye-dela/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
+thumbnail: "/statistika-sudebnyh-del-lazernaya-korrekciya-zreniya/sud-statistika.webp"
 type: post
 ---
 

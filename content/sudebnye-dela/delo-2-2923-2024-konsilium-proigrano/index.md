@@ -14,7 +14,7 @@ tags:
   - proigrano
   - lasik
   - podmoskovye
-thumbnail: "/delo-2-2923-2024-konsilium-proigrano/delo-konsilium.webp"
+"/delo-2-2923-2024-konsilium-proigrano/delo-konsilium.webp"
 type: post
 ---
 

@@ -14,7 +14,7 @@ tags:
   - proigrano
   - hrustalik
   - ulyanovsk
-thumbnail: "/delo-2-1221-2025-glazcentr-proigrano/delo-glazcentr.webp"
+"/delo-2-1221-2025-glazcentr-proigrano/delo-glazcentr.webp"
 type: post
 ---
 

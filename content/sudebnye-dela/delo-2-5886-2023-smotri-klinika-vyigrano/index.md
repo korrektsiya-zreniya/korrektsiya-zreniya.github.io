@@ -17,7 +17,7 @@ tags:
   - vyigrano
   - smotri-klinika
   - kazan
-thumbnail: "/delo-2-5886-2023-smotri-klinika-vyigrano/delo-smotri.webp"
+"/delo-2-5886-2023-smotri-klinika-vyigrano/delo-smotri.webp"
 type: post
 ---
 

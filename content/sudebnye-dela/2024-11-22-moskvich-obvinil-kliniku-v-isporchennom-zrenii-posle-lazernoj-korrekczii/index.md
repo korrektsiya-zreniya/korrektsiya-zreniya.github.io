@@ -1,6 +1,7 @@
 ---
 title: Москвич обвинил клинику в испорченном зрении после лазерной коррекции
 slug: moskvich-obvinil-kliniku-v-isporchennom-zrenii-posle-lazernoj-korrekczii
+weight: -50
 date: 2024-11-22
 
 type: post

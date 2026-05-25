@@ -3,6 +3,7 @@ title: 5 000 000 рублей просит взыскать орчанка с м
 slug: pyat-millionov-rublej-prosit-vzyskat-orchanka-za-neudachnuyu-operacziyu-korrekczii-zreniya
 aliases:
   - /pyat-millionov-rublej-prosit-vzyskat-orchanka-s-mediczinskoj-organizaczii-za-neudachnuyu-operacziyu-korrekczii-zreniya/
+weight: -45
 date: 2025-02-10
 
 type: post

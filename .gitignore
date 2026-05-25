@@ -17,3 +17,4 @@ scripts/scan_missing_seo.py
 analyze_queries.js
 generate_lf_plan.js
 /.kilo
+static/lasik/

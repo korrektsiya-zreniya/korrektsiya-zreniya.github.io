@@ -43,6 +43,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+      - name: Copy lasikcomplications to static/lasik
+        run: cp -r lasikcomplications static/lasik
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

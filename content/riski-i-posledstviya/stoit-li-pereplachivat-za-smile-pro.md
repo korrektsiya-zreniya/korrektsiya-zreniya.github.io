@@ -1,6 +1,6 @@
 ---
 title: "SMILE PRO — почему не стоит переплачивать: честный разбор"
-slug: "smile-pro-pochemu-ne-stoit-pereplachivat"
+slug: "stoit-li-pereplachivat-za-smile-pro"
 description: "Стоит ли переплачивать за SMILE PRO. Разница с обычным SMILE минимальна — 15 секунд быстрее и центрифуга. Осложнения те же: ССГ, гало, двоение. Цена на 50 тысяч выше."
 date: 2026-05-23T20:00:00+03:00
 draft: false

@@ -5,6 +5,9 @@
 <meta name="apple-mobile-web-app-title" content="MyWebSite" />
 <link rel="manifest" href="/site.webmanifest" />
 
+{{ $chatCSS := resources.Get "css/chat-related.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $chatCSS.RelPermalink }}">
+
 {{ if .IsPage }}
 <script type="application/ld+json">
 {

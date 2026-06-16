@@ -1,0 +1,92 @@
+{
+  "ssg": {
+    "title": "Синдром сухого глаза",
+    "urls": [
+      {"title": "Синдром сухого глаза после LASIK", "url": "/riski-i-posledstviya/sindrom-suhogo-glaza-posle-lasik/"},
+      {"title": "Синдром сухого глаза — главное последствие", "url": "/riski-i-posledstviya/sindrom-suhogo-glaza-glavnoe-posledstvie/"},
+      {"title": "Капли после лазерной коррекции", "url": "/oslozhneniya/kapli-posle-lazernoj-korrekcii/"}
+    ]
+  },
+  "galo": {
+    "title": "Гало и оптические искажения",
+    "urls": [
+      {"title": "Гало, старберсты и глэары после LASIK", "url": "/oslozhneniya/galoing-starburst-glare-posledstviya-lasik/"},
+      {"title": "Как видят фонари после ЛКЗ — фото эффектов", "url": "/riski-i-posledstviya/kak-vidyat-fonari-posle-lkz-foto-effektov/"},
+      {"title": "Ночное зрение после лазерной коррекции", "url": "/riski-i-posledstviya/nochnoe-zrenie-posle-lazernoj-korrekcii/"}
+    ]
+  },
+  "flap-oslozhneniya": {
+    "title": "Осложнения лоскута",
+    "urls": [
+      {"title": "Складки лоскута — месяц чтобы спасти зрение", "url": "/riski-i-posledstviya/skladki-loskuta-mesyac-ili-navsegda/"},
+      {"title": "Как люди теряли зрение потерев глаз", "url": "/riski-i-posledstviya/poter-glaz-posle-lazernoy-korrekcii-flap-smile/"},
+      {"title": "Осложнения лоскута при LASIK", "url": "/riski-i-posledstviya/loskut-lasik-oslozhneniya/"},
+      {"title": "Складки флэпа и кэпа — причины и лечение", "url": "/oslozhneniya/skladki-flepa-mikrostrii-lasik-smile/"}
+    ]
+  },
+  "smile": {
+    "title": "Метод SMILE",
+    "urls": [
+      {"title": "SMILE или SMILE Pro — чем опасны оба метода", "url": "/otzyvy/smile-ili-smile-pro/"},
+      {"title": "Стоит ли переплачивать за SMILE PRO", "url": "/riski-i-posledstviya/smile-pro-razvod-ili-net/"},
+      {"title": "Можно ли спать на боку после SMILE PRO", "url": "/riski-i-posledstviya/mozhno-li-spat-na-boku-posle-smile-pro/"}
+    ]
+  },
+  "lasik": {
+    "title": "Метод LASIK",
+    "urls": [
+      {"title": "Спорт после LASIK — почему удар это риск потери лоскута", "url": "/riski-i-posledstviya/sport-posle-lasik-riski/"},
+      {"title": "Осложнения лоскута при LASIK", "url": "/riski-i-posledstviya/loskut-lasik-oslozhneniya/"},
+      {"title": "Какой метод лазерной коррекции лучше", "url": "/kakoj-metod-lazernoj-korrekcii-luchshe/"}
+    ]
+  },
+  "frk": {
+    "title": "Метод ФРК",
+    "urls": [
+      {"title": "Какой метод лазерной коррекции лучше", "url": "/kakoj-metod-lazernoj-korrekcii-luchshe/"},
+      {"title": "Тонкая роговица — выбор метода", "url": "/kakoj-metod-lazernoj-korrekcii-luchshe/tonkaya-rogovica-vybor-metoda/"}
+    ]
+  },
+  "dokorrekciya": {
+    "title": "Докоррекция",
+    "urls": [
+      {"title": "Можно ли делать докоррекцию после ЛКЗ", "url": "/riski-i-posledstviya/dokorrekciya-posle-lkz/"},
+      {"title": "Докоррекция после ЛКЗ — обсуждение рисков", "url": "/otzyvy/dokorrekciya-posle-lkz-obsuzhdenie-riskov/"}
+    ]
+  },
+  "keratokonus": {
+    "title": "Кератоконус",
+    "urls": [
+      {"title": "Кератоконус после лазерной коррекции", "url": "/riski-i-posledstviya/keratokonus-posle-lazernoy-korrekcii/"},
+      {"title": "Тонкая роговица — выбор метода", "url": "/kakoj-metod-lazernoj-korrekcii-luchshe/tonkaya-rogovica-vybor-metoda/"}
+    ]
+  },
+  "sudebnye-dela": {
+    "title": "Судебные дела",
+    "urls": [
+      {"title": "Судебные дела по лазерной коррекции", "url": "/sudebnye-dela/"},
+      {"title": "Дело Консилиум — проиграно", "url": "/sudebnye-dela/delo-2-2923-2024-konsilium-proigrano/"}
+    ]
+  },
+  "psihologiya": {
+    "title": "Психологические последствия",
+    "urls": [
+      {"title": "Психологические последствия ЛКЗ", "url": "/riski-i-posledstviya/psihologicheskie-posledstviya-lkz/"},
+      {"title": "Депрессия после лазерной коррекции", "url": "/riski-i-posledstviya/depressiya-posle-lazernoj-korrekcii/"}
+    ]
+  },
+  "dvoenie": {
+    "title": "Двоение в глазах",
+    "urls": [
+      {"title": "Гало, старберсты и глэары после LASIK", "url": "/oslozhneniya/galoing-starburst-glare-posledstviya-lasik/"},
+      {"title": "Как видят фонари после ЛКЗ — фото эффектов", "url": "/riski-i-posledstviya/kak-vidyat-fonari-posle-lkz-foto-effektov/"}
+    ]
+  },
+  "epiteliopatiya": {
+    "title": "Эпителиопатия",
+    "urls": [
+      {"title": "Осложнения лоскута при LASIK", "url": "/riski-i-posledstviya/loskut-lasik-oslozhneniya/"},
+      {"title": "Синдром сухого глаза после LASIK", "url": "/riski-i-posledstviya/sindrom-suhogo-glaza-posle-lasik/"}
+    ]
+  }
+}

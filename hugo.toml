@@ -6,6 +6,7 @@ defaultContentLanguage = "ru"
 enableGitInfo = false
 theme = "mainroad"
 enableRobotsTXT = true
+buildFuture = true
 
 [minify]
   minifyOutput = true
@@ -69,7 +70,8 @@ enableRobotsTXT = true
   description = "Скрытые риски и побочные эффекты. Реальные отзывы и осложнения спустя много лет. Офтальмологи против - от лазерной коррекции можно ослепнуть. Почему не стоит делать операцию на глаза. Вся правда о лазерной коррекции зрения."
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  mainSections = []
+  twitter_cards = true
+  mainSections = ["riski-i-posledstviya", "oslozhneniya", "kliniki", "otzyvy", "novosti", "sudebnye-dela", "faq", "pobochnye-effekty", "oborudovanie", "mify-o-lkz", "pravo", "chat"]
   # customCSS removed - now bundled via Hugo asset pipeline in baseof.html
   post_meta = ["date"] 
   dateformat = "02.01.2006" # Change the format of dates
@@ -101,7 +103,7 @@ enableRobotsTXT = true
 
 [Params.widgets.social]
   cached = true # activate cache if true
-  twitter = "username"
+
   telegram = "lasik_chat"
 
 
